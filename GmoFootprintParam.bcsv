@@ -1,0 +1,15 @@
+Effect*,Sound*,UniqueID,Name
+None,None,20,なし
+Circle,Socks,21,靴：くつした
+Circle,Soft,22,靴：やわらかい
+Circle,Hard,23,靴：かたい
+Circle,Naked,26,素体足：人
+Pad,Socks,27,素体足：肉球
+Circle,Socks,28,素体足：まる
+Oval,Socks,29,素体足：長まる
+ThinOval,Socks,30,素体足：細長まる
+Bird,Bird,31,素体足：トリ
+Bird2,Socks,32,素体足：トリ太
+Hoof,Socks,33,素体足：ヒヅメ
+Circle,Geta,37,靴：下駄
+Pumps,Pumps,38,靴：パンプス

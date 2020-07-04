@@ -1,0 +1,7 @@
+RegionEventCountry1*,SortID,af2602cd u16,92462b7d u16,2066f76d u16,1d06dedd u16,UniqueID,EventLabel,ItemFrom
+EachCountry,1F5,0,0,0,0,1,MothersDay,MotherDay
+EachCountry,258,0,0,0,0,2,WorldChild,WoldChildDay
+EachCountry,259,0,0,0,0,3,FathersDay,FatherDay
+Northern,262,0,0,0,0,4,SummerSolstice,SummerSolstice
+Southern,263,0,0,0,0,16,WinterSolstice,WinterSolstice_Southern
+Japan,2BC,0,0,0,0,5,Tanabata,StarFestival

@@ -1,0 +1,14 @@
+DemoDistance,a9c1118b string,RoofMaterial,UniqueID,FlowFileName,NearCulling,ResourceName
+0,None,0,0,,0,
+41300000,BulletinBoard,0,1,Obj_BulletinBoard,1,EvtobjBbs
+0,StreetLamp,0,2,,1,EvtobjLamp
+41900000,InsectTent,5,3,Obj_InsectFesBOX,0,EvtobjInsectTent
+41900000,FishTent,5,4,Obj_FishFesBOX,0,EvtobjFishTent
+0,CountdownStall,5,5,,0,EvtobjCountdownStall
+41300000,BulletinBoard,0,8,Obj_BulletinBoard,1,EvtobjBbsWood
+41700000,CountdownBoard,0,10,,0,EvtobjCountdownBoard
+41700000,None,0,11,,0,EvtobjKotono
+41700000,None,5,12,,0,EvtobjStallSkk
+41700000,None,5,13,,0,EvtobjStallHgh
+41700000,Campfire,0,14,,0,EvtobjCampfire
+41700000,Wind,5,17,,0,EvtobjRazyStall

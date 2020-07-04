@@ -1,0 +1,20 @@
+ItemPlacementKind*,TourType*,FishPattern,InsectPattern,MustItem0,MustItem1,MysteryTourFieldUniqueID,MysteryTourItemUniqueID,UniqueID,7215b154 string32,88bd09c2 string32,4e5cd9f3 string32,8f2f4bf9 string32,b3d1d54 string32,SelectWeight,StatusPattern
+Normal,Normal,-1,-1,-2,-2,1,1,0,,,,,,0,0
+Normal,Normal,-1,-1,-2,-2,2,2,1,,,,,,0,0
+Normal,Normal,-1,-1,-2,-2,3,3,2,,,,,,0,0
+Normal,Normal,-1,-1,-2,-2,4,4,4,,,,,,0,0
+StoneMaterial,Normal,-1,-1,2615,-2,5,5,6,,,,DocMysterytourExplain1st,,80,0
+StoneCoin,Normal,-1,-1,4703,-2,6,6,7,BuiltTownOffice,,,DocMysterytourExplain1st,,50,0
+Bamboo,Normal,-1,-1,-2,-2,7,7,8,,,,DocMysterytourExplain1st,,100,0
+TreeSisterFruit,Normal,-1,-1,-2,-2,9,9,10,,,,DocMysterytourExplain1st,,100,0
+StoneCoin,Normal,-1,1,-2,-2,11,11,12,BuiltTownOffice,VisitMysteryTourID12,VisitMysteryTourID12,DocMysterytourExplain1st,EnableGotoRareMysteryTour,10,0
+StoneMaterial,Normal,-1,2,-2,-2,12,12,13,,VisitMysteryTourID13,VisitMysteryTourID13,DocMysterytourExplain1st,EnableGotoRareMysteryTour,20,0
+TreeSisterFruit,Normal,-1,9,2615,-2,16,15,14,BuiltTownOffice,VisitMysteryTourID14,VisitMysteryTourID14,DocMysterytourExplain1st,EnableGotoRareMysteryTour,15,0
+Normal,Normal,-1,9,-2,-2,7,7,17,,VisitMysteryTourID17,VisitMysteryTourID17,DocMysterytourExplain1st,EnableGotoRareMysteryTour,10,0
+Normal,Normal,-1,5,-2,-2,17,16,18,,,,DocMysterytourExplain1st,,80,0
+Normal,Normal,1,-1,4703,-2,18,17,19,,VisitMysteryTourID19,VisitMysteryTourID19,DocMysterytourExplain1st,EnableGotoRareMysteryTour,30,0
+Normal,Normal,3,5,2615,-2,19,18,20,,VisitMysteryTourID20,VisitMysteryTourID20,DocMysterytourExplain1st,EnableGotoRareMysteryTour,10,0
+Normal,Normal,2,-1,4703,2615,0,0,21,BuiltTownOffice,VisitMysteryTourID21,VisitMysteryTourID21,DocMysterytourExplain1st,EnableGotoRareMysteryTour,5,0
+Normal,Normal,-1,-1,2615,-2,22,21,23,,,,DocMysterytourExplain1st,,100,0
+StoneGold,Normal,-1,1,4703,2615,23,22,24,BuiltTownOffice,VisitMysteryTourID24,VisitMysteryTourID24,DocMysterytourExplain1st,EnableGotoRareMysteryTour,3,0
+Normal,MayDay,-1,-1,-2,-2,25,25,27,,,,,,0,3
