@@ -1,10 +1,10 @@
-a54f92fd string,e2efe82d string,5ef86f1f string,195815cf string,bea84522 string,Hobby*,NpcLooks*,Social*,VmPauseType*,VmRhythmType*,AccentWall,BromideItemID,FloorType,PosterItemID,RainHat,RainWare,SmartphoneRemakeCommonPattern,SmartphoneRemakePattern,Tops,Umbrella,UniqueID,WallType,BirthMDay,BirthMonth,Color1,Color2,HavokResName,HelperBoneResName,InitLive,566f1d31 u8,Label,NpcColor,NpcTalkType,ResName,SpecialELink,SpecialSLink,21c5bbd6 u8,e52f0037 u8,42f255d5 string
+a54f92fd u32,e2efe82d u32,5ef86f1f u32,195815cf u32,bea84522 string,Hobby*,NpcLooks*,Social*,VmPauseType*,VmRhythmType*,AccentWall,BromideItemID,FloorType,PosterItemID,RainHat,RainWare,SmartphoneRemakeCommonPattern,SmartphoneRemakePattern,Tops,Umbrella,UniqueID,WallType,BirthMDay,BirthMonth,Color1,Color2,HavokResName,HelperBoneResName,InitLive,566f1d31 u8,Label,NpcColor,NpcTalkType,ResName,SpecialELink,SpecialSLink,21c5bbd6 u8,e52f0037 u8,42f255d5 u32
 9,9,3,5,Normal,Education,Boy_pride,Low,Stop,Normal,0,6426,54,10323,9573,8294,95,3,4249,7178,1,164,9,3,7,8,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant00,63,1,NpcNmlAnt00,0,0,5,1,4
 9,9,1,1,Normal,Fitness,Boy_active,High,Stop,Normal,0,6537,0,10795,9571,3170,21,5,8200,9959,2,0,20,10,5,4,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,1,ant01,78,1,NpcNmlAnt01,0,0,5,1,4
 9,9,6,3,Prefer,Fashion,Girl_active,High,Stop,Normal,0,6648,0,10420,5258,11925,139,6,7920,6904,3,0,9,11,0,3,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant02,66,1,NpcNmlAnt02,0,0,5,1,4
 9,9,4,1,Normal,Fashion,Girl_active,High,Stop,Normal,0,6743,0,10800,5258,11924,0,2,8190,7175,4,0,16,2,6,4,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant03,84,1,NpcNmlAnt03,0,0,5,1,4
 9,9,1,1,Prefer,Education,Girl_pride,Low,Tie,Normal,0,6754,54,10815,9575,11923,85,0,8201,7177,5,0,24,10,6,7,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant06,74,0,NpcNmlAnt06,0,0,5,1,4
-A,9,6,2,Prefer,Nature,Girl_normal,Normal,Stop,Normal,0,6765,54,10824,11043,8292,69,1,3572,9945,6,0,6,2,1,2,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant08,73,0,NpcNmlAnt08,0,0,5,1,3
+10,9,6,2,Prefer,Nature,Girl_normal,Normal,Stop,Normal,0,6765,54,10824,11043,8292,69,1,3572,9945,6,0,6,2,1,2,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant08,73,0,NpcNmlAnt08,0,0,5,1,3
 9,9,6,2,Prefer,Education,Boy_snobby,Normal,Stop,Shuffle,0,6776,0,10801,11038,8292,193,1,3613,7173,7,0,19,5,1,10,NpcNmlClothAnt,NpcNmlHelperBoneAnt,1,0,ant09,84,0,NpcNmlAnt09,0,0,3,1,2
 9,9,1,1,Normal,Fitness,Boy_active,High,Stop,Normal,0,6787,0,10775,11043,3170,48,0,5262,6925,8,0,26,9,7,0,NpcNmlClothBea,NpcNmlHelperBoneBea,1,3,,84,1,NpcNmlBea00,0,0,5,1,2
 9,9,4,1,Normal,Fashion,Girl_active,High,Stop,Normal,0,6798,0,10798,11044,8292,69,1,3248,7171,9,0,9,9,1,2,NpcNmlClothBea,NpcNmlHelperBoneBea,1,0,,78,1,NpcNmlBea01,0,0,4,1,4
@@ -48,7 +48,7 @@ A,9,6,2,Prefer,Nature,Girl_normal,Normal,Stop,Normal,0,6765,54,10824,11043,8292,
 9,9,1,1,Normal,Play,Boy_normal,Normal,Stop,Normal,0,6751,0,10819,7394,3170,166,6,8967,6925,47,0,11,4,4,5,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat06,73,1,NpcNmlCat06,0,0,5,1,4
 9,9,3,6,Normal,Fashion,Girl_pride,Normal,Tie,Normal,0,6752,0,10802,9571,8289,87,5,2781,6906,48,0,29,5,11,4,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat07,73,1,NpcNmlCat07,0,0,4,1,4
 9,9,5,1,Normal,Play,Boy_normal,Normal,Stop,Normal,0,6753,0,10791,9573,8294,49,3,7975,6910,49,0,12,1,10,11,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat08,106,1,NpcNmlCat08,0,0,5,1,4
-A,9,1,1,Prefer,Music,Boy_pride,Low,Stop,Normal,0,6755,54,10817,5143,8293,97,3,6024,7178,50,0,29,11,3,1,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat09,73,1,NpcNmlCat09,0,0,5,1,5
+10,9,1,1,Prefer,Music,Boy_pride,Low,Stop,Normal,0,6755,54,10817,5143,8293,97,3,6024,7178,50,0,29,11,3,1,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat09,73,1,NpcNmlCat09,0,0,5,1,5
 9,9,5,1,Avoid,Fitness,Boy_active,High,Stop,Normal,0,6756,0,10779,9572,8292,-1,1,6888,7165,51,0,1,8,1,1,NpcNmlClothCat,NpcNmlHelperBoneCat,1,2,cat10,87,1,NpcNmlCat10,0,0,5,1,5
 9,9,2,6,Prefer,Fashion,Girl_pride,Normal,Stop,Shuffle,0,6757,0,10820,11039,8290,59,7,7887,7183,52,0,30,9,3,2,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat11,78,1,NpcNmlCat11,0,0,3,1,3
 9,9,5,3,Normal,Music,Girl_active,High,Stop,Normal,0,6758,0,10441,11042,8294,162,3,4559,6911,53,0,13,8,10,11,NpcNmlClothCat,NpcNmlHelperBoneCat,1,0,cat12,84,1,NpcNmlCat12,0,0,5,1,4
@@ -118,7 +118,7 @@ A,9,1,1,Prefer,Music,Boy_pride,Low,Stop,Normal,0,6755,54,10817,5143,8293,97,3,60
 9,9,1,4,Normal,Play,Girl_active,High,Tie,Normal,0,6446,0,10619,11039,8290,141,1,8378,9953,117,0,11,1,3,2,NpcNmlClothDog,NpcNmlHelperBoneDog,1,0,dog09,70,0,NpcNmlDog09,0,0,4,1,4
 9,9,1,3,Normal,Nature,Girl_normal,Normal,Stop,Normal,0,6447,0,10632,9569,8288,17,7,7784,9952,118,0,15,10,5,6,NpcNmlClothDog,NpcNmlHelperBoneDog,1,0,dog10,97,0,NpcNmlDog10,0,0,5,1,3
 9,9,5,3,Normal,Fitness,Boy_active,High,Stop,Shuffle,0,6448,0,10463,9572,8292,9,1,2674,6923,119,0,11,11,1,10,NpcNmlClothDog,NpcNmlHelperBoneDog,1,3,dog14,70,1,NpcNmlDog14,0,0,3,1,3
-A,9,1,3,Normal,Play,Boy_normal,Normal,Stop,Normal,0,6450,54,10419,5143,8289,82,7,4407,7178,120,0,31,12,6,4,NpcNmlClothDog,NpcNmlHelperBoneDog,1,0,dog15,73,1,NpcNmlDog15,0,0,5,1,4
+10,9,1,3,Normal,Play,Boy_normal,Normal,Stop,Normal,0,6450,54,10419,5143,8289,82,7,4407,7178,120,0,31,12,6,4,NpcNmlClothDog,NpcNmlHelperBoneDog,1,0,dog15,73,1,NpcNmlDog15,0,0,5,1,4
 9,9,1,1,Normal,Nature,Boy_normal,Normal,Stop,Shuffle,0,6451,0,10695,5143,8288,94,1,4145,7177,121,0,3,8,1,12,NpcNmlClothDog,NpcNmlHelperBoneDog,1,0,dog16,90,0,NpcNmlDog16,0,0,4,1,2
 9,9,3,6,Normal,Music,Girl_big_sis,High,Stop,Shuffle,0,6452,0,10689,11038,8292,38,3,8207,7173,122,0,11,5,10,3,NpcNmlClothDog,NpcNmlHelperBoneDog,1,2,dog17,96,0,NpcNmlDog17,0,0,3,1,3
 9,9,1,3,Normal,Education,Boy_snobby,Normal,Stop,Shuffle,0,6453,0,10538,11041,8289,18,4,3227,7166,123,0,24,11,5,4,NpcNmlClothDog,NpcNmlHelperBoneDog,1,0,dog18,83,0,NpcNmlDog18,0,0,3,1,2
@@ -154,7 +154,7 @@ A,9,1,3,Normal,Play,Boy_normal,Normal,Stop,Normal,0,6450,54,10419,5143,8289,82,7
 9,9,5,1,Normal,Fitness,Boy_active,High,Stop,Normal,0,6486,0,10598,11038,8289,166,6,4275,7169,153,0,8,2,4,13,NpcNmlClothFlg,,1,5,flg02,98,1,NpcNmlFlg02,0,0,5,1,4
 9,9,3,5,Prefer,Music,Boy_pride,Low,Stop,Shuffle,0,6487,0,10412,9573,8294,194,3,6835,7165,154,0,5,6,4,12,NpcNmlClothFlg,,1,0,flg03,85,1,NpcNmlFlg03,0,0,3,1,2
 9,9,1,5,Normal,Fitness,Boy_active,High,Tie,Normal,0,6488,0,10417,9569,8288,10,6,3323,6840,155,0,9,10,0,1,NpcNmlClothFlg,,1,2,flg04,84,1,NpcNmlFlg04,0,0,5,1,2
-A,9,1,1,Normal,Education,Boy_pride,Low,Stop,Normal,0,6489,0,10465,9571,8289,95,5,9199,6924,156,0,21,8,4,3,NpcNmlClothFlg,,1,0,flg05,109,1,NpcNmlFlg05,0,0,5,1,3
+10,9,1,1,Normal,Education,Boy_pride,Low,Stop,Normal,0,6489,0,10465,9571,8289,95,5,9199,6924,156,0,21,8,4,3,NpcNmlClothFlg,,1,0,flg05,109,1,NpcNmlFlg05,0,0,5,1,3
 9,9,4,2,Normal,Fashion,Girl_active,High,Stop,Shuffle,0,6490,0,10556,5258,8292,126,2,2706,6926,157,0,13,1,6,2,NpcNmlClothFlg,,1,0,flg06,96,1,NpcNmlFlg06,0,0,3,1,2
 9,9,1,1,Normal,Play,Boy_normal,Normal,Stop,Normal,0,6491,0,10688,7394,3170,17,6,8974,6910,158,0,8,7,0,7,NpcNmlClothFlg,,1,0,flg07,68,1,NpcNmlFlg07,0,0,5,1,2
 9,9,5,1,Normal,Play,Boy_active,High,Stop,Normal,0,6492,0,10641,7394,3170,-1,6,3320,6909,159,0,3,8,7,13,NpcNmlClothFlg,,1,5,flg09,85,0,NpcNmlFlg09,0,0,5,1,2
@@ -312,7 +312,7 @@ A,9,1,1,Normal,Education,Boy_pride,Low,Stop,Normal,0,6489,0,10465,9571,8289,95,5
 9,9,4,4,Prefer,Fashion,Girl_active,High,Stop,Normal,0,6662,0,10316,11043,11923,146,0,9504,5861,311,0,9,5,6,2,NpcNmlClothRbt,,1,0,rbt00,84,1,NpcNmlRbt00,0,0,4,1,4
 9,9,1,4,Normal,Fashion,Girl_active,High,Stop,Shuffle,0,6663,0,10541,5258,11925,34,6,8359,9946,312,0,14,3,4,10,NpcNmlClothRbt,,1,0,rbt01,73,1,NpcNmlRbt01,0,0,3,3,3
 9,9,1,4,Normal,Education,Girl_normal,Normal,Stop,Normal,0,6664,0,10379,11041,3170,193,7,4167,6840,313,0,1,3,8,6,NpcNmlClothRbt02,,1,0,rbt02,102,1,NpcNmlRbt02,0,0,5,1,5
-A,9,5,1,Normal,Fitness,Boy_active,High,Stop,Normal,0,6665,54,10671,5143,8294,96,2,3460,7178,314,0,3,11,10,4,NpcNmlClothRbt,,1,3,rbt03,65,1,NpcNmlRbt03,0,0,4,1,4
+10,9,5,1,Normal,Fitness,Boy_active,High,Stop,Normal,0,6665,54,10671,5143,8294,96,2,3460,7178,314,0,3,11,10,4,NpcNmlClothRbt,,1,3,rbt03,65,1,NpcNmlRbt03,0,0,4,1,4
 9,9,1,2,Prefer,Education,Boy_pride,Low,Stop,Normal,0,6666,0,10479,9569,8288,83,3,8489,6919,315,0,28,10,9,0,NpcNmlClothRbt,,1,0,rbt04,90,1,NpcNmlRbt04,0,0,4,1,4
 9,9,4,2,Normal,Fashion,Girl_active,High,Stop,Normal,0,6667,0,10386,11038,8292,44,1,6811,6917,316,0,16,12,9,1,NpcNmlClothRbt,,1,0,rbt05,73,1,NpcNmlRbt05,0,0,4,6,4
 9,9,4,1,Normal,Fashion,Girl_active,High,Stop,Shuffle,0,6668,0,10484,5258,8293,48,7,9012,9952,317,0,14,6,6,9,NpcNmlClothRbt,,1,0,rbt06,78,1,NpcNmlRbt06,1,0,3,3,3

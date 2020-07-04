@@ -1,11 +1,11 @@
 NpcFtrActionHoldTime,NpcFtrActionInterest*,NpcFtrActionWeather*,NpcFtrActionTool,UniqueID,Label,Name,NpcFtrActionAsName
 0,None,None,-2,0,None,なし,
 0,FtrAccess,None,5397,1,Smartphone,撮影,NpcSmartPhonePress
-96,FtrSwitchOn,RainActive,-2,2,Switch,駆動,MaReSmiling
-708,RhythmSound,RainActive,-2,3,RhythmSound,ノる,NpcRhythm
-708,SingSong,RainActive,-2,4,SingSong,歌う,NpcSinging
-708,PlayMusic,RainActive,-2,5,PlayMusicBoth,演奏する（両手）,NpcPlayMusicBoth
-708,PlayMusic,RainActive,-2,6,PlayMusic,演奏する（片手）,NpcPlayMusic
+150,FtrSwitchOn,RainActive,-2,2,Switch,駆動,MaReSmiling
+1800,RhythmSound,RainActive,-2,3,RhythmSound,ノる,NpcRhythm
+1800,SingSong,RainActive,-2,4,SingSong,歌う,NpcSinging
+1800,PlayMusic,RainActive,-2,5,PlayMusicBoth,演奏する（両手）,NpcPlayMusicBoth
+1800,PlayMusic,RainActive,-2,6,PlayMusic,演奏する（片手）,NpcPlayMusic
 0,FtrSwitchOn,RainActive,-2,7,SwitchWind,駆動（扇風機）,NpcWind
 0,FtrSwitchOn,RainActive,-2,8,SwitchWarm,駆動（温まる）,NpcWarm
 0,FtrSwitchOn,RainActive,-2,9,SwitchSomen,駆動（そうめん）,NpcSomen

@@ -1,6 +1,6 @@
 ModelScale,UniqueID,ModelResName
-3ECCCCCD,0,DiveFishShadow
-3F19999A,1,DiveFishShadow
-3F4CCCCD,2,DiveFishShadow
-3F666666,3,DiveFishShadow
-3F800000,4,DiveFishShadow
+0.4,0,DiveFishShadow
+0.6,1,DiveFishShadow
+0.8,2,DiveFishShadow
+0.9,3,DiveFishShadow
+1,4,DiveFishShadow

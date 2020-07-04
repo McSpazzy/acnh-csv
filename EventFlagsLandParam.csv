@@ -24,8 +24,8 @@ None,0,EnableReadWrite,ReadOnly,1,22,SandBankDisable,中州判定が無効にな
 None,0,EnableReadOnly,ReadOnly,1,23,MarketRemodelingFlag1,まめきちの店|テント→商店（小）改装決定,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,24,MarketOpen1stDay1,まめきちの店|新装開店当日(商店),1,0
 None,0,EnableReadWrite,HetHostOnly,9,25,SpotPrologueTimes,序盤会話を呼んだ回数,1,0
-None,0,EnableReadWrite,ReadOnly,4E20,26,PlazaDonationMoney,イベント広場寄付金額,1,0
-None,0,EnableReadOnly,ReadOnly,14,27,PlazaDonationMaterial,イベント広場寄付素材数(ねんど),1,0
+None,0,EnableReadWrite,ReadOnly,20000,26,PlazaDonationMoney,イベント広場寄付金額,1,0
+None,0,EnableReadOnly,ReadOnly,20,27,PlazaDonationMaterial,イベント広場寄付素材数(ねんど),1,0
 None,0,EnableReadWrite,ReadOnly,1,28,PlazaDonationFinish,イベント広場募金集まったか？,1,0
 None,0,EnableReadOnly,ReadOnly,1,29,EventPlazaBuilt,イベント広場完成,1,0
 None,0,EnableReadWrite,ReadOnly,1,30,SzaGotGyroid,しずえがハニワくん入手した,1,0
@@ -34,7 +34,7 @@ None,0,EnableReadWrite,SpNpcOnly,1,32,MuseumGrowupEnable1,博物館成長条件1
 None,0,EnableReadWrite,ReadOnly,5,33,MuseumConstruction1,博物館テント→工事中,1,0
 None,0,EnableReadOnly,ReadOnly,1,34,Museum2Built,博物館①完成,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,35,Museum2BuiltToday,博物館（建物）①完成当日か？,1,0
-None,0,DisableAccess,ManualSend,1388,36,InsectNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今まで捕まえたムシの数,1,0
+None,0,DisableAccess,ManualSend,5000,36,InsectNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今まで捕まえたムシの数,1,0
 None,0,EnableReadOnly,ReadOnly,1,37,GlobalEventAvailable,グローバルイベント解禁,1,0
 None,0,EnableReadOnly,ReadOnly,1,38,InsectFesFinished,島で2回目以降のムシとり大会？（ムシとり大会の日をまたいだ？）,1,0
 None,0,EnableReadOnly,ReadOnly,1,39,MarketRemodelingFlag2,まめきちの店|商店（小）→倉庫　改装決定,1,0
@@ -58,7 +58,7 @@ None,0,EnableReadWrite,ReadOnly,1,58,EnableBuildTownOffice,役場建設条件が
 None,0,EnableReadOnly,ReadOnly,1,59,BuiltTownOffice,案内所完成,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,60,BuiltTownOfficeToday,案内所完成当日,1,0
 None,0,EnableReadWrite,ReadOnly,1,61,StartBuildingTownOffice,役場建設＆村長誘致開始可能,1,0
-None,0,EnableReadWrite,ReadOnly,457,62,SzaDonatedItemType,役場建設用のアイテム寄贈状況(種類判別用),1,0
+None,0,EnableReadWrite,ReadOnly,1111,62,SzaDonatedItemType,役場建設用のアイテム寄贈状況(種類判別用),1,0
 None,0,EnableReadWrite,ReadOnly,4,63,SzaDonatedItemCount,役場建設用のアイテム寄贈状況(個数判別用),1,0
 None,0,EnableReadOnly,ReadOnly,1,65,IsNpcIncreased,NPCが1人でも引越してきたか？,1,0
 None,0,EnableReadOnly,ReadOnly,1,66,MuseumBuilt,博物館テントが建った,1,0
@@ -78,10 +78,10 @@ None,0,EnableReadWrite,ReadOnly,1,79,EnableTailorBuild,仕立て屋|建築条件
 None,0,EnableReadWrite,ReadOnly,1,80,TailorReserved,仕立て屋|工事看板(予定地)が建った,1,0
 None,0,EnableReadWrite,ReadOnly,1,81,TailorGetHousingkit,仕立て屋|工事看板を受け取った,1,0
 None,0,EnableReadWrite,ReadOnly,1,82,ReportedTaiorReserve,仕立て屋|工事看板(予定地)建てたこと報告済み,1,0
-None,0,EnableReadWrite,SpNpcOnly,63,83,CountTailorBuild,仕立て屋|建築条件に関わるカウンタ,1,0
-None,0,EnableReadWrite,ReadOnly,A,84,NNpcPhoneColorChangeCounter,一般NPC|スマホ柄が汎用布地に変わるカウンタ,1,0
+None,0,EnableReadWrite,SpNpcOnly,99,83,CountTailorBuild,仕立て屋|建築条件に関わるカウンタ,1,0
+None,0,EnableReadWrite,ReadOnly,10,84,NNpcPhoneColorChangeCounter,一般NPC|スマホ柄が汎用布地に変わるカウンタ,1,0
 None,0,EnableReadWrite,ReadOnly,1,85,RcoEnableBuyHousingKit,たぬきち|売り土地を探すの選択肢解禁,1,0
-None,0,EnableReadWrite,HetHostOnly,63,86,OpeningSeqBGMChangeCounter,序盤シーケンス|BGM切替カウンタ,1,0
+None,0,EnableReadWrite,HetHostOnly,99,86,OpeningSeqBGMChangeCounter,序盤シーケンス|BGM切替カウンタ,1,0
 Pre,0,EnableReadWrite,SpNpcOnly,1,96,JohnnySitUpFlag,ジョニー|起きたかフラグ(海賊ジョニーでも使用),1,0
 None,0,DisableAccess,ReadOnly,1,98,AllowNpcInterestActivity,NPCの認識行動が許可されたか,1,0
 None,0,EnableReadWrite,ReadOnly,1,103,RcoBuildCampsiteOngoing,たぬきち|キャンプ場設置の依頼を島の誰かが引き受けた,1,0
@@ -91,7 +91,7 @@ None,0,EnableReadWrite,ReadOnly,1,107,RcoMeetFirstVisitorOngoing,たぬきち|1�
 None,0,EnableReadWrite,ReadOnly,1,108,RcoMeetFirstVisitorComplete,たぬきち|1人目のキャンプ客の移住希望の話を、島の誰かが聞いた,1,0
 None,0,EnableReadWrite,ReadOnly,1,109,RcoBuildFirstVisitorsHousingKitOngoing,たぬきち|1人目の客のハウジングキットの設置依頼を、島の誰かが受けた,1,0
 None,0,EnableReadWrite,ReadOnly,1,110,RcoBuildFirstVisitorsHousingKitComplete,たぬきち|1人目の客のハウジングキットを、島の誰かが設置した,1,0
-None,F,EnableReadWrite,SpNpcOnly,F,114,DonationAmountForMuseum,博物館建設のために必要な寄贈の残り数,1,0
+None,15,EnableReadWrite,SpNpcOnly,15,114,DonationAmountForMuseum,博物館建設のために必要な寄贈の残り数,1,0
 None,0,EnableReadOnly,ReadOnly,1,115,OfficeConstruction1,役場|工事中→役場,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,116,JohnnyTalkAnyPlayerFlag,ジョニー|村の誰か話しかけたか(海賊ジョニー不使用),1,0
 Pre,0,DisableAccess,ReadOnly,1,118,TkkReturn,とたけけ|帰ったか？,1,0
@@ -147,35 +147,35 @@ None,0,EnableReadWrite,ReadOnly,1,170,ImmQ_A_InteriorDonateNow,移住Quest|住�
 None,0,EnableReadWrite,ReadOnly,1,171,ImmQ_B_InteriorDonateNow,移住Quest|住宅B|屋内家具の今寄贈した,1,0
 None,0,EnableReadWrite,ReadOnly,1,172,ImmQ_C_InteriorDonateNow,移住Quest|住宅C|屋内家具の今寄贈した,1,0
 None,0,EnableReadWrite,ReadOnly,1,173,RcoRemoveBridgeSlopeSelector,たぬきち|現在の撤去対象が橋/坂どちらか？0橋1坂,1,0
-Pre,0,DisableAccess,ReadOnly,120,174,CeremonySlopeUnitX,セレモニ|坂建設位置Ｘ,1,0
-Pre,0,DisableAccess,ReadOnly,100,175,CeremonySlopeUnitZ,セレモニ|坂建設位置Z,1,0
+Pre,0,DisableAccess,ReadOnly,288,174,CeremonySlopeUnitX,セレモニ|坂建設位置Ｘ,1,0
+Pre,0,DisableAccess,ReadOnly,256,175,CeremonySlopeUnitZ,セレモニ|坂建設位置Z,1,0
 None,0,EnableReadWrite,ReadOnly,1,176,RcoNoticeBuildInfomationOffice,たぬきち|案内所建物建築のお知らせ可能,1,0
 None,0,EnableReadOnly,ReadOnly,1,177,CampSiteBuilt,キャンプ場が建った,1,0
 None,0,EnableReadWrite,ReadOnly,1,178,RcoDeleteBridgeSlopeBuildPlayer,たぬきち|橋/坂予定地を建てたプレイヤーが削除された,1,0
-None,0,DisableAccess,NoCheck,64,179,VisitorPrayStarToday,今日村に来たビジタが祈った回数,1,0
+None,0,DisableAccess,NoCheck,100,179,VisitorPrayStarToday,今日村に来たビジタが祈った回数,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,180,AmiiboCampSiteCall,今日amiiboを使ってキャンプ場にNPCを呼んだ,1,0
 None,0,EnableReadWrite,ReadOnly,1,181,ImmQ_SetBridge,移住Quest|橋の予定地が配置された,1,0
 Pre,0,EnableReadWrite,HetHostOnly,1,182,CampQuestInProgress,キャンプ家具クエスト進行中,1,0
 Pre,0,EnableReadWrite,HetHostOnly,1,183,CampQuestClear,キャンプ家具クエストクリア済,1,0
 None,0,EnableReadWrite,ReadOnly,1,185,SzaTaled1stTimeAnyPlayer,24時間BGMを案内所完成後用に切り替える,1,0
-Pre,0,DisableAccess,ReadOnly,120,186,CeremonyBridgeUnitX,セレモニ|橋建設位置Ｘ,1,0
-Pre,0,DisableAccess,ReadOnly,100,187,CeremonyBridgeUnitZ,セレモニ|橋建設位置Ｚ,1,0
+Pre,0,DisableAccess,ReadOnly,288,186,CeremonyBridgeUnitX,セレモニ|橋建設位置Ｘ,1,0
+Pre,0,DisableAccess,ReadOnly,256,187,CeremonyBridgeUnitZ,セレモニ|橋建設位置Ｚ,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,188,CeremonyBuildCampSite,セレモニ|セレモニ開催できる：キャンプ場,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,189,CeremonyBuildTailor,セレモニ|廃止予定：置き換え可,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,190,CeremonyBuildBridge,セレモニ|セレモニ開催できる：橋,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,191,CeremonyBuildSlope,セレモニ|セレモニ開催できる：坂,1,0
 None,0,EnableReadWrite,HetHostOnly,1,192,IslandDevQuestRunning,たぬきち|島の発展Quest実施中,1,0
 None,0,EnableReadWrite,ReadOnly,1,193,IslandDevQuestComplete,たぬきち|島の発展Quest完了,1,0
-None,0,EnableReadOnly,ReadOnly,2710,194,CountTailorAfterBuild,仕立て屋|オープンして何日目か,1,0
-None,0,EnableReadOnly,ReadOnly,2710,195,CountMuseumAfterBuild,博物館|オープンして何日目か,1,0
-None,0,EnableReadOnly,ReadOnly,2710,196,CountMarket1AfterBuild,まめきちの店|小がオープンして何日目か,1,0
-None,0,EnableReadOnly,ReadOnly,2710,197,CountMarket2AfterBuild,まめきちの店|大がオープンして何日目か,1,0
-None,0,EnableReadOnly,ReadOnly,2710,198,CountOfficeAfterBuild,案内所|オープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,194,CountTailorAfterBuild,仕立て屋|オープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,195,CountMuseumAfterBuild,博物館|オープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,196,CountMarket1AfterBuild,まめきちの店|小がオープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,197,CountMarket2AfterBuild,まめきちの店|大がオープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,198,CountOfficeAfterBuild,案内所|オープンして何日目か,1,0
 None,0,EnableReadOnly,ReadOnly,7,199,CountFirstBridgeAfterBuild,初めての橋に言及する会話を表示できる残り日数,1,0
 None,0,EnableReadOnly,ReadOnly,7,200,CountFirstSlopeAfterBuild,初めての坂に言及する会話を表示できる残り日数,1,0
 None,0,EnableReadWrite,ReadOnly,1,201,IslandEvaluationUnlock,しずえ|島の評価島全体で解禁,1,0
 None,0,EnableReadWrite,ReadOnly,1,202,IslandEvaluationClearTkkLive,しずえ|島の評価がとたけけライブ発生基準をクリアした,1,0
-None,0,EnableReadWrite,ReadOnly,A,203,HaveHousingKitCount,たぬきち|島の住人が所持ているハウジングキットの数,1,0
+None,0,EnableReadWrite,ReadOnly,10,203,HaveHousingKitCount,たぬきち|島の住人が所持ているハウジングキットの数,1,0
 None,0,EnableReadWrite,ReadOnly,1,204,BridgeBuilt,橋を作ったことがある,1,0
 None,0,EnableReadWrite,ReadOnly,1,205,SlopeBuilt,坂を作ったことがある,1,0
 None,0,EnableReadOnly,ReadOnly,3,206,BeyRequireFishSize,来訪新うおまさ|クエスト対象のサカナサイズ,1,0
@@ -191,8 +191,8 @@ None,0,DisableAccess,ReadOnly,2,223,BirthdayBbsVariation2,誕生日の告知を�
 None,0,DisableAccess,ReadOnly,1,224,AllowNpcGroupActivity,NPCの広場行動（集団）が許可されたか,1,0
 None,0,EnableReadWrite,ReadOnly,1,225,TanuportAmiiboCampUnlock,タヌポート|amiiboキャンプ場呼び出しが解禁可,1,0
 None,0,EnableReadWrite,ReadOnly,1,226,PickedUpMessageBottle,最初のメッセージボトルが拾われた,1,0
-None,0,EnableReadWrite,ReadOnly,A,227,CountAppE_RepTalk,一般NPC島評判UP応援アプローチ発生(アイテムもらった)回数カウント,1,0
-None,0,EnableReadWrite,ReadOnly,A,228,FlwLilyGrowCounter,スズラン|発生率決定カウンタ,1,0
+None,0,EnableReadWrite,ReadOnly,10,227,CountAppE_RepTalk,一般NPC島評判UP応援アプローチ発生(アイテムもらった)回数カウント,1,0
+None,0,EnableReadWrite,ReadOnly,10,228,FlwLilyGrowCounter,スズラン|発生率決定カウンタ,1,0
 None,0,EnableReadOnly,ReadOnly,1,229,FlwLilyFirstGrow,スズラン|島に発生したことがある？,1,0
 None,0,EnableReadWrite,ReadOnly,1,230,CampFirstCamperVisit,キャンプ場|最初のキャンプ場客が滞在中か？,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,231,RcmShopMaterial_Wood,まめきち|木材提供済？,1,0
@@ -207,7 +207,7 @@ None,0,EnableReadWrite,ReadOnly,1,239,PAnnounceRcoCalling,島内放送|放送中
 None,0,EnableReadWrite,ReadOnly,1,241,PAnnounceCeremony1st,島内放送|初めてセレモニーの告知した,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,242,PAnnounceCeremony1stToday,島内放送|初めてセレモニーの告知入った当日のみON,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,243,CampSiteBuiltToday,キャンプ場が建った当日,1,0
-None,0,EnableReadOnly,ReadOnly,2710,244,CountCampSiteAfterBuild,キャンプ場|オープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,244,CountCampSiteAfterBuild,キャンプ場|オープンして何日目か,1,0
 None,0,EnableReadWrite,ReadOnly,1,245,IslandLocalFruitApple,島の特産フルーツがリンゴならON,1,0
 None,0,EnableReadWrite,ReadOnly,1,246,IslandLocalFruitOrange,島の特産フルーツがオレンジならON,1,0
 None,0,EnableReadWrite,ReadOnly,1,247,IslandLocalFruitPear,島の特産フルーツがナシならON,1,0
@@ -216,10 +216,10 @@ None,0,EnableReadWrite,ReadOnly,1,249,IslandLocalFruitCherry,島の特産フル�
 Pre,0,EnableReadWrite,SpNpcOnly,1,250,HghPeddlerPurchaceToday,きぬよ行商|今回の来訪で島の誰かが商品購入した？,1,0
 None,0,EnableReadWrite,ReadOnly,1,251,PAnnounceKkProject,島内放送|とたけけプロジェクトの予告発生した？,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,252,TownNewsHeardEventStarted,村内放送|イベント開始済み村内放送を聞いた？,1,0
-None,0,EnableReadWrite,ReadOnly,3E7,253,SzaIslandEvaluationBeforeLife,しずえ|島の環境：前回の「生活」ポイント,1,0
-None,0,EnableReadWrite,ReadOnly,3E7,254,SzaIslandEvaluationBeforeNatural,しずえ|島の環境：前回の「自然」ポイント,1,0
-None,0,DisableAccess,ManualSend,1388,255,FishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今まで捕まえたサカナの数,1,0
-None,0,EnableReadWrite,ReadOnly,A,256,SzaIslandEvaluationBeforeDevelopment,しずえ|島の環境：前回の「発展」要素,1,0
+None,0,EnableReadWrite,ReadOnly,999,253,SzaIslandEvaluationBeforeLife,しずえ|島の環境：前回の「生活」ポイント,1,0
+None,0,EnableReadWrite,ReadOnly,999,254,SzaIslandEvaluationBeforeNatural,しずえ|島の環境：前回の「自然」ポイント,1,0
+None,0,DisableAccess,ManualSend,5000,255,FishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今まで捕まえたサカナの数,1,0
+None,0,EnableReadWrite,ReadOnly,10,256,SzaIslandEvaluationBeforeDevelopment,しずえ|島の環境：前回の「発展」要素,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,257,SzaIslandEvaluationTodayRankUpdate,しずえ|島の環境：今日のポイント更新したらON,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,258,SzaIslandEvaluationImprovementLifeToday,しずえ|島の環境：前回村内放送より「生活」ポイント向上,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,259,SzaIslandEvaluationImprovementNaturalToday,しずえ|島の環境：前回村内放送より「自然」ポイント向上,1,0
@@ -246,21 +246,21 @@ None,0,EnableReadWrite,HetHostOnly,1,280,LostPropertyFound,島Pの誰かが落�
 None,0,EnableReadWrite,ReadOnly,1,281,MuseumFossilComplete,博物館_化石部屋コンプ済,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,282,InduceInMysteriTourIslandToday,今日ミステリーツアー島で勧誘した,1,0
 None,0,EnableReadWrite,ReadOnly,1,283,Tutorial1PTentLightON,1P島代表のテントの明かりをONにするか？,1,0
-None,0,DisableAccess,ReadOnly,270F,284,PynVisitYear,ぴょんたろうが来訪した年,1,0
+None,0,DisableAccess,ReadOnly,9999,284,PynVisitYear,ぴょんたろうが来訪した年,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,285,PynVisitToday,ぴょんたろうが今日来訪NPCとして来訪する,1,0
 Pre,0,EnableReadWrite,ManualSend,FFFF,286,CatchInsectFesGetTotalNum,ムシ取り大会|全員のムシ取得数,0,1
 Pre,0,EnableReadWrite,ManualSend,FFFF,287,CatchFishFesGetTotalNum,つり大会|全員のサカナ取得数,0,1
 None,0,EnableReadWrite,SpNpcOnly,1,288,JohnnyQuestFinishFlagIsland,ジョニー|その日に村で誰かがジョニーを助けたか？(海賊ジョニーでも使用),1,0
-Pre,0,DisableAccess,ReadOnly,A,289,CampRandomSelectMoveOutNpc,キャンプ場|ランダム選出転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
+Pre,0,DisableAccess,ReadOnly,10,289,CampRandomSelectMoveOutNpc,キャンプ場|ランダム選出転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
 None,0,DisableAccess,ReadOnly,1,290,CampFireRemoved,広場のキャンプファイアー撤去,1,0
 None,0,DisableAccess,ReadOnly,1,293,UnlockEaster,BCATにてイースター解禁,1,0
 None,0,EnableReadWrite,ReadOnly,5,294,MuseumConstruction2,博物館1→2への工事中,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,295,MuseumGrowupEnable2,博物館2への成長条件達成,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,304,OwlWantsPainting,フータの絵画クエストを開始した,1,0
-Pre,0,DisableAccess,ReadOnly,A,305,CampTodaySelectMoveOutNpc,キャンプ場|強制転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
+Pre,0,DisableAccess,ReadOnly,10,305,CampTodaySelectMoveOutNpc,キャンプ場|強制転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
 None,0,EnableReadOnly,ReadOnly,1,306,Museum3Built,博物館②完成,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,307,Museum3BuiltToday,博物館②完成当日か？,1,0
-None,0,EnableReadOnly,ReadOnly,2710,308,CountMuseum2AfterBuild,博物館②|オープンして何日目か,1,0
+None,0,EnableReadOnly,ReadOnly,10000,308,CountMuseum2AfterBuild,博物館②|オープンして何日目か,1,0
 Plus,0,EnableReadOnly,ReadOnly,1,309,Museum2ConstructionToday,今日、博物館②工事当日であるか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,310,GrowUpAfterPatch1_1,1.1適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,311,GrowUpAfterPatch1_2,1.2適用して成長処理をした,1,0
@@ -270,15 +270,15 @@ None,0,EnableReadWrite,ReadOnly,1,316,OwlFoundDiveFish,フータ|誰かが海の
 Pre,0,EnableReadWrite,SpNpcOnly,1,317,SloPeddlerPurchaceToday,レイジ行商|今回の来訪で島の誰かが商品購入した？,1,0
 Pre,0,DisableAccess,ReadOnly,1,318,FoxPreVisitToday,つねきちが今日事前来訪する,1,0
 None,0,EnableReadOnly,ReadOnly,1,319,AnyPlayerHouseBuilt,住人の誰かのマイホームが１度でも建ったことがある,1,0
-None,0,EnableReadWrite,ReadOnly,32,320,MuseumFishStampRackLotID1,国際ミュージアム|1つ目のサカナのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,321,MuseumFishStampRackLotID2,国際ミュージアム|2つ目のサカナのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,322,MuseumFishStampRackLotID3,国際ミュージアム|3つ目のサカナのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,323,MuseumInsectStampRackLotID1,国際ミュージアム|1つ目のムシのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,324,MuseumInsectStampRackLotID2,国際ミュージアム|2つ目のムシのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,325,MuseumInsectStampRackLotID3,国際ミュージアム|3つ目のムシのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,326,MuseumFossilStampRackLotID1,国際ミュージアム|1つ目のかせきのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,327,MuseumFossilStampRackLotID2,国際ミュージアム|2つ目のかせきのスタンプ台ID,1,0
-None,0,EnableReadWrite,ReadOnly,32,328,MuseumFossilStampRackLotID3,国際ミュージアム|3つ目のかせきのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,320,MuseumFishStampRackLotID1,国際ミュージアム|1つ目のサカナのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,321,MuseumFishStampRackLotID2,国際ミュージアム|2つ目のサカナのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,322,MuseumFishStampRackLotID3,国際ミュージアム|3つ目のサカナのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,323,MuseumInsectStampRackLotID1,国際ミュージアム|1つ目のムシのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,324,MuseumInsectStampRackLotID2,国際ミュージアム|2つ目のムシのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,325,MuseumInsectStampRackLotID3,国際ミュージアム|3つ目のムシのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,326,MuseumFossilStampRackLotID1,国際ミュージアム|1つ目のかせきのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,327,MuseumFossilStampRackLotID2,国際ミュージアム|2つ目のかせきのスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,50,328,MuseumFossilStampRackLotID3,国際ミュージアム|3つ目のかせきのスタンプ台ID,1,0
 None,0,EnableReadOnly,ReadOnly,1,329,AOC_EventFlag_000,AOC同期フラグ| 000 Compass,1,0
 None,0,EnableReadOnly,ReadOnly,1,330,AOC_EventFlag_001,AOC同期フラグ| 001 NSO加入特典,1,0
 None,0,EnableReadWrite,HetHostOnly,1,332,FoxPreVisitReserve,事前来訪つねきちを翌日に予約する,1,0
@@ -300,4 +300,4 @@ Pre,0,EnableReadWrite,SpNpcOnly,1,352,FoxPreVisitAlreadyBuyToday,つねきち|�
 None,0,DisableAccess,ReadOnly,1,353,RcoHasResolvedMoveKitBug,いせつキットバグを解消したか,1,0
 None,0,DisableAccess,ReadOnly,1,357,GulBVisitEnable,海賊ジョニーが来訪する条件を満たしたか,1,0
 None,0,EnableReadWrite,NoCheck,1,363,JohnnyInvisible,ジョニー非表示状態か,1,0
-None,0,DisableAccess,ManualSend,1388,365,DiveFishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数,1,0
+None,0,DisableAccess,ManualSend,5000,365,DiveFishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数,1,0

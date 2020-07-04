@@ -6,6 +6,6 @@ DefaultValue,MaxValue,UniqueID,Folded_Season,fa93f14b u8,Key,Name
 0,1,5,0,2,HouseOrder5,8x8+奥左→8x8+奥左右増築申込
 0,1,6,0,2,HouseOrder6,8x8+奥左右→2F増築申込
 0,1,7,0,2,HouseOrder7,2F→地下増築申込
-0,2710,9,0,1,CountHouseBuild,テントから家になって何日目か
-0,2710,10,0,1,CountUnderGroundBuild,地下室ができて何日目か
-0,2710,11,0,0,CountHouseExtension,最後に増築してからの日数
+0,10000,9,0,1,CountHouseBuild,テントから家になって何日目か
+0,10000,10,0,1,CountUnderGroundBuild,地下室ができて何日目か
+0,10000,11,0,0,CountHouseExtension,最後に増築してからの日数
