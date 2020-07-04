@@ -1,4 +1,4 @@
-Act*,Price,Scale*,b117eb21 string,Floorboards,ItemTableId,LandingUniqueID,UniqueID,HasJmp,Horizon,ItemName,ResourceName,Rotatable
+Act,Price,Scale,b117eb21 string,Floorboards,ItemTableId,LandingUniqueID,UniqueID,HasJmp,Horizon,ItemName,ResourceName,Rotatable
 None,888,None,None,3,4797,1,0,0,0,ちかしつのゆか,RoomTexFloorBasement00,0
 None,888,None,None,6,5018,0,2,0,0,よくあるゆかいた,RoomTexFloorCommon00,1
 None,888,None,None,17,5021,0,3,0,0,おうごんのゆか,RoomTexFloorGold00,0

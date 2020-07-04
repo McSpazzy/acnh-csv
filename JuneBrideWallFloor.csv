@@ -1,4 +1,4 @@
-Theme*,FloorItemId,RugItemId,UniqueID,WallItemId
+Theme,FloorItemId,RugItemId,UniqueID,WallItemId
 Wedding,12431,12462,2,12466
 Banquet,12431,-2,3,12461
 Cute,5069,12465,4,4816

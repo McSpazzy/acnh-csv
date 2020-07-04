@@ -1,4 +1,4 @@
-HouseColor*,CustomizeSortID,HouseShapeUniqueID,Material,UniqueID,Dummy,ModelName
+HouseColor,CustomizeSortID,HouseShapeUniqueID,Material,UniqueID,Dummy,ModelName
 Red,1000,0,6,0,0,HouseRoofPA04StandardA
 Pink,1010,0,6,3,0,HouseRoofPA04StandardB
 Invalid,0,3,5,4,1,

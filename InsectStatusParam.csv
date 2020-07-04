@@ -1,4 +1,4 @@
-AppearArea*,AppearWeather*,GetScale,Kind*,WaitScale,ItemID,5d4ef312 u16,ToyItemID,UniqueID,AppearFg,DebugName,Label,Property,ResNameField,4c777e9e string32,e4b73f7d string32
+AppearArea,AppearWeather,GetScale,Kind,WaitScale,ItemID,5d4ef312 u16,ToyItemID,UniqueID,AppearFg,DebugName,Label,Property,ResNameField,4c777e9e string32,e4b73f7d string32
 0,NotAppearInRain,1,Butterfly,1,626,0,7085,1,,モンシロチョウ,Monshirocho,0,InsectMonshirocho,,
 0,NotAppearInRain,1,Butterfly,1,625,0,7084,2,,モンキチョウ,Monkicho,0,InsectMonkicho,,
 0,NotAppearInRain,1,Butterfly,1,583,0,5944,3,,アゲハチョウ,Agehacho,0,InsectAgehacho,,

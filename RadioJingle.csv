@@ -1,4 +1,4 @@
-SelectRate,Timezone*,Frames,MusicNo,UniqueID,BeforeDays,EventLabelShort
+SelectRate,Timezone,Frames,MusicNo,UniqueID,BeforeDays,EventLabelShort
 1,Daytime,329,301,0,0,EventNone
 1,Daytime,243,302,1,0,EventNone
 1,Daytime,311,303,2,0,EventNone

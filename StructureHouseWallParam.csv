@@ -1,4 +1,4 @@
-HouseDoorStep*,CustomizeSortID,9c2d6dc6 u16,HouseShapeUniqueID,UniqueID,LightParamName,ModelName,UseCurtain,UseExteriorLight
+HouseDoorStep,CustomizeSortID,9c2d6dc6 u16,HouseShapeUniqueID,UniqueID,LightParamName,ModelName,UseCurtain,UseExteriorLight
 Normal,1000,3,0,0,HouseWallPA04StandardA,HouseWallPA04StandardA,1,
 Normal,1010,3,0,5,HouseWallPA04StandardA,HouseWallPA04StandardB,1,
 Normal,1020,3,0,6,HouseWallPA04StandardA,HouseWallPA04StandardC,1,

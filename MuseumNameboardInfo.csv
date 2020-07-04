@@ -1,4 +1,4 @@
-NameboardAngleY,NameboardPosX,NameboardPosY,NameboardPosZ,StageName*,DonateItemFifth,DonateItemFirst,DonateItemFourth,DonateItemSecond,DonateItemThird,UniqueID,ModelResName,VisibleOff
+NameboardAngleY,NameboardPosX,NameboardPosY,NameboardPosZ,StageName,DonateItemFifth,DonateItemFirst,DonateItemFourth,DonateItemSecond,DonateItemThird,UniqueID,ModelResName,VisibleOff
 0,130,-7,229.2,IdrMuseumFish_2,2229,2225,2228,2226,2215,0,IdrObjNameBoardFish2PopA01,
 0,137,-7,229.2,IdrMuseumFish_2,2224,2232,2220,2234,2219,2,IdrObjNameBoardFish2PopB03,
 0,180,-7,229.2,IdrMuseumFish_2,4192,2223,2235,2231,2252,3,IdrObjNameBoardFish2PopB02,

@@ -1,4 +1,4 @@
-FlagLand,FlagPlayer,LifeSupportStamp*,MaxValue1,MaxValue2,MaxValue3,MaxValue4,MaxValue5,Reward1,Reward2,Reward3,Reward4,Reward5,Reward6,WaitFrame,UniqueID,IsSpecial,Key,MaxLevel,Name
+FlagLand,FlagPlayer,LifeSupportStamp,MaxValue1,MaxValue2,MaxValue3,MaxValue4,MaxValue5,Reward1,Reward2,Reward3,Reward4,Reward5,Reward6,WaitFrame,UniqueID,IsSpecial,Key,MaxLevel,Name
 -1,-1,Event,1,0,0,0,0,500,500,1000,2000,3000,0,0,53,0,ImmigratetoIsland,1,島に移住した
 3,-1,Fish,10,100,500,2000,5000,300,500,1000,2000,3000,0,0,0,0,CatchFish,5,サカナを釣った
 -1,-1,Fish,10,20,40,60,80,300,500,1000,2000,3000,0,0,3,0,FillFishList,5,サカナ図鑑を埋めた

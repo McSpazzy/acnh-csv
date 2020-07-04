@@ -1,4 +1,4 @@
-AO*,Act*,Light*,Price,ArchUniqueID,CeilingUniqueID,CurtainTexUniqueID,CurtainUniqueID,ItemTableId,UniqueID,WindowUniqueID,ItemName,ResourceName,TextureWindow
+AO,Act,Light,Price,ArchUniqueID,CeilingUniqueID,CurtainTexUniqueID,CurtainUniqueID,ItemTableId,UniqueID,WindowUniqueID,ItemName,ResourceName,TextureWindow
 UseAO,None,Orange,888,5,0,4,7,4795,0,8,よくあるかべ,RoomTexWallCommon00,0
 UseAO,None,Orange,888,10,3,20,8,4890,2,30,コンクリートのかべ,RoomTexWallConcrete00,0
 UseAO,None,Orange,888,0,9,23,6,4894,3,6,おうごんのかべ,RoomTexWallGold00,0

@@ -1,4 +1,4 @@
-ActionType*,CaptureCategory*,CaptureLevel*,ShadowType*,ItemID,d42df0b4 u16,UniqueID,DebugName,Label,ResName,ResNameMuseum
+ActionType,CaptureCategory,CaptureLevel,ShadowType,ItemID,d42df0b4 u16,UniqueID,DebugName,Label,ResName,ResNameMuseum
 Stop,Weed,5,L,2620,0,0,ワカメ,Wakame,DiveFishWakame,DiveFishWakameMuseum
 Stop,Weed,5,S,2830,0,34,ウミブドウ,Umibudou,DiveFishUmibudou,DiveFishUmibudouMuseum
 Flick,Aquatic,4,S,2831,0,9,ウニ,Uni,DiveFishUni,DiveFishUni

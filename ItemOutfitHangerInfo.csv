@@ -1,4 +1,4 @@
-ItemLayout*,ItemSize*,UniqueID,Label,ResName
+ItemLayout,ItemSize,UniqueID,Label,ResName
 Wall_NoCol,1_0x1_0_Wall,0,None,
 Wall_NoCol,1_0x1_0_Wall,1,HangerInfoTops,FtrHangerTops
 Wall_NoCol,1_0x1_0_Wall,2,HangerInfoBottoms,FtrHangerBottoms

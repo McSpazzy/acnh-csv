@@ -1,4 +1,4 @@
-StageName*,ModelID,UniqueID,WatchItem,CameraParamName
+StageName,ModelID,UniqueID,WatchItem,CameraParamName
 IdrMuseumArt_0,0,0,1343,id00
 IdrMuseumArt_0,1,1,1331,id01
 IdrMuseumArt_0,2,2,12535,id02

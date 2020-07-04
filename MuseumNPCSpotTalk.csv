@@ -1,4 +1,4 @@
-StageName*,UniqueID,SpotTalkKey,9d9b3598 string,SpotTalkName
+StageName,UniqueID,SpotTalkKey,9d9b3598 string,SpotTalkName
 IdrMuseumFish_2,2,BO_Spot_Museum_Fish,313030,川魚の部屋
 IdrMuseumFish_1,3,BO_Spot_Museum_Fish,333030,海魚の部屋（沖～深海）
 IdrMuseumFish_0,6,BO_Spot_Museum_Fish,323030,海魚の部屋（沿岸）

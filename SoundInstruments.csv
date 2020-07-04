@@ -1,4 +1,4 @@
-InstrumentsType*,RefItemUniqueID,UniqueID,Label,Name
+InstrumentsType,RefItemUniqueID,UniqueID,Label,Name
 FourHands,383,0,Acorsticguitar,アコースティックギター
 FourHands,669,1,Ukulele,ウクレレ
 Normal,846,2,Altosax,アルトサックス

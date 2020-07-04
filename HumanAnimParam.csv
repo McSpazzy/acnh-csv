@@ -1,4 +1,4 @@
-LowerSetting*,2fe593c3 u16,UniqueID,9f5123d4 u8,d5217761 u8,AsCommand,84761fb6 u8,CancelFootprint,Comment,Misc,MoveAs,ToolAsCommand
+LowerSetting,2fe593c3 u16,UniqueID,9f5123d4 u8,d5217761 u8,AsCommand,84761fb6 u8,CancelFootprint,Comment,Misc,MoveAs,ToolAsCommand
 DisableOnlyLowerBody,10,50,2,255,MaReGreeting,0,0,【漫符】会釈,,0,
 DisableOnlyLowerBody,12,39,3,255,MaReNodding,0,0,【漫符】うなずく,,0,
 DisableOnlyLowerBody,13,58,3,255,MaReNegative,0,0,【漫符】首横ふり,,0,

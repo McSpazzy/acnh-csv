@@ -1,4 +1,4 @@
-ItemPlacementKind*,TourType*,FishPattern,InsectPattern,MustItem0,MustItem1,MysteryTourFieldUniqueID,MysteryTourItemUniqueID,UniqueID,7215b154 string32,88bd09c2 string32,4e5cd9f3 string32,8f2f4bf9 string32,b3d1d54 string32,SelectWeight,StatusPattern
+ItemPlacementKind,TourType,FishPattern,InsectPattern,MustItem0,MustItem1,MysteryTourFieldUniqueID,MysteryTourItemUniqueID,UniqueID,7215b154 string32,88bd09c2 string32,4e5cd9f3 string32,8f2f4bf9 string32,b3d1d54 string32,SelectWeight,StatusPattern
 Normal,Normal,-1,-1,-2,-2,1,1,0,,,,,,0,0
 Normal,Normal,-1,-1,-2,-2,2,2,1,,,,,,0,0
 Normal,Normal,-1,-1,-2,-2,3,3,2,,,,,,0,0

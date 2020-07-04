@@ -1,4 +1,4 @@
-1b936128 string,ItemKindUIType*,ItemRemakeType*,MessageKind*,SLinkType*,MultiHoldMaxNum,SaveCountMaxNum,UniqueID,CanBury,CanEat,CanFtr,CanGift,CanNpcBirthdayPresent,CanNpcPresent,CanPlant,CanPut,d223f25c u8,CanSell,CanSellSimple,CanSetChest,CanSetCloset,CanSetInTrashBox,CanSetItem,CanUsePhotoStudio,c37a683c u8,IsCollectAchievement,Label,Name
+1b936128 string,ItemKindUIType,ItemRemakeType,MessageKind,SLinkType,MultiHoldMaxNum,SaveCountMaxNum,UniqueID,CanBury,CanEat,CanFtr,CanGift,CanNpcBirthdayPresent,CanNpcPresent,CanPlant,CanPut,d223f25c u8,CanSell,CanSellSimple,CanSetChest,CanSetCloset,CanSetInTrashBox,CanSetItem,CanUsePhotoStudio,c37a683c u8,IsCollectAchievement,Label,Name
 OnCapture,None,Ftr,00_Ftr,FtrUniqueUser,0,0,5,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,Ftr,家具
 OnCapture,WallPaper,None,50_RoomWall,FtrNoneUser,0,0,228,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,RoomWall,内装：壁紙
 OnCapture,FloorBoard,None,51_RoomFloor,FtrNoneUser,0,0,229,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,RoomFloor,内装：床板

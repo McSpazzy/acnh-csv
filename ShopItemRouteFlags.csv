@@ -1,4 +1,4 @@
-FlagLand,FlagPlayer,ShopType*,AttrCollectBit,ItemFrom
+FlagLand,FlagPlayer,ShopType,AttrCollectBit,ItemFrom
 268,-1,Shop,0,Shop_EnableAxe
 266,-1,Shop,0,Shop_EnableShovel
 13,-1,Shop,0,Shop_EnableRecipeWatering

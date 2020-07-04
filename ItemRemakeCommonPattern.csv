@@ -1,4 +1,4 @@
-Category*,Color1*,Color2*,SortID,UniqueID,Label,TextureResName
+Category,Color1,Color2,SortID,UniqueID,Label,TextureResName
 Dot,Red,Red,0,0,0,FtrCmnFabricDotSmall00
 Dot,Pink,Pink,1,1,1,FtrCmnFabricDotSmall01
 Dot,LightBlue,LightBlue,2,2,2,FtrCmnFabricDotSmall02

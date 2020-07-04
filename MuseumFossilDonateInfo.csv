@@ -1,4 +1,4 @@
-StageName*,ModelID,UniqueID,WatchItem,CameraParamName
+StageName,ModelID,UniqueID,WatchItem,CameraParamName
 IdrMuseumFossil_1,0,8,4688,FossilBrachiosaurus
 IdrMuseumFossil_1,1,9,4689,
 IdrMuseumFossil_1,3,11,4691,

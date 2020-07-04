@@ -1,4 +1,4 @@
-Effect*,Sound*,UniqueID,Name
+Effect,Sound,UniqueID,Name
 None,None,20,なし
 Circle,Socks,21,靴：くつした
 Circle,Soft,22,靴：やわらかい

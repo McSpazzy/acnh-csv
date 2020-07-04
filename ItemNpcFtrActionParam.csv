@@ -1,4 +1,4 @@
-NpcFtrActionHoldTime,NpcFtrActionInterest*,NpcFtrActionWeather*,NpcFtrActionTool,UniqueID,Label,Name,NpcFtrActionAsName
+NpcFtrActionHoldTime,NpcFtrActionInterest,NpcFtrActionWeather,NpcFtrActionTool,UniqueID,Label,Name,NpcFtrActionAsName
 0,None,None,-2,0,None,なし,
 0,FtrAccess,None,5397,1,Smartphone,撮影,NpcSmartPhonePress
 150,FtrSwitchOn,RainActive,-2,2,Switch,駆動,MaReSmiling

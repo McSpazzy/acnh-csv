@@ -1,4 +1,4 @@
-Door0Angle,85a0fa49 string,FacilityModelVariation*,FloorHeight,Door0,DoorMaterial,9c2d6dc6 u16,RoofMaterial,StructureInfoUniqueID,UniqueID,Construction,GrowLevel,HasDoorEigyoLight,HasEigyoLight,HasNightLight,IsUseXlink,ModelName,UseChimneySmoke,UseMyDesign
+Door0Angle,85a0fa49 string,FacilityModelVariation,FloorHeight,Door0,DoorMaterial,9c2d6dc6 u16,RoofMaterial,StructureInfoUniqueID,UniqueID,Construction,GrowLevel,HasDoorEigyoLight,HasEigyoLight,HasNightLight,IsUseXlink,ModelName,UseChimneySmoke,UseMyDesign
 0,Invalid,A,0,0,1,7,6,19,0,0,0,0,0,0,0,StrcMarketA00Reserve,0,0
 0,MarketLevel1,A,8,20,2,3,3,19,1,0,1,1,1,1,0,StrcMarketA01,0,0
 0,MarketLevel2,A,7.5,21,2,18,3,19,2,0,2,1,1,0,0,StrcMarketA02,0,0

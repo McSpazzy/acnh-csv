@@ -1,4 +1,4 @@
-PartsKind*,ReefType*,UniqueID,ModelName
+PartsKind,ReefType,UniqueID,ModelName
 PhotoStudio,S_convexity,240,FldOutPhotoSBridge00
 PhotoStudio,SW_convexity,242,FldOutPhotoSW00
 PhotoStudio,SE_convexity,241,FldOutPhotoSE00

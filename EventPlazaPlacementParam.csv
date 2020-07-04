@@ -1,4 +1,4 @@
-36dd90c string,EventType*,24e5b19d string,PlacementKind*,EventFtrUniqueID,EventObjUniqueID,OffsetX,OffsetZ,UniqueID,CalendarEventKey,e6c63c5c string32,7215b154 string32,NpcSpLabel,PlacementKey,VisitorNpcLabel
+36dd90c string,EventType,24e5b19d string,PlacementKind,EventFtrUniqueID,EventObjUniqueID,OffsetX,OffsetZ,UniqueID,CalendarEventKey,e6c63c5c string32,7215b154 string32,NpcSpLabel,PlacementKey,VisitorNpcLabel
 EventNone,PermanentObj,None,EventObj,0,0,0,0,0,EventNone,,,,Invalid,
 EventNone,PermanentObj,None,EventObj,0,1,3,5,1,EventNone,,EventPlazaBuilt,,P_EventNone_EventObj_0,
 EventNone,PermanentObj,None,EventObj,0,2,1,1,2,EventNone,,BuiltTownOffice,,P_EventNone_EventObj_1,

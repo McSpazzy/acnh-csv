@@ -1,4 +1,4 @@
-RoomWindowModelType*,RoomWindowWallType*,UniqueID,ResourceName,WindowName
+RoomWindowModelType,RoomWindowWallType,UniqueID,ResourceName,WindowName
 None,None,6,,無し
 SquareCross,Square,8,RoomMdlWindowSquareCrossWood00,田の字/木/茶色
 SquareCross,Square,9,RoomMdlWindowSquareCrossWood01,田の字/木/こげ茶

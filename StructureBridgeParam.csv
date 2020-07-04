@@ -1,4 +1,4 @@
-BridgePattern*,BridgeTypeUniqueID,UniqueID,ModelName
+BridgePattern,BridgeTypeUniqueID,UniqueID,ModelName
 03,0,0,BridgeStone03
 04,0,1,BridgeStone04
 05,0,2,BridgeStone05

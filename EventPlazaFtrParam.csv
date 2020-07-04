@@ -1,4 +1,4 @@
-EventFtrDirection*,EventFtrSwitch*,ItemNameUniqueID,UniqueID
+EventFtrDirection,EventFtrSwitch,ItemNameUniqueID,UniqueID
 S,OFF,-2,0
 S,OFF,5709,3
 W,OFF,5884,4
