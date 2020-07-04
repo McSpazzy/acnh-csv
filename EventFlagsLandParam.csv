@@ -8,7 +8,7 @@ None,0,EnableReadWrite,ReadOnly,1,5,EnableMarketBuild,まめつぶ商店建築�
 None,0,EnableReadWrite,ReadOnly,1,6,ValidateVillageSave,村データが有効化された,1,0
 Pre,0,EnableReadWrite,ReadOnly,5,7,FreeEChatTimes,村で告知会話を聞いた回数,1,0
 Pre,0,EnableReadWrite,ReadOnly,5,8,FreeFChatTimes,村でイベント会話を聞いた回数,1,0
-None,0,DisableAccess,ReadOnly,FFFF,10,RandomKey,ランダムキー,1,0
+None,0,DisableAccess,ReadOnly,65535,10,RandomKey,ランダムキー,1,0
 None,0,EnableReadWrite,ReadOnly,1,11,DoneMuseumConstruction,博物館建築工事完了,1,0
 None,0,EnableReadWrite,ReadOnly,1,12,Prologue4BuiltPlayer,序盤プレイヤーテント設置したか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,13,Plorogue4BuiltMuseum,フータテント予定地設置したか？,1,0
@@ -41,7 +41,7 @@ None,0,EnableReadOnly,ReadOnly,1,39,MarketRemodelingFlag2,まめきちの店|商
 Pre,0,EnableReadOnly,ReadOnly,1,40,MarketOpen1stDay2,まめきちの店|新装開店当日(倉庫),1,0
 None,0,EnableReadWrite,ReadOnly,6,41,RcoMoveReservedKind,たぬきち|建物移設の予約種類判別カウンタ,1,0
 None,0,EnableReadWrite,ReadOnly,1,42,QuestReserveStart,クエスト予約解禁,1,0
-None,0,EnableReadOnly,ReadOnly,FFFF,43,VillageDaysCount,村の経過日数,1,0
+None,0,EnableReadOnly,ReadOnly,65535,43,VillageDaysCount,村の経過日数,1,0
 None,0,EnableReadWrite,ReadOnly,1,44,PeddlingAvailableSlo,行商解禁済|レイジ,1,0
 None,0,DisableAccess,ReadOnly,1,45,MarketBuilt,まめつぶ商店が建った,1,0
 None,0,EnableReadWrite,ReadOnly,1,46,PeddingAvailableBoa,カブ解禁済｜カブリバ,1,0
@@ -64,8 +64,8 @@ None,0,EnableReadOnly,ReadOnly,1,65,IsNpcIncreased,NPCが1人でも引越して�
 None,0,EnableReadOnly,ReadOnly,1,66,MuseumBuilt,博物館テントが建った,1,0
 None,0,EnableReadOnly,ReadOnly,1,67,TailorBuilt,仕立て屋|仕立て屋が建った,1,0
 None,0,EnableReadWrite,ReadOnly,2,68,IslandKanaType,『島』のルビ,1,0
-None,0,DisableAccess,ReadOnly,FFFF,69,TodayGlobalEventId,今日行われるグローバルイベントのID,1,0
-None,0,DisableAccess,ReadOnly,FFFF,70,TodayRegionEventId,今日行われるリージョンイベントのID,1,0
+None,0,DisableAccess,ReadOnly,65535,69,TodayGlobalEventId,今日行われるグローバルイベントのID,1,0
+None,0,DisableAccess,ReadOnly,65535,70,TodayRegionEventId,今日行われるリージョンイベントのID,1,0
 None,0,EnableReadOnly,ReadOnly,1,71,NoncompliantRegionCode,非対応の地域設定でセーブしたか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,72,GstTalkAnyone,ゆうたろう|ゆうたろうと誰か話したことある？,1,0
 None,0,EnableReadWrite,ReadOnly,1,73,OwlFoundFossil,フータに化石を見せたことがある,1,0
@@ -248,8 +248,8 @@ Pre,0,EnableReadWrite,ReadOnly,1,282,InduceInMysteriTourIslandToday,今日ミス
 None,0,EnableReadWrite,ReadOnly,1,283,Tutorial1PTentLightON,1P島代表のテントの明かりをONにするか？,1,0
 None,0,DisableAccess,ReadOnly,9999,284,PynVisitYear,ぴょんたろうが来訪した年,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,285,PynVisitToday,ぴょんたろうが今日来訪NPCとして来訪する,1,0
-Pre,0,EnableReadWrite,ManualSend,FFFF,286,CatchInsectFesGetTotalNum,ムシ取り大会|全員のムシ取得数,0,1
-Pre,0,EnableReadWrite,ManualSend,FFFF,287,CatchFishFesGetTotalNum,つり大会|全員のサカナ取得数,0,1
+Pre,0,EnableReadWrite,ManualSend,65535,286,CatchInsectFesGetTotalNum,ムシ取り大会|全員のムシ取得数,0,1
+Pre,0,EnableReadWrite,ManualSend,65535,287,CatchFishFesGetTotalNum,つり大会|全員のサカナ取得数,0,1
 None,0,EnableReadWrite,SpNpcOnly,1,288,JohnnyQuestFinishFlagIsland,ジョニー|その日に村で誰かがジョニーを助けたか？(海賊ジョニーでも使用),1,0
 Pre,0,DisableAccess,ReadOnly,10,289,CampRandomSelectMoveOutNpc,キャンプ場|ランダム選出転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
 None,0,DisableAccess,ReadOnly,1,290,CampFireRemoved,広場のキャンプファイアー撤去,1,0
@@ -292,10 +292,10 @@ Pre,0,EnableReadOnly,ReadOnly,1,343,FoxPreVisit1Today,つねきち1回目の事�
 Pre,0,EnableReadOnly,ReadOnly,1,344,FoxPreVisit2Today,つねきち2回目の事前来訪当日,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,345,EarthdaySloFirstVisitToday,今日がアースデーの初回レイジ来訪日,1,0
 None,0,DisableAccess,ReadOnly,1,347,UnlockJuneBrideSeq,ゲーム進行的にジューンブライド解禁,1,0
-None,0,DisableAccess,ReadOnly,FFFF,348,RandomKey1,ランダムキーa,1,1
-None,0,DisableAccess,ReadOnly,FFFF,349,RandomKey2,ランダムキーb,1,1
-None,0,DisableAccess,ReadOnly,FFFF,350,RandomKey3,ランダムキーc,1,1
-None,0,DisableAccess,ReadOnly,FFFF,351,RandomKey4,ランダムキーd,1,1
+None,0,DisableAccess,ReadOnly,65535,348,RandomKey1,ランダムキーa,1,1
+None,0,DisableAccess,ReadOnly,65535,349,RandomKey2,ランダムキーb,1,1
+None,0,DisableAccess,ReadOnly,65535,350,RandomKey3,ランダムキーc,1,1
+None,0,DisableAccess,ReadOnly,65535,351,RandomKey4,ランダムキーd,1,1
 Pre,0,EnableReadWrite,SpNpcOnly,1,352,FoxPreVisitAlreadyBuyToday,つねきち|今日誰かが事前来訪中に美術品を買った,1,0
 None,0,DisableAccess,ReadOnly,1,353,RcoHasResolvedMoveKitBug,いせつキットバグを解消したか,1,0
 None,0,DisableAccess,ReadOnly,1,357,GulBVisitEnable,海賊ジョニーが来訪する条件を満たしたか,1,0

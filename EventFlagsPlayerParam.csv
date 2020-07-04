@@ -563,11 +563,11 @@ DefaultValue,MaxValue,UniqueID,Folded_Season,bed25a86 u8,c436ce69 u8,fa93f14b u8
 0,3,706,0,1,0,2,DodPresentCounterToday,飛行場|今日の搭乗回数カウンタ,1
 0,1,707,0,1,0,2,DodSingleFlightToday,飛行場|今日ツアー島、パニー島に行ったか？,1
 0,20,708,0,1,0,2,DodPresentSendCounter,飛行場|ノベルティ入手カウンタ,1
-FFFF,FFFF,709,1,1,0,0,BDayMsgSenderSNpcUniqueID0,バースデーメッセージを送ったSNpcのユニークID,1
-FFFF,FFFF,710,1,1,0,0,BDayMsgSenderSNpcUniqueID1,バースデーメッセージを送ったSNpcのユニークID,1
-FFFF,FFFF,711,1,1,0,0,BDayMsgSenderNNpcUniqueID0,バースデーメッセージを送ったNNpcのユニークID,1
-FFFF,FFFF,712,1,1,0,0,BDayMsgSenderNNpcUniqueID1,バースデーメッセージを送ったNNpcのユニークID,1
-0,FFFF,713,1,1,0,0,BDayMsgRandomSead,バースデーメッセージの内容を決定する乱数のシード値,1
+65535,65535,709,1,1,0,0,BDayMsgSenderSNpcUniqueID0,バースデーメッセージを送ったSNpcのユニークID,1
+65535,65535,710,1,1,0,0,BDayMsgSenderSNpcUniqueID1,バースデーメッセージを送ったSNpcのユニークID,1
+65535,65535,711,1,1,0,0,BDayMsgSenderNNpcUniqueID0,バースデーメッセージを送ったNNpcのユニークID,1
+65535,65535,712,1,1,0,0,BDayMsgSenderNNpcUniqueID1,バースデーメッセージを送ったNNpcのユニークID,1
+0,65535,713,1,1,0,0,BDayMsgRandomSead,バースデーメッセージの内容を決定する乱数のシード値,1
 0,1,714,0,1,0,2,UnlockMyDesignProCategory,スマホUI|PROデザインのタブカテゴリ解禁,1
 0,30,725,1,1,0,0,BalloonShootCountToday,今日風船をいくつ撃ったか？,1
 0,1,726,0,1,0,2,ContributedBuildBridgeorSlope,セレモニ|橋か坂の建設に貢献した,1
@@ -583,7 +583,7 @@ FFFF,FFFF,712,1,1,0,0,BDayMsgSenderNNpcUniqueID1,バースデーメッセージ�
 0,1,740,1,1,0,0,DailyQuestFivePointDay,日課の5倍ポイントデーか？,1
 0,1,741,0,0,0,0,DailyQuestFirstFivePoint,日課の初回5倍ポイント使用済みか？,1
 0,3,742,0,0,0,0,DailyQuestFivePointMiss,日課ポイント5倍デーはずれ回数,1
-0,FFFF,743,0,0,0,0,DailyQuestFivePointQuest,日課ポイント5倍対象ユニークID,1
+0,65535,743,0,0,0,0,DailyQuestFivePointQuest,日課ポイント5倍対象ユニークID,1
 0,1,744,1,1,0,1,DailyQuestFirstFivePointToday,今日日課の初回5倍ポイントが選ばれているか？,1
 0,1,745,1,1,0,0,DailyQuestFivePointSelect,日課ポイント5倍デー抽選済みフラグ,1
 0,1,746,0,1,0,2,AppE_WelcomoMigrants_Occured,AppE_WelcomeMigrantsが発生した,1
@@ -637,10 +637,10 @@ FFFF,FFFF,712,1,1,0,0,BDayMsgSenderNNpcUniqueID1,バースデーメッセージ�
 0,1,794,0,1,0,2,RcoHeardInviteRemakeWS,たぬきち|リメイク体験会のお誘い会話聞いた,1
 0,1,796,0,0,0,2,KinuyoPROdesginFlag,きぬよ|PROデザインの説明聞いたことある？,1
 0,1,797,0,1,0,2,NoticeAboutMydesingOnWorkBench,作業台|マイデザインリメイク選んで説明ダイアログ見た,1
-0,FFFF,798,0,1,0,0,LatestMysteryTourUniqueID,最後に選出したミステリーツアーのユニークID,1
+0,65535,798,0,1,0,0,LatestMysteryTourUniqueID,最後に選出したミステリーツアーのユニークID,1
 0,1,799,0,1,0,2,OwlMultiDonateExplain,フータ|複数鑑定＆コレって何説明聞いた？,0
 0,1,800,0,1,0,2,StandByPhoneCallIslandCreater,電話デモ|島クリエイタの解禁入電するか？,1
-0,FFFF,801,0,1,0,1,PastDaysFromLastPlay,最後にプレイした日から今日の成長処理までの経過日数,0
+0,65535,801,0,1,0,1,PastDaysFromLastPlay,最後にプレイした日から今日の成長処理までの経過日数,0
 0,1,802,0,1,0,2,UncollectedTreasure,宝未回収で終了,1
 0,1,803,1,0,0,2,VisitMysteryTourID11,ID: 11のミステリーツアー島にその日行ったことがある,1
 0,1,804,1,0,0,2,VisitMysteryTourID12,ID: 12のミステリーツアー島にその日行ったことがある,1
@@ -857,7 +857,7 @@ FFFF,FFFF,712,1,1,0,0,BDayMsgSenderNNpcUniqueID1,バースデーメッセージ�
 0,1,1067,0,0,0,2,GulBSitUpBeforeFlag,海賊ジョニー|今までに起こしたことある？,1
 0,3,1068,0,1,0,2,InducedNpcNum,お出かけ先で勧誘したNPCの数,1
 0,1,1069,1,1,0,2,TalkFreeMultiDayEventTodayFlag,今日、期間型イベント用のFreeFを聞いたか？,1
-0,FFFF,1070,0,0,0,0,EarthDayBonus,アースデーの5倍クエストをクリアした日フラグ,1
+0,65535,1070,0,0,0,0,EarthDayBonus,アースデーの5倍クエストをクリアした日フラグ,1
 0,1,1071,1,1,0,0,TalkVillagerClearToday,日課あいさつ活動を今日クリア済み,1
 0,1,1072,1,1,0,1,EarthDayFirstQuestSystem,アースデーの5倍クエストをまだ出していない（システム用）,1
 0,1,1073,1,1,0,2,EarthDayFirstQuestTalk,アースデーの5倍クエストをまだ出していない（会話用）,1
