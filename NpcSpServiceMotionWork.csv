@@ -1,4 +1,4 @@
-UniqueID,Tango2_Knot,Tango1_Knot,ASCommand3,ASCommand4,ASCommand5,Tango5_Knot,Tango4_Knot,ASCommand8,Label,Rate1,Rate2,Rate3,Rate4,Rate5,Rate6,Rate7,Rate8
+UniqueID,ASCommand1,ASCommand2,ASCommand3,ASCommand4,ASCommand5,ASCommand6,ASCommand7,ASCommand8,Label,Rate1,Rate2,Rate3,Rate4,Rate5,Rate6,Rate7,Rate8
 7,NpcSpDusterMiddle@ToolDusterNormal,NpcSpWatering@ToolSpray,NpcSpWatchDisplay,NpcSpBookSit@ToolBookNovel,MaReSleep,NpcSpArrange,,,szaOffice,10,15,10,45,7,13,0,
 8,NpcSpDrinking@ToolCupCoffee,NpcSpDusterHigh@ToolDusterNormal,NpcSpBook@ToolBookMusic,NpcSpArrange,NpcSpTyping,NpcSpBookSit@ToolBookNovel,NpcSpDrinkingSit@ToolCupCoffee,,rcoOffice,10,10,10,10,20,20,20,
 9,NpcSpBook@ToolBookNovel,NpcSpDrinking@ToolCanTea,,,,,,,rco,50,50,0,0,0,0,0,

@@ -1,4 +1,4 @@
-DefaultValue,MaxValue,UniqueID,Folded_Season,fa93f14b u8,Key,Name
+DefaultValue,MaxValue,UniqueID,5140e4b4 u8,fa93f14b u8,Key,Name
 0,200,0,0,0,NnpcHouseLoan,ローン返済カウント
 0,1,1,0,1,NnpcHouseBuildOk,NPCテント建て替え許可
 0,1,2,0,1,NnpcHouseBuilt,NPCの家建て替え済み

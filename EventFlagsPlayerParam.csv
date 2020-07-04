@@ -1,4 +1,4 @@
-DefaultValue,MaxValue,UniqueID,Folded_Season,bed25a86 u8,c436ce69 u8,fa93f14b u8,Key,Name,SendPlayReport
+DefaultValue,MaxValue,UniqueID,5140e4b4 u8,bed25a86 u8,c436ce69 u8,fa93f14b u8,Key,Name,SendPlayReport
 0,9,2,0,1,0,0,PrologueNpcHintCount,NPCの序盤ヒントをいくつまで聞いたか,1
 0,31,3,0,1,0,2,TotakekeLiveCount,とたけけライブを聴いた回数,1
 0,1,8,1,1,0,2,JohnnyQuestStartFlag,ジョニークエスト開始フラグ(海賊ジョニーは別フラグ),1
