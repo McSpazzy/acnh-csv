@@ -1,4 +1,4 @@
-36dd90c string,EventType,24e5b19d string,PlacementKind,EventFtrUniqueID,EventObjUniqueID,OffsetX,OffsetZ,UniqueID,CalendarEventKey,e6c63c5c string32,7215b154 string32,NpcSpLabel,PlacementKey,VisitorNpcLabel
+036dd90c.HashRef,EventType,24e5b19d.HashRef,PlacementKind,EventFtrUniqueID,EventObjUniqueID,OffsetX,OffsetZ,UniqueID,CalendarEventKey,e6c63c5c string32,7215b154 string32,NpcSpLabel,PlacementKey,VisitorNpcLabel
 EventNone,PermanentObj,None,EventObj,0,0,0,0,0,EventNone,,,,Invalid,
 EventNone,PermanentObj,None,EventObj,0,1,3,5,1,EventNone,,EventPlazaBuilt,,P_EventNone_EventObj_0,
 EventNone,PermanentObj,None,EventObj,0,2,1,1,2,EventNone,,BuiltTownOffice,,P_EventNone_EventObj_1,
@@ -49,11 +49,11 @@ EventNone,PermanentObj,None,Ftr,20,0,5,9,58,EventNone,AllowNpcInterestActivity,C
 EventNone,NpcGroupActivity,Picnic,Ftr,23,0,3,12,59,EventNone,,,,N_Picnic_Ftr_0,
 EventNone,NpcGroupActivity,Picnic,Ftr,23,0,6,11,60,EventNone,,,,N_Picnic_Ftr_1,
 EventNone,NpcGroupActivity,Picnic,Ftr,23,0,9,12,61,EventNone,,,,N_Picnic_Ftr_2,
-EventNone,NpcGroupActivity,-31335.51,Ftr,24,0,6,12,62,EventNone,,,,N_Bonfire_Ftr_0,
+EventNone,NpcGroupActivity,C6F4CF04,Ftr,24,0,6,12,62,EventNone,,,,N_Bonfire_Ftr_0,
 FirstLive,CalendarEvent,None,NPC,0,0,11,9,65,FirstLive,,,tkkA,E_FirstLive_NPC_0,
 FirstLive,CalendarEvent,None,Ftr,4,0,11,9,66,FirstLive,,,,E_FirstLive_Ftr_0,
 EventNone,NpcGroupActivity,BenchResting,Ftr,25,0,4,12,69,EventNone,,,,N_BenchResting_Ftr_0,
-EventNone,NpcGroupActivity,-0.001796194,Ftr,25,0,4,12,70,EventNone,,,,N_BenchDrinking_Ftr_0,
+EventNone,NpcGroupActivity,BAEB6E42,Ftr,25,0,4,12,70,EventNone,,,,N_BenchDrinking_Ftr_0,
 EventNone,NpcGroupActivity,PicnicSpring,Ftr,23,0,3,12,71,EventNone,,,,N_PicnicSpring_Ftr_0,
 EventNone,NpcGroupActivity,PicnicSpring,Ftr,23,0,6,11,72,EventNone,,,,N_PicnicSpring_Ftr_1,
 EventNone,NpcGroupActivity,PicnicSpring,Ftr,23,0,9,12,73,EventNone,,,,N_PicnicSpring_Ftr_2,
