@@ -1,10 +1,10 @@
-ItemCategory,ItemCategoryGroup,37571146 string,e060d3cd u16,ItemRemakeType
+ItemCategory,ItemCategoryGroup,37571146.HashRef,e060d3cd u16,ItemRemakeType
 33,0,A5924EFB,0,0
 34,0,6A84DCB3,0,0
 35,0,5F669172,0,0
 36,0,4C8980E5,0,0
 0,1,4FDB31B,0,0
-40,0,2.762277,0,0
+40,0,4030C926,0,0
 41,0,152195B7,0,0
 48,0,F408423D,0,0
 49,0,14D168D1,0,0
@@ -17,4 +17,4 @@ ItemCategory,ItemCategoryGroup,37571146 string,e060d3cd u16,ItemRemakeType
 0,0,CEBF878C,3,1
 0,0,E8CE7187,3,1
 0,0,2687E7BA,3,1
-0,0,-0.000391739,3,1
+0,0,B9CD6253,3,1
