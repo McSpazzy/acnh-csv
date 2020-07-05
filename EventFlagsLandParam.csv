@@ -1,4 +1,4 @@
-fdb1f290 string,DefaultValue,fca0adb0 string,93f49ec4 string,MaxValue,UniqueID,Key,Name,SendPlayReport,SyncNoCheck
+fdb1f290.HashRef,DefaultValue,fca0adb0.HashRef,93f49ec4.HashRef,MaxValue,UniqueID,Key,Name,SendPlayReport,SyncNoCheck
 Pre,0,EnableReadOnly,ReadOnly,1,0,TodayCreateVillage,今日村作成されたか,1,0
 Pre,0,DisableAccess,ReadOnly,1,1,TodayPlayerEmigrate,今日プレイヤが移住してきたか？,1,0
 None,0,EnableReadOnly,ReadOnly,1,2,TkkFirstLive,とたけけ|初ライブを行ったか,1,0
