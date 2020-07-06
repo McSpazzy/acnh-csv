@@ -1,4 +1,4 @@
-AsName,CategoryName,8b1904b9.HashRef,UniqueID,Collision,DemoType,Label,Name,e387a24 u32
+AsName,CategoryName,8b1904b9.HashRef,UniqueID,Collision,DemoType,Label,Name,SwitchableOnWall
 FtrLoopAuto,None,Unknown,1,1,0,None,なし,0
 FtrTriggerToLoopOnOff,Chair,Unknown,14,1,0,Chair,イス：通常,1
 FtrTriggerToLoopOnOff,Chair,Unknown,41,1,0,ChairSp,イス：SP,1
