@@ -1,4 +1,4 @@
-Category,FloorScale,RotateOffsetX,RotateOffsetY,RotateOffsetZ,TransOffsetX,TransOffsetY,TransOffsetZ,WallScale,BreakDamage,UniqueID,46489ce7 u8,Label,Name,SpecialELink,SpecialSLink,Storage
+Category,FloorScale,RotateOffsetX,RotateOffsetY,RotateOffsetZ,TransOffsetX,TransOffsetY,TransOffsetZ,WallScale,BreakDamage,UniqueID,HangerInfo,Label,Name,SpecialELink,SpecialSLink,Storage
 AccessoryEye,0.75,-98.9,-90,0,3.043,2.173,1.776,0.85,0,110,3,AccessoryOneEye,アクセサリ：片目,0,0,
 AccessoryMouth,0.75,-97.3,-90,0,1.6,3.4,0,0.75,0,8,4,AccessoryMouth,アクセサリ：口,0,0,
 AccessoryMouth,0.75,-97.3,-90,0,1.6,3.4,0,0.75,0,74,4,AccessoryMouthInvisibleNose,アクセサリ：口(鼻なし),0,0,

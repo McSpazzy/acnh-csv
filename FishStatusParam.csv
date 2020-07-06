@@ -1,4 +1,4 @@
-AppearArea,AppearType,BuoyLv,EscapeScale,FishMuseumAction,4108715d f32,SearchRadius,ShadowType,ItemID,OpenDonatedNum,ToyItemID,UniqueID,DebugName,IsCreateBait,e91fc27 u8,Label,1f875d3d string32,ResName,ResNameMuseum
+AppearArea,AppearType,BuoyLv,EscapeScale,FishMuseumAction,4108715d f32,SearchRadius,ShadowType,ItemID,OpenDonatedNum,ToyItemID,UniqueID,DebugName,IsCreateBait,IsSidewaysShow,Label,1f875d3d string32,ResName,ResNameMuseum
 0,River,1,1,AntiStream,10,2,M,2237,0,6936,24,アユ,1,0,Ayu,SysFishBoneRes3,FishAyu,FishAyuMuseum
 0,Pond,1,1,KeepSwimming,10,1,S,5254,20,7009,135,ランチュウ,1,0,Ranchu,SysFishBoneRes3,FishRanchu,FishRanchu
 0,River,0,1,KeepSwimming,10,2,L,2250,50,6935,37,アロワナ,1,0,Arowana,SysFishBoneRes4,FishArowana,FishArowanaMuseum
