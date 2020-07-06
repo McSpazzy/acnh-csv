@@ -1,4 +1,4 @@
-NpcMsgBullfestCondition,754c57c7 u16,9e7becc4 u16,AccessoryID,c35c5af7 u16,286be1f4 u16,BagID,BottomsID,CapID,CombinationNum,EyeAcceID,8c03fdc7 u16,673446c4 u16,b9507563 u16,5267ce60 u16,7b1d9990 u16,902a2293 u16,HelmetID,5ef56066 u16,b5c2db65 u16,d0241896 u16,3b13a395 u16,ShoesID,SocksID,ToolID,TopsID,UmbrellaID,UniqueID,7991b277 u16,92a60974 u32
+NpcMsgBullfestCondition,AN1Index,AN2Index,AccessoryID,BO1Index,BO2Index,BagID,BottomsID,CapID,CombinationNum,EyeAcceID,FU1Index,FU2Index,GE1Index,GE2Index,HA1Index,HA2Index,HelmetID,KO1Index,KO2Index,OT1Index,OT2Index,ShoesID,SocksID,ToolID,TopsID,UmbrellaID,UniqueID,ZK1Index,ZK2Index
 NpcRelatedTops,1,101,-2,1,101,-2,-2,-2,0,-2,1,101,1,101,1,101,-2,1,101,1,101,-2,-2,-2,-2,-2,1,1,101
 NpcRelatedAccessory,2,-1,-2,2,-1,-2,-2,-2,0,-2,2,-1,2,-1,2,-1,-2,2,-1,2,-1,-2,-2,-2,-2,-2,2,2,65535
 CapOrHelmet,3,-1,-2,3,-1,-2,-2,-2,0,-2,3,-1,3,-1,3,-1,-2,3,-1,3,-1,-2,-2,-2,-2,-2,3,3,65535
