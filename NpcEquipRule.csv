@@ -1,4 +1,4 @@
-423d1c4d.HashRef,b219374f.HashRef,68d62ca8.HashRef,PurposeScore,PurposeTag,ScoreMultiplier,SeasonScore,TasteScore,UniqueID,f9cf603a u8,CapPurposeLimit,a4396b29 u8,744b3452 u8,a073aa81 u8,fdf8907b u8,Label,74275e7a u8,MaskPurposeLimit,14767df7 u8,Name
+ClothesFrequencyWear,ClothesPurposeLimit,68d62ca8.HashRef,PurposeScore,PurposeTag,ScoreMultiplier,SeasonScore,TasteScore,UniqueID,f9cf603a u8,CapPurposeLimit,a4396b29 u8,744b3452 u8,a073aa81 u8,fdf8907b u8,Label,74275e7a u8,MaskPurposeLimit,14767df7 u8,Name
 Always,None,None,3,12,2,2,5,0,1,0,0,1,0,0,Usually,0,0,0,日常
 Always,Limit,Condition,2,17,4,0,8,9,3,1,2,0,0,0,SnowWear,0,0,0,雪具
 Relatively,Limit,None,2,11,4,0,8,10,2,1,0,0,0,0,Fishing,0,0,0,つり行動
