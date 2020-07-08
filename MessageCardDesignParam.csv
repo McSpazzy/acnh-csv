@@ -1,4 +1,4 @@
-BackColor,BodyColor,63a46970 u16,FootColor,HeadColor,PenColor1,PenColor2,PenColor3,PenColor4,RuleColor,953983b4 u16,d299f964 u16,ada3644a u16,ea031e9a u16,TextLotId,84818e10 u16,UniqueID,Kind,ResourceName,SelectableSeason,UnlockTrigger
+BackColor,BodyColor,63a46970 u16,FootColor,HeadColor,PenColor1,PenColor2,PenColor3,PenColor4,RuleColor,SelectableBeginDate1,SelectableBeginDate2,SelectableEndDate1,SelectableEndDate2,TextLotId,84818e10 u16,UniqueID,Kind,ResourceName,SelectableSeason,UnlockTrigger
 -1,113,-2,113,113,113,114,115,116,1,0,0,0,0,-1,-1,387,0,MsgAcademy00,0,1
 -1,198,-2,198,198,1,2,3,4,1,0,0,0,0,-1,-1,403,0,MsgNewyear01,0,1
 -1,163,-2,164,164,1,2,3,4,1,0,0,0,0,-1,-1,411,0,MsgTotakeke00,0,1

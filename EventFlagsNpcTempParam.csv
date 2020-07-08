@@ -1,4 +1,4 @@
-DefaultValue,MaxValue,UniqueID,5f77b61a u8,8d401df7 u8,fa93f14b u8,Key,Name
+DefaultValue,MaxValue,UniqueID,5f77b61a u8,8d401df7 u8,FlagsFlowAccess,Key,Name
 1,1,0,0,1,0,PlayerBirthdayEnter,プレイヤ誕生日分岐：入場直後
 0,3,1,0,1,0,PlayerBirthdayEnterFinish,プレイヤ誕生日分岐：入場後カメラ操作
 0,255,2,0,1,1,ContinuousReactionTalkCount,連続リアクション会話回数

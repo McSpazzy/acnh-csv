@@ -1,4 +1,4 @@
-DefaultValue,MaxValue,UniqueID,fa93f14b u8,Key,Name
+DefaultValue,MaxValue,UniqueID,FlagsFlowAccess,Key,Name
 0,1,0,2,DC_ChmTalkRuleFirst,カメヤマ(DC)|開催中、初回ルール説明聞いたか？
 0,1,1,2,DC_ChmQuestFinish,カメヤマ(DC)|結果発表あるか？
 0,1,2,2,DC_ChmTalkFirst_BeforeEv,カメヤマ(DC)|カメヤマさんと面識ある？

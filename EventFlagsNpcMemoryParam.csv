@@ -1,4 +1,4 @@
-UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,fa93f14b u8,Key,MaxValue,Name
+UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,FlagsFlowAccess,Key,MaxValue,Name
 0,1,1,0,0,2,TalkFreeMultiDayEventNow,1,（ボツ）今、期間型イベント用のFreeFを聞いたか？
 1,0,0,0,0,1,ContinuousTalkDays,7,何日連続で話しかけられたか
 2,0,0,0,0,2,SameLand,1,同じ村に住んでいたことがあるか

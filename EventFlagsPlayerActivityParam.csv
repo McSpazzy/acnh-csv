@@ -1,4 +1,4 @@
-MaxValue,MessageLabel,TalkValueVillager,TalkValueVisitor,UniqueID,fa93f14b u8,Key,Name
+MaxValue,MessageLabel,TalkValueVillager,TalkValueVisitor,UniqueID,FlagsFlowAccess,Key,Name
 720,101,180,60,0,0,PlayTime,プレイ時間
 128,102,40,15,1,0,GetFishCount,サカナを釣った回数
 128,103,40,15,2,0,GetInsectCount,ムシをつかまえた回数

@@ -1,4 +1,4 @@
-b5761610.HashRef,WaitFrame,AppearValue,GenreID,ItemNameUniqueID,MaxValue,MsID,Reward,UniqueID,BonusFive,CanSelectEDay,CancelEDay,CountOtherVillage,fa93f14b u8,IsEDay,Key,Name,NetPlaySelect,SpecialSelect,Weighting
+b5761610.HashRef,WaitFrame,AppearValue,GenreID,ItemNameUniqueID,MaxValue,MsID,Reward,UniqueID,BonusFive,CanSelectEDay,CancelEDay,CountOtherVillage,FlagsFlowAccess,IsEDay,Key,Name,NetPlaySelect,SpecialSelect,Weighting
 Num,0,30,9,-2,20,9,100,0,0,0,1,1,0,0,SellWeed,村清掃活動,0,1,2
 Num,60,15,10,-2,8,10,100,1,1,0,0,1,0,0,WaterPlant,水やり活動,0,1,2
 Num,0,4,8,-2,3,8,150,2,0,0,0,0,0,0,JudgeFossil,化石発掘調査活動,0,1,3
