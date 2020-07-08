@@ -1,4 +1,4 @@
-StageName,98ff7f38 u32,e23f2c58 u32,StampRackItemNameA,StampRackItemNameB,StampRackItemNameC,StampRackSetDirection,UniqueID,StampRackIdx,StampRackNameExplainLabel,StampRackNameTextLabel,96d80132 string32,ed4b6070 u8
+StageName,StampRackPutUnitX,StampRackPutUnitZ,StampRackItemNameA,StampRackItemNameB,StampRackItemNameC,StampRackSetDirection,UniqueID,StampRackIdx,StampRackNameExplainLabel,StampRackNameTextLabel,96d80132 string32,ed4b6070 u8
 IdrMuseumInsect_0,59,5,612,637,600,180,0,0,002,001,001,1
 IdrMuseumInsect_0,54,25,652,3485,639,180,1,1,004,003,002,0
 IdrMuseumInsect_0,13,48,623,599,607,270,2,2,006,005,003,0

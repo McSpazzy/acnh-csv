@@ -1,4 +1,4 @@
-SilhouetteID,StageName,35ac2c17.HashRef,1f3893e5 u32,2258ba55 f32,65f8c085 f32,WatchAngleY,WatchPosX,WatchPosY,WatchPosZ,UniqueID,BattlePoint,PointName,SilhouettePoint
+SilhouetteID,StageName,35ac2c17.HashRef,WalkWatchOffsetX,WalkWatchOffsetY,WalkWatchOffsetZ,WatchAngleY,WatchPosX,WatchPosY,WatchPosZ,UniqueID,BattlePoint,PointName,SilhouettePoint
 0,IdrMuseumFish_2,Always,0,10,20,135,240,10,230,3,0,ピラルク,0
 0,IdrMuseumFish_2,Always,0,10,20,0,75,0,195,4,0,ベタ,0
 0,IdrMuseumFish_2,Always,0,10,20,180,135,4,135,5,0,イトウ,0
