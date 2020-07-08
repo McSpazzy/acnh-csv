@@ -1,4 +1,4 @@
-AppearanceLevel,DefaultDoorUniqueID,DefaultRoofUniqueID,DefaultWallUniqueID,e6fc6624 u16,UniqueID,DoorBellName,Name
+AppearanceLevel,DefaultDoorUniqueID,DefaultRoofUniqueID,DefaultWallUniqueID,HousePartsType,UniqueID,DoorBellName,Name
 Level04,0,0,0,0,0,DoorBell_House_Standard1_Pl,スタンダード1
 Invalid,9,19,14,1,1,DoorBell_House_Standard1_Npc,NPCスタンダード１
 Tent,7,4,7,0,3,,プレイヤテント

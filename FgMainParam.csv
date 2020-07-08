@@ -1,4 +1,4 @@
-CollisionHeight,InsectParam,Kind,123efcf1 u32,BuryItem,BuryItem2,BuryItem3,ChangeFg,DigItem,EffectAttribute,GrowupFg,NutItem,PicItem,SoundAttribute,UniqueID,ColorIndex,DebugName,Grow,Label,ModelName,Nature,a4b2d66d u8,ResName
+CollisionHeight,InsectParam,Kind,PicIconHeight,BuryItem,BuryItem2,BuryItem3,ChangeFg,DigItem,EffectAttribute,GrowupFg,NutItem,PicItem,SoundAttribute,UniqueID,ColorIndex,DebugName,Grow,Label,ModelName,Nature,a4b2d66d u8,ResName
 0,None,TreeOak,0,5152,2794,-2,-2,5152,0,-5530,-2,-2,0,-5531,255,広葉樹（苗）,0,PltTreeOak0,PltTreeOak0,129,6,PltTreeOak
 12,None,TreeOak,0,2796,-2,-2,-5011,2796,0,-5529,-2,-2,0,-5530,255,広葉樹（成長１）,1,PltTreeOak1,PltTreeOak1,19,7,PltTreeOak
 14.7,None,TreeOak,0,2797,-2,-2,-5012,2797,0,-5528,-2,-2,0,-5529,255,広葉樹（成長２）,2,PltTreeOak2,PltTreeOak2,19,7,PltTreeOak

@@ -1,4 +1,4 @@
-801351e6 f32,MemoryUnitNum,PolygonLimit,UniqueID,HalfUnitSizeX,HalfUnitSizeZ,Label,Name
+ResSizeLimit,MemoryUnitNum,PolygonLimit,UniqueID,HalfUnitSizeX,HalfUnitSizeZ,Label,Name
 1.575,1,1200,2,2,2,1_0x1_0,1x1
 3.15,2,2400,4,4,2,2_0x1_0,2x1
 6.3,4,4800,5,4,4,2_0x2_0,2x2

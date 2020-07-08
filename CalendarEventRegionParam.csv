@@ -1,4 +1,4 @@
-RegionEventCountry1,SortID,af2602cd u16,92462b7d u16,2066f76d u16,1d06dedd u16,UniqueID,EventLabel,ItemFrom
+RegionEventCountry1,SortID,RegionEventCountry2,RegionEventCountry3,RegionEventCountry4,RegionEventCountry5,UniqueID,EventLabel,ItemFrom
 EachCountry,501,0,0,0,0,1,MothersDay,MotherDay
 EachCountry,600,0,0,0,0,2,WorldChild,WoldChildDay
 EachCountry,601,0,0,0,0,3,FathersDay,FatherDay

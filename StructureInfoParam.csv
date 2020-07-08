@@ -1,4 +1,4 @@
-1ff4093d.HashRef,ModelType,fec3548b.HashRef,StructureInfoHouseType,StructureInfoType,Door0,UniqueID
+HousePartsType,ModelType,fec3548b.HashRef,StructureInfoHouseType,StructureInfoType,Door0,UniqueID
 Player,House,0,Player,House,1,0
 Player,House,MainField,Player,House,1,1
 Player,House,MainField,Player,House,2,2
