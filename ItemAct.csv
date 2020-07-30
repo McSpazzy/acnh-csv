@@ -35,7 +35,6 @@ FtrLoopTrigger,None,Unknown,51,1,0,LoopTrigger,ループ：トリガー,1
 FtrLoopAuto,None,Unknown,64,1,0,LoopAutoOnOff,ループ：オンオフ,1
 FtrLoopTrigger,None,Unknown,63,1,0,LoopTriggerOnOff,ループ：トリガー：オンオフ,1
 FtrLoopTriggerWaitEndOnKeep,None,Unknown,71,1,0,LoopTriggerWaitEndOnKeep,ループ終了待ち：トリガー,1
-FtrLoopTrigger,None,Unknown,76,1,0,LoopTriggerRestart,ループ：トリガー：上書き,1
 FtrTriggerOnce,None,Unknown,3,1,0,TriggerOnce,トリガー,1
 FtrTriggerOnOff,None,Unknown,6,1,0,TriggerOnOff,トリガー：オンオフ,1
 FtrTriggerOnce,None,Unknown,7,1,0,TriggerRestart,トリガー：上書き,1

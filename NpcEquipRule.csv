@@ -19,4 +19,3 @@ Always,Limit,None,1,21,4,3,6,25,2,1,0,3,1,0,Concert,0,0,0,ライブ
 Always,Limit,Condition,2,18,4,0,8,27,1,1,0,2,1,2,SportsHobby,0,0,0,運動_しゅみ
 Always,Limit,Enable,10,14,3,0,0,28,3,1,1,0,0,0,RainWear,0,0,0,レインコート
 Always,Limit,Enable,2,31,4,0,8,29,3,1,1,0,0,0,Easter,0,0,0,イースター
-Always,Limit,None,2,32,4,0,8,30,3,1,0,0,0,0,Fireworks,0,0,0,花火大会

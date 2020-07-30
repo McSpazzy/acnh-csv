@@ -31,8 +31,6 @@ NormalScaleMaskA,NormalScaleMaskB,NormalScaleMaskG,NormalScaleMaskR,UniqueID,Lab
 0,0,0,0,101,NpcSpTopsAlwOnepieceDressN,NpcSpTopsAlwOnepieceDressN,,,NpcSpTopsAlwOnepieceDressN,
 0,0,0,0,102,NpcSpTopsAlpTshirtsL,NpcSpTopsAlpTshirtsL,,,NpcSpTopsAlpTshirtsL,
 0,0.215,1,1,108,PlayerTopsMarinesuitNormalL,PlayerTopsMarinesuitNormalL,OnepieceL,OnepieceL,PlayerTopsMarinesuitNormalL,FtrTorsoTopsPants
-0,0,0,0,109,NpcSpBottomsFoxPantsWide,NpcSpBottomsFoxPantsWide,,,NpcSpBottomsFoxPantsWide,
-0,0,0,0,110,NpcSpTopsFoxOuterL,NpcSpTopsFoxOuterL,,,NpcSpTopsFoxOuterL,
 0,0.215,0,1,111,PlayerTopsMarinesuitNormalN,PlayerTopsMarinesuitNormalN,OnepieceN,OnepieceN,PlayerTopsMarinesuitNormalN,FtrTorsoTopsPants
 0,0.215,1,1,112,PlayerTopsMarinesuitNormalH,PlayerTopsMarinesuitNormalH,OnepieceH,OnepieceH,PlayerTopsMarinesuitNormalH,FtrTorsoTopsPants
 0,0.05,1,0,1,PlayerTopsTopTshirtsH,PlayerTopsTopTshirtsH,TshirtsH,TshirtsH,PlayerTopsTopTshirtsH,FtrTorsoTops

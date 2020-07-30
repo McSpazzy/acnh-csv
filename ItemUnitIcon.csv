@@ -2,7 +2,6 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 1,-2,5,255,None,,（なし）,
 0.8,-2,279,255,MileCard,UnitIconMileCard,たぬきマイルカード,UnitIconMileCard
 0.8,-2,303,255,MarineSuit,UnitIconMarineSuit,マリンスーツ,UnitIconMarineSuit
-0.8,-2,304,1,Cinder,UnitIconFireworks,もえかす,UnitIconFireworks
 0.8,-2,305,255,Pearl,UnitIconPearl,しんじゅ,UnitIconPearl
 0.8,-2,306,255,PirateQuest,UnitIconPirateQuest,むせんき,UnitIconPirateQuest
 0.8,-2,0,0,Leaf,UnitIconLeaf,葉っぱ,UnitIconLeaf
@@ -29,7 +28,6 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,208,255,Pitfall,UnitIconPitfall,おとしあなのタネ,UnitIconPitfall
 0.8,-2,207,255,Music,UnitIconMusic,ミュージック,UnitIconMusic
 0.8,-2,184,255,Medicine,UnitIconMedicine,おくすり,UnitIconMedicine
-0.8,-2,237,0,Fireworks,UnitIconFireworks,置き花火,UnitIconFireworks
 0.8,-2,209,0,RemakeKit,UnitIconRemakeKit,リメイクキット,UnitIconRemakeKit
 1,-2,274,255,SmartphoneCase,UnitIconSmartphoneCase,スマホケース,UnitIconSmartphoneCase
 0.8,-2,236,255,Timer,UnitIconTimer,タイマー,UnitIconTimer
@@ -44,7 +42,6 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,235,1,TailorTicket,UnitIconAirTicket,したてやひきかえけん,UnitIconAirTicket
 0.8,-2,277,2,RollanTicket,UnitIconAirTicket,ローランひきかえけん,UnitIconAirTicket
 0.8,-2,278,3,BellExchangeTicket,UnitIconAirTicket,ベルひきかえかん,UnitIconAirTicket
-0.8,-2,307,4,DreamBellExchangeTicket,UnitIconAirTicket,ゆめのベルひきかえけん,UnitIconAirTicket
 0.8,-2,163,0,PresentBoxRed,UnitIconPresentred,プレゼントBOX赤,UnitIconPresentred
 0.8,-2,164,1,PresentBoxGreen,UnitIconPresentred,プレゼントBOX青,UnitIconPresentred
 0.8,-2,166,255,Insect,UnitIconInsect,生物：ムシかご,UnitIconInsect
