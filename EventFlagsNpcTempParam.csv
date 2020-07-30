@@ -47,4 +47,10 @@ DefaultValue,MaxValue,UniqueID,5f77b61a u8,8d401df7 u8,FlagsFlowAccess,Key,Name
 0,1,47,0,0,2,TreasureHuntGiveCancel,宝を渡すのをやめた
 0,2,49,0,1,2,PlayerBirthdayRestoreCamera,プレイヤ誕生日分岐：正面カメラに復帰
 0,1,51,0,0,2,EasterRecipeTalk,イースター用レシピ会話が出せる状態か
+0,1,53,0,0,1,FireworksFieldNpc,花火大会時フィールドNPCに選ばれた
+0,1,54,0,0,1,FireworksFieldLater,花火大会時18時以降に外に出る
+0,1,55,0,0,2,FireworksAroundWater,花火大会時水辺でうろつく
+0,1,56,0,0,2,ArrivedInEventPlaza,イベント広場に到着済み
+0,1,57,0,1,2,FireworksApproachTalk,花火大会用アプローチ会話が出せる状態か
 0,1,58,0,1,2,NotAddTalkCount,会話回数を加算しない
+0,1,59,0,0,2,FireworksItemTalk,花火大会用の会話が出せる状態か

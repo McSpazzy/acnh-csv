@@ -28,7 +28,7 @@ CharacterId,NumberingId,SpNpcCloth,NfpType,NpcLabel,NpcType,Reaction,SeriesId,St
 102656,78,0,1,poo,1,1,5,1
 108544,79,0,1,fox,1,0,5,0
 108032,80,0,1,cml,1,0,5,0
-111872,81,0,1,tap,1,1,5,1
+111872,81,0,1,tap,1,0,5,0
 110592,82,0,1,ttlA,1,1,5,1
 109056,83,0,1,ott,1,1,5,1
 114944,84,0,1,otg,1,1,5,1

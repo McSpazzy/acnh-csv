@@ -57,4 +57,8 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,3dad9135 u8,3c7fb88f u8,FlagsFlowAcce
 0,1,71,0,0,0,2,1,RemakeJuneBrideTalkTimeAfterNow,ジューンブライド歓談直後か？(リメイク解禁後)
 0,1,72,0,0,0,2,0,GulBTalkShareplay,海賊ジョニー|海賊ジョニーはパーツ探し中？
 0,1,73,0,0,0,2,0,GulBClearShareplay,海賊ジョニー|おすそわけ中に誰かクリアした？
+0,3,74,3,0,0,1,2,SetFireworksEarlyAggregator,花火大会|早めに集まるNPCを決定したか
+0,1,75,0,0,0,2,1,TapDreamFirstTalkDone,ゆめみ|ゆめみ先入場時の強制会話を聞いたか？
+0,10,77,3,0,0,0,2,FireworksSitBenchNpcIndex,花火大会|ベンチに座るNPC住人番号
 0,1,78,3,0,0,2,5,NpcVisitPlayerHouse,NPCがプレイヤーの家に訪問中か
+0,1,79,3,0,0,2,1,TapIndoorPos,ゆめみ|ゆめみ室内での立ち位置制御
