@@ -741,6 +741,7 @@ AllYear,5565,786,0,0,0,0,0,0,1,0,0,1,0,,ShoesSandalResin,スリッポンサン�
 AllYear,5566,787,1,0,0,0,0,0,1,0,0,0,0,,ShoesHighcutSlipon,スリッポン,0
 AllYear,5567,788,0,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceBoxLSchoolsmock,スクールスモック,0
 AllYear,5606,789,0,1,0,0,0,1,0,0,1,0,0,,ShoesLowcutLolita,ロリータシューズ,0
+AllYear,5607,790,0,0,1,1,0,1,0,0,1,0,0,,CapFullfaceKingtut,ツタンカーメン,0
 AllYear,5608,791,0,1,0,0,0,0,0,1,1,0,1,,ShoesLowcutBallet,バレエシューズ,0
 AllYear,5609,792,0,0,0,0,0,1,0,0,1,0,1,,ShoesKneeVisual,ヴィジュアルけいブーツ,0
 AllYear,5610,793,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceSalopetteLRumba,ルンバないしょう,0
@@ -1025,6 +1026,9 @@ AllYear,9847,1098,1,0,1,0,0,0,0,0,0,0,0,,ShoesLowcutEmbroidery,ししゅうの�
 AllYear,9854,1105,1,1,0,0,0,0,0,0,0,0,0,,CapOrnamentLFlowerhairpin,おはなのヘアピン,0
 AllYear,9855,1106,1,1,0,0,0,0,0,0,0,0,0,,CapOrnamentLHearthairpin,ハートのかみかざり,0
 AllYear,9856,1107,1,1,0,0,0,0,0,0,0,0,0,,CapOrnamentLStarhairpin,ほしのかみかざり,0
+AllYear,9857,1108,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentFBallband,ひかるボールアクセサリー,0
+AllYear,9858,1109,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentFFlowerband,ひかるはなのアクセサリー,0
+AllYear,9859,1110,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentFHeartband,ひかるハートアクセサリー,0
 AllYear,9860,1111,1,1,0,0,0,1,0,0,0,0,0,,CapOrnamentTBarrette,バレッタ,0
 AllYear,9861,1112,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentTRibbon,おおきなリボン,0
 AllYear,9862,1113,0,1,0,0,0,1,0,0,1,0,0,,CapCostumeStar,おほしさまのあたま,0
@@ -1049,6 +1053,7 @@ AllYear,9883,1134,1,0,1,0,0,0,0,1,1,0,0,,SocksTexKatesocks,ケイトのソック
 AllYear,9884,1135,1,0,1,0,0,1,0,0,1,0,1,,ShoesHighcutKateboots,ケイトのパンプス,0
 AllYear,9885,1136,1,0,0,0,0,0,0,1,1,0,0,,ShoesHighcutKatesneaker,ケイトのスニーカー,0
 AllYear,9887,1137,1,0,1,0,0,1,0,0,1,1,0,,AccessoryGlassKate,ケイトのサングラス,0
+AllYear,2611,1139,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentFStarband0,ひかるスターアクセサリー,0
 AllYear,5625,1140,0,0,0,0,1,0,0,0,0,0,1,,TopsTexTopOuterLRco,たぬきかいはつブルゾン,0
 AllYear,5626,1141,0,0,0,0,0,0,1,0,0,1,0,,TopsTexTopTshirtsHRco,たぬきかいはつアロハ,0
 AllYear,5627,1142,0,0,0,0,1,0,0,1,0,0,0,,CapHatMeshcapRco,たぬきかいはつキャップ,0
@@ -1140,6 +1145,7 @@ AllYear,12665,1228,0,1,0,1,0,0,0,0,1,0,0,,ShoesKneePirates,かいぞくのブー
 AllYear,12666,1229,0,1,0,1,0,0,0,0,1,0,0,,CapHatPiratesbandana,かいぞくのバンダナ,0
 AllYear,12667,1230,0,1,1,1,0,0,0,0,1,0,0,,TopsTexOnepieceAlongLPirates,かいぞくのおたからローブ,0
 AllYear,12668,1231,0,1,0,1,0,0,0,0,1,0,0,,TopsTexOnepieceOverallLPirates0,かいぞくのふく,0
+AllYear,12797,1233,1,1,0,0,1,1,0,0,0,0,0,,BagBackpackHarvest,ぶどうのしゅうかくおけ,0
 AllYear,12958,1244,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceAlongNMermaiddress,マーメイドなおさかなドレス,0
 AllYear,12957,1245,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceDressNMermaid,マーメイドなプリンセスドレス,0
 Winter,12959,1246,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLWintersolstice,とうじのセーター,0
@@ -1150,6 +1156,8 @@ AllYear,12970,1258,0,0,0,0,1,0,0,1,0,1,1,TshirtsL,TopsTexMarinesuitNormalLNook,�
 AllYear,12981,1259,0,0,0,0,1,0,0,1,0,1,0,TshirtsL,TopsTexMarinesuitNormalLRashguard,はっぱがらマリンスーツ,0
 AllYear,12986,1260,0,0,0,0,1,0,0,1,0,1,0,TshirtsL,TopsTexMarinesuitNormalNGreco,ボーダーのマリンスーツ,0
 AllYear,13215,1300,0,0,0,0,1,0,0,1,0,1,1,,AccessoryGlassmouthNook,たぬきかいはつシュノーケル,0
+AllYear,13239,1301,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceKimonoLWeaverwomen,おりひめのふく,0
+AllYear,13240,1302,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceKimonoLWeavermen,ひこぼしのふく,0
 AllYear,2655,6,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsLBorder,ボーダーＴシャツ,0
 AllYear,3255,8,0,0,0,0,1,0,0,1,0,0,0,,TopsTexTopYshirtsLMountain,マウンテンパーカー,0
 Winter,2782,13,1,0,0,0,0,0,0,0,0,0,0,,TopsTexTopCoatLDuffle,ダッフルコート,0

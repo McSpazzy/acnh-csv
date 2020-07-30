@@ -45,8 +45,14 @@ UniqueID,Label,Name,ResName
 560,Ocarina,オカリナ,Ocarina
 561,Panflute,パンフルート,Panflute
 562,Tambourine,タンバリン,Tambourine
+216,Hanabi,手持ち花火,Hanabi
 370,GlowStick,スティックライト,GlowStick
 563,Uchiwa,うちわ,Uchiwa
+233,Windmill,風車,Windmill
+232,Syabon,シャボン玉,Syabon
+371,BlowRollItem,ふきもどし,BlowRollItem
+231,Balloon,風船,Balloon
+720,ToolPennantRcm,つぶまめの手持ちペナント,ToolPennantRcm
 188,Music,ミュージック,Music
 208,Fossil,化石,Fossil
 209,FossilJ,鑑定済化石,FossilJ
@@ -55,8 +61,10 @@ UniqueID,Label,Name,ResName
 656,SmartphoneCase,スマホケース,SmartphoneCase
 214,Medicine,おくすり,Medicine
 207,Timer,タイマー,Timer
+275,PutHanabi,置き花火,PutHanabi
 298,Honeycomb,ハチの巣,Honeycomb
 564,FishBait,サカナの撒き餌,FishBait
+722,Cinder,置き花火の燃えカス,Cinder
 657,Cardboard,ダンボール,Cardboard
 240,Present,プレゼントBOX,Present
 241,Present2,プレゼントBOX：クエスト用,Present2
@@ -141,6 +149,7 @@ UniqueID,Label,Name,ResName
 619,TailorTicket,したてやひきかえけん,TailorTicket
 662,BellExchangeTicket,ベルひきかえけん,BellExchangeTicket
 663,RollanTicket,ローランひきかえけん,RollanTicket
+721,DreamBellExchangeTicket,ゆめのベルひきかえけん,DreamBellExchangeTicket
 569,OreStone,鉱石：いし,OreStone
 570,OreClay,鉱石：ねんど,OreClay
 572,OreIron,鉱石：鉄鉱石,OreIron

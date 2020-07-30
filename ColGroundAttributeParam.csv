@@ -64,3 +64,4 @@ EffectAttribute,SoundAttribute,UniqueID,ViewSortID,CanBury,DebugName,FtrPlace,2e
 22,8,66,93,0,溶岩,1,#FFFFFF,#FFFFFF,0,0,0,0,0
 4,4,67,94,0,屋内:砂,1,#FFFFFF,#FFFFFF,0,0,0,0,0
 3,50,68,8,0,海進入禁止,1,#FFFFFF,#FFFFFF,0,1,1,0,1
+0,1,69,95,0,ゆめみ室内専用,0,#FFFFFF,#FFFFFF,0,0,0,0,0

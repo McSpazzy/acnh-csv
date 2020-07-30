@@ -33,12 +33,15 @@ OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,10,0,26,1,0,1,1,1,1,0,1,0,1,1,1,0
 OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,224,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Ocarina,サブ道具：オカリナ
 OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,225,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Panflute,サブ道具：パンフルート
 OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,226,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Tambourine,サブ道具：タンバリン
-OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,218,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,FierworkHand,サブ道具：手持ち花火
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,10,0,218,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,FierworkHand,サブ道具：手持ち花火
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,219,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,StickLight,サブ道具：スティックライト
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,220,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,0,Uchiwa,サブ道具：うちわ
-OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,30,0,222,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,BlowBubble,サブ道具：シャボン玉
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,221,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Windmill,サブ道具：風車
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,10,0,222,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,BlowBubble,サブ道具：シャボン玉
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,223,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Partyhorn,サブ道具：ふきもどし
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,227,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Balloon,サブ道具：風船
 OnCaptureUIcon,Timer,None,20_Tool,FtrCommonUser,0,0,22,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Timer,タイマー
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,274,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,HandheldPennant,サブ道具：手持ちペナント
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,162,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,TreeSeedling,植物：木の苗
 None,None,None,40_Plant,FtrNoneUser,0,0,161,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,Tree,植物：木
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,164,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,BushSeedling,植物：低木の苗
@@ -95,7 +98,7 @@ None,HousingKit,None,80_Etc,FtrNoneUser,0,0,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
 None,HousingKit,None,80_Etc,FtrNoneUser,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,HousingKitRcoQuest,ハウジングキット：移住クエスト
 None,HousingKit,None,80_Etc,FtrNoneUser,0,0,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,HousingKitBirdge,ハウジングキット：橋用
 OnCaptureUIcon,Bells,None,90_Money,FtrNoneUser,-1,0,2,1,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,Money,ベル（お金）
-None,None,None,80_Etc,FtrNoneUser,0,0,24,1,0,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,FireworkM,花火（置き）
+OnCaptureUIcon,None,None,80_Etc,FtrNoneUser,0,0,24,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,FireworkM,花火（置き）
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,10,0,196,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,BdayCupcake,バースデーカップケーキ
 None,None,None,81_Event,FtrNoneUser,5,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,YutaroWisp,ゆうたろうのたましい
 None,None,None,81_Event,FtrNoneUser,10,0,149,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,JohnnyQuest,ジョニークエスト
@@ -128,6 +131,6 @@ None,None,None,99_Dummy,FtrNoneUser,0,0,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 OnCaptureUIcon,Present,None,80_Etc,FtrNoneUser,0,0,211,1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,DummyWrapping,ダミーラッピング済アイテム
 None,Present,None,80_Etc,FtrNoneUser,0,0,212,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DummyPresentbox,ダミープレゼントBOX
 None,Present,None,80_Etc,FtrNoneUser,0,0,215,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DummyCardboard,ダミーダンボール入りアイテム
-None,None,None,99_Dummy,FtrCommonUser,0,0,234,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EventObjFtr,イベントオブジェ家具
+None,None,Ftr,99_Dummy,FtrCommonUser,0,0,234,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EventObjFtr,イベントオブジェ家具
 None,None,None,99_Dummy,FtrNoneUser,0,0,236,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NnpcRoomMarker,NPC部屋マーカー
 OnCaptureUIcon,None,None,91_PhotoStudioList,FtrNoneUser,0,0,255,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,PhotoStudioList,撮影スタジオ用アイテム

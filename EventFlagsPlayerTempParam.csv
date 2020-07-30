@@ -79,11 +79,14 @@ DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,1,87,0,0,2,QuestCancell,クエスト断った
 0,1,88,0,1,2,TailorChkObject,仕立て屋でオブジェクト系にアクセス中
 0,1,89,0,1,2,PynTalkNowFlag,ぴょんたろう|この場で会話した？
+0,1,90,0,1,2,MyDesignExchangeNotFoundOpus,マイデザイン交換| 作品が見つからなかった
+0,5,91,0,1,2,TradeTalkCount,訪問N｜家具取引中に会話した回数
 0,1,92,0,0,2,CampInviteRejected,キャンプ場の移住勧誘を断られた（通常来訪）
 0,1,93,0,1,2,FoxEnterBalloon,つねきち|入店時バルーンを出した
 0,1,94,0,1,2,FoxExitBalloon,つねきち|退店時バルーンを出した
 0,1,96,0,0,2,XctTalkMayDayTourNow,みしらぬネコ|メーデーツアーで会話した？
 0,1,97,0,0,2,DocMayDayTourFirstTalkDone,ロドリー|メーデーツアー到着強制会話済
+0,1,102,0,0,2,DodDreamTalk,モーリー|夢の中で会話したか？（夢離脱時にロールバック）
 0,1,103,0,0,0,InJuneBrideStudio,ジューンブライド|ジューンブライド専用ステージ内か？
 0,1,104,0,1,2,MyDesignExchangeCallMyIdList,マイデザイン交換端末|このシーンで自身のID一覧を取得したか？
 0,1,106,0,1,2,TalkPresentNow,今FreeI_Presentを見た
@@ -92,6 +95,7 @@ DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,9,111,0,1,2,FreeISelectCount,FreeI会話|報酬を再抽選した回数
 0,1,112,0,1,0,ShopPlayerInNextGoto,ショップ|NextGotoを踏んだか？
 0,16,115,0,0,2,AlwJuneBrideDayScoreCount,リサ/ジューンブライド|もらえるあいのけっしょう数用カウント
+0,1,116,0,1,2,PublicAnnounceDiveFish,島内放送|今日泳ぎ系のニュースをした？
 0,4,117,0,0,2,DocHintMayDayTour,ロドリー|メーデーツアーの謎解きヒント用カウント
 0,1,118,0,0,2,AlwJuneBrideSitDownFlag,リサ/ジューンブライド|座っているときの受け渡しした？
 0,1,119,0,0,2,AlwJuneBrideBouquetFlag,リサ/ジューンブライド|ブーケしまった？
