@@ -12,5 +12,5 @@ DemoDistance,a9c1118b.HashRef,RoofMaterial,UniqueID,FlowEntryName,FlowFileName,N
 15,None,5,13,,,0,EvtobjStallHgh
 15,Campfire,0,14,,,0,EvtobjCampfire
 15,Wind,5,17,,,0,EvtobjRazyStall
-15,4DB547FC,5,18,,,0,EvtobjTsunekichiStall
-15,E90C1FD5,0,19,InDream,Obj_WorldMyDesignGallery,0,EvtobjTailorDevice
+15,TsunekichiStall,5,18,,,0,EvtobjTsunekichiStall
+15,MyDesignExchanger,0,19,InDream,Obj_WorldMyDesignGallery,0,EvtobjTailorDevice
