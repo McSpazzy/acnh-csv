@@ -76,3 +76,14 @@ SelectSecond,UniqueID,ASCommand,EndHour,Label,SelectRate,StartHour,Type
 10,80,NpcSpScratchTummy,24,fox,80,0,
 10,81,NpcSpStretch,24,fox,10,0,
 15,82,MaReSleepy,6,fox,10,24,
+15,83,NpcSpScratchFace,24,fox,50,0,	
+15,84,NpcSpScratchTummy,24,fox,50,0,	
+15,85,NpcSpStretch,24,fox,10,19,	
+17,90,MaReSleepy,5,sza,20,0,	
+17,91,NpcSpStretch,19,sza,10,0,	
+17,92,NpcSpSzaBrushHair,19,sza,30,0,	
+17,93,NpcSpSzaBrushHair,5,sza,30,0,	
+15,97,NpcSpCuteWait,24,tap,50,0,
+15,98,NpcSpScratchFace,24,tap,50,0,
+10,100,SzaFireworks,24,sza,80,19,	
+10,102,NpcSpArrangeHigh,19,fox,90,0,	
