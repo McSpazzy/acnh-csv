@@ -8,7 +8,7 @@ MaxValue,MessageLabel,TalkValueVillager,TalkValueVisitor,UniqueID,FlagsFlowAcces
 36,107,30,16,6,0,WishStarCount,流れ星に祈った回数
 256,108,100,30,7,0,ShakeTreeCount,木を揺すった回数
 512,109,200,50,8,0,DropWoodCount,木を叩いて木材を出した回数
-256,110,20,20,9,0,CutTreeCount,木を切り倒した回数
+256,110,100,30,9,0,CutTreeCount,木を切り倒した回数
 64,111,30,15,10,0,PlantTreeCount,花・木（フルーツ込み）を植えた回数
 256,112,100,20,11,0,WaterFlowerCount,花に水をあげた回数
 256,113,100,100,12,0,UseReactionCount,リアクションを使った回数

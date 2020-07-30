@@ -215,15 +215,15 @@ None,0,EnableReadWrite,ReadOnly,1,248,IslandLocalFruitPeach,島の特産フル�
 None,0,EnableReadWrite,ReadOnly,1,249,IslandLocalFruitCherry,島の特産フルーツがサクランボならON,1,0
 Pre,0,EnableReadWrite,SpNpcOnly,1,250,HghPeddlerPurchaceToday,きぬよ行商|今回の来訪で島の誰かが商品購入した？,1,0
 None,0,EnableReadWrite,ReadOnly,1,251,PAnnounceKkProject,島内放送|とたけけプロジェクトの予告発生した？,1,0
-Pre,0,EnableReadWrite,ReadOnly,1,252,TownNewsHeardEventStarted,島内放送|イベント開始済み村内放送を聞いた？,1,0
+Pre,0,EnableReadWrite,ReadOnly,1,252,TownNewsHeardEventStarted,村内放送|イベント開始済み村内放送を聞いた？,1,0
 None,0,EnableReadWrite,ReadOnly,999,253,SzaIslandEvaluationBeforeLife,しずえ|島の環境：前回の「生活」ポイント,1,0
 None,0,EnableReadWrite,ReadOnly,999,254,SzaIslandEvaluationBeforeNatural,しずえ|島の環境：前回の「自然」ポイント,1,0
 None,0,DisableAccess,ManualSend,5000,255,FishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今まで捕まえたサカナの数,1,0
 None,0,EnableReadWrite,ReadOnly,10,256,SzaIslandEvaluationBeforeDevelopment,しずえ|島の環境：前回の「発展」要素,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,257,SzaIslandEvaluationTodayRankUpdate,しずえ|島の環境：今日のポイント更新したらON,1,0
-Pre,0,EnableReadWrite,ReadOnly,1,258,SzaIslandEvaluationImprovementLifeToday,しずえ|島の環境：前回島内放送より「生活」ポイント向上,1,0
-Pre,0,EnableReadWrite,ReadOnly,1,259,SzaIslandEvaluationImprovementNaturalToday,しずえ|島の環境：前回島内放送より「自然」ポイント向上,1,0
-None,0,EnableReadWrite,ReadOnly,1,260,SzaIslandEvaluationImprovementDevelopToday,しずえ|島の環境：前回島内放送より発展要素が増えた,1,0
+Pre,0,EnableReadWrite,ReadOnly,1,258,SzaIslandEvaluationImprovementLifeToday,しずえ|島の環境：前回村内放送より「生活」ポイント向上,1,0
+Pre,0,EnableReadWrite,ReadOnly,1,259,SzaIslandEvaluationImprovementNaturalToday,しずえ|島の環境：前回村内放送より「自然」ポイント向上,1,0
+None,0,EnableReadWrite,ReadOnly,1,260,SzaIslandEvaluationImprovementDevelopToday,しずえ|島の環境：前回村内放送より発展要素が増えた,1,0
 None,0,EnableReadWrite,ReadOnly,1,261,AppE_WelcomoMigrants_AN,AppE_WelcomoMigrants_AN発生した,1,0
 None,0,EnableReadWrite,ReadOnly,1,262,AppE_WelcomoMigrants_HA,AppE_WelcomoMigrants_HA発生した,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,263,TkkFirstLiveSubPlayer,とたけけ|2人目以降のプレイヤーが初ライブを見られる？,1,0
@@ -265,7 +265,6 @@ Plus,0,EnableReadOnly,ReadOnly,1,309,Museum2ConstructionToday,今日、博物館
 None,0,EnableReadWrite,ReadOnly,1,310,GrowUpAfterPatch1_1,1.1適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,311,GrowUpAfterPatch1_2,1.2適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,312,GrowUpAfterPatch1_3,1.3適用して成長処理をした,1,0
-None,0,EnableReadWrite,ReadOnly,1,313,GrowUpAfterPatch1_4,1.4適用して成長処理をした,1,0
 None,0,DisableAccess,ReadOnly,1,315,EarthdaySloFirstVisit,アースデーの初回レイジを予約した,1,0
 None,0,EnableReadWrite,ReadOnly,1,316,OwlFoundDiveFish,フータ|誰かが海の幸を見せたことがある,1,0
 Pre,0,EnableReadWrite,SpNpcOnly,1,317,SloPeddlerPurchaceToday,レイジ行商|今回の来訪で島の誰かが商品購入した？,1,0
@@ -292,7 +291,6 @@ None,0,DisableAccess,ReadOnly,1,338,BCAT_EventFlag_003,ジューンブライド�
 Pre,0,EnableReadOnly,ReadOnly,1,343,FoxPreVisit1Today,つねきち1回目の事前来訪当日,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,344,FoxPreVisit2Today,つねきち2回目の事前来訪当日,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,345,EarthdaySloFirstVisitToday,今日がアースデーの初回レイジ来訪日,1,0
-None,0,DisableAccess,ReadOnly,1,346,IsDreamingBed,ゆめみ用ベッドある？,0,0
 None,0,DisableAccess,ReadOnly,1,347,UnlockJuneBrideSeq,ゲーム進行的にジューンブライド解禁,1,0
 None,0,DisableAccess,ReadOnly,65535,348,RandomKey1,ランダムキーa,1,1
 None,0,DisableAccess,ReadOnly,65535,349,RandomKey2,ランダムキーb,1,1
@@ -300,13 +298,6 @@ None,0,DisableAccess,ReadOnly,65535,350,RandomKey3,ランダムキーc,1,1
 None,0,DisableAccess,ReadOnly,65535,351,RandomKey4,ランダムキーd,1,1
 Pre,0,EnableReadWrite,SpNpcOnly,1,352,FoxPreVisitAlreadyBuyToday,つねきち|今日誰かが事前来訪中に美術品を買った,1,0
 None,0,DisableAccess,ReadOnly,1,353,RcoHasResolvedMoveKitBug,いせつキットバグを解消したか,1,0
-None,0,EnableReadWrite,ReadOnly,1,354,TapDreamEnable,ゆめみ|ゆめみ機能解禁か？,1,0
-None,0,EnableReadWrite,ReadOnly,1,356,MyDesignPro2,追加型マイデザインPro解禁,1,0
 None,0,DisableAccess,ReadOnly,1,357,GulBVisitEnable,海賊ジョニーが来訪する条件を満たしたか,1,0
-None,0,DisableAccess,ReadOnly,9999,359,FireworksAddBbsYear,花火大会予告の掲示板書き込みをした年,1,0
-None,0,EnableReadWrite,ReadOnly,1,362,EnableMyDream,ゆめみ|現在、自分の島の夢を提供中か？,1,0
 None,0,EnableReadWrite,NoCheck,1,363,JohnnyInvisible,ジョニー非表示状態か,1,0
-None,0,EnableReadOnly,ReadOnly,1,364,DreamUploadPlayerHaveCreaterID,ゆめみ|夢の最終更新者がMyDesignショーケースの作者IDを持ってるか？,1,0
 None,0,DisableAccess,ManualSend,5000,365,DiveFishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数,1,0
-None,0,EnableReadWrite,ReadOnly,1,370,NeedUpdatePassword,セーブデータ復元後のパスワード更新必要,1,0
-None,0,DisableAccess,ReadOnly,1,374,EventObjFlag0,イベントオブジェフラグ0,1,0

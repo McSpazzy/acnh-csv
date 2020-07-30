@@ -3,7 +3,7 @@ UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,FlagsFlowAccess,Key,Ma
 1,0,0,0,0,1,ContinuousTalkDays,7,何日連続で話しかけられたか
 2,0,0,0,0,2,SameLand,1,同じ村に住んでいたことがあるか
 3,0,0,0,0,2,SetGreeting,1,挨拶を設定したことがある
-4,0,1,0,0,2,EasterGetRecipeFlag,1,イースター|今日このNPCからレシピを受け取った
+4,0,1,0,0,2,EasterGetRecipeFlag,1,イースター|このNPCからリアクション会話でレシピを受け取った
 5,0,0,0,0,2,TalkProgressMuseumBuilt2,1,博物館2への拡張に関するFreeH_Progressを聞いたか？
 6,0,0,0,0,2,NextMoveOutTalk,1,引越ししたい会話したか
 7,0,0,0,0,2,TalkMoveOut,1,引越していく状態で会話したか
@@ -14,8 +14,6 @@ UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,FlagsFlowAccess,Key,Ma
 12,0,1,0,0,1,TalkCountInNpcHouseToday,7,今日NPCの家での会話回数
 13,0,0,0,0,2,HasAcquaintanceship,1,面識ありか
 14,0,2,1,0,2,SitBenchFlag,1,NPCをベンチに座らせる
-15,0,0,0,0,2,TalkInDream,1,今回の夢の中への訪問で話をしたか
-17,0,0,0,0,2,PastCountFromLastVisitPlayerHouse,255,最後にP宅を訪問してからの経過日数
 18,0,0,0,0,2,TalkedAsSameVillageResident,1,同じ村の住人として会話した
 19,0,0,0,0,2,InputGreeting,1,挨拶を設定した
 20,0,0,0,0,2,InputPhraseMemory,1,口癖を設定した
@@ -84,7 +82,6 @@ UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,FlagsFlowAccess,Key,Ma
 86,0,1,0,0,2,TalkSnpcNow,1,今日Snpcを聞いたか？
 87,1,1,0,0,2,TalkFreeFNow,1,今、FreeFを聞いたか？
 88,1,1,0,0,2,TalkFreeGNow,1,今、FreeGを聞いたか？
-89,0,1,0,0,2,FireworksCannotGetNnpcItemFlag,1,花火大会|このNPCから受け取り損ねたアイテムがある？
 90,0,1,0,0,2,TalkHHAToday,1,今日FreeE_HHAを聞いたか？ 
 91,0,1,1,0,2,TalkReSelectLast,5,再抽選前に聞いたファイル識別番号
 92,0,0,0,0,0,HHABuildCelebraition,1,増築祝いの手紙を出した
@@ -123,4 +120,3 @@ UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,FlagsFlowAccess,Key,Ma
 125,0,0,0,0,2,FriendshipBecomeAcqH,1,親密度が知人（高）に到達済み
 126,0,1,0,0,2,DC_NPCBirthdayFlag,3,NPC誕生日|おでかけ先の村でもらうお返しの種類
 127,0,1,0,0,2,EasterCannotGetNnpcRecipeFlag,1,イースター|このNPCから受け取り損ねたレシピがある？
-131,0,1,0,0,2,FireworksGetItemFlag,1,花火大会|このNPCからリアクション会話で花火を受け取った
