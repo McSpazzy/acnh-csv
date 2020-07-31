@@ -79,4 +79,4 @@ Fireworks,CalendarEvent,None,NPC,0,0,15,11,103,Fireworks,0,1,,BuiltTownOffice,fo
 Fireworks,CalendarEvent,None,EventObj,0,18,16,7,104,Fireworks,0,1,,BuiltTownOffice,,E_Fireworks_EventObj_1,
 Fireworks,CalendarEvent,None,Ftr,33,0,20,7,105,Fireworks,0,1,,BuiltTownOffice,,E_Fireworks_Ftr_2,
 Fireworks,CalendarEvent,None,Ftr,25,0,3,14,107,Fireworks,0,1,,BuiltTownOffice,,E_Fireworks_Ftr_3,
-EventNone,NpcGroupActivity,AA4CDF1B,Ftr,34,0,4,14,108,EventNone,0,1,,,,N_GroupPlayFirework_Ftr_0,
+EventNone,NpcGroupActivity,GroupPlayFirework,Ftr,34,0,4,14,108,EventNone,0,1,,,,N_GroupPlayFirework_Ftr_0,
