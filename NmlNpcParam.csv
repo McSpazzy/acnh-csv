@@ -390,9 +390,9 @@ a54f92fd u32,e2efe82d u32,5ef86f1f u32,195815cf u32,bea84522.HashRef,Hobby,NpcLo
 9,9,3,5,Prefer,Music,Boy_pride,Normal,Tie,Shuffle,0,6997,0,10862,9573,8294,163,3,3256,6919,393,0,9,6,10,7,NpcNmlClothElp,NpcNmlHelperBoneElp,1,0,elp12,87,0,NpcNmlElp12,0,0,3,1,3
 9,9,1,4,Normal,Nature,Boy_normal,Normal,Stop,Shuffle,0,7212,0,10863,5258,8289,34,4,3631,7165,396,0,18,1,11,4,NpcNmlClothGoa,NpcNmlHelperBoneGoa,1,0,goa09,111,0,NpcNmlGoa09,0,0,3,1,2
 9,9,5,4,Normal,Play,Boy_active,High,Stop,Normal,0,7213,0,10864,7394,8292,115,6,4211,9958,397,0,18,3,1,13,NpcNmlClothShp,NpcNmlHelperBoneShp,1,7,shp15,107,0,NpcNmlShp15,0,0,4,1,3
-9,9,4,6,Prefer,Nature,Girl_active,Normal,Stop,Normal,0,11115,0,11121,7394,8292,1,1,2541,9958,398,0,1,11,1,4,NpcNmlClothGor,NpcNmlHelperBoneGor,0,0,gor11,74,0,,0,0,5,1,4
-9,9,4,6,Normal,Play,Boy_normal,Low,Stop,Normal,0,11116,0,11122,7394,8292,1,6,3320,9958,399,0,16,4,9,7,NpcNmlClothCbr,NpcNmlHelperBoneCbr,0,0,cbr18,90,0,,0,0,5,1,4
-9,9,4,2,Prefer,Music,Girl_normal,Normal,Stop,Normal,0,11117,0,11123,7394,8292,1,2,3635,9958,400,0,25,12,5,2,NpcNmlClothShp,NpcNmlHelperBoneShp,0,0,shp14,107,0,,0,0,5,1,4
-9,9,4,6,Normal,Play,Girl_active,High,Stop,Normal,0,11118,0,11124,7394,8292,1,4,9426,9958,401,0,6,3,4,5,NpcNmlClothElp,NpcNmlHelperBoneElp,0,0,elp11,111,0,,0,0,5,1,4
+9,9,4,6,Prefer,Nature,Girl_active,Normal,Stop,Normal,0,11115,0,11121,7394,8292,1,1,-2,9958,398,0,1,11,1,4,NpcNmlClothGor,NpcNmlHelperBoneGor,0,0,gor11,74,0,,0,0,5,1,4
+9,9,4,6,Normal,Play,Boy_normal,Low,Stop,Normal,0,11116,0,11122,7394,8292,1,6,-2,9958,399,0,16,4,9,7,NpcNmlClothCbr,NpcNmlHelperBoneCbr,0,0,cbr18,90,0,,0,0,5,1,4
+9,9,4,2,Prefer,Music,Girl_normal,Normal,Stop,Normal,0,11117,0,11123,7394,8292,1,2,-2,9958,400,0,25,12,5,2,NpcNmlClothShp,NpcNmlHelperBoneShp,0,0,shp14,107,0,,0,0,5,1,4
+9,9,4,6,Normal,Play,Girl_active,High,Stop,Normal,0,11118,0,11124,7394,8292,1,4,-2,9958,401,0,6,3,4,5,NpcNmlClothElp,NpcNmlHelperBoneElp,0,0,elp11,111,0,,0,0,5,1,4
 9,9,4,2,Prefer,Play,Girl_normal,Low,Stop,Normal,0,11119,0,11125,7394,8292,1,2,4556,9958,402,0,18,1,2,12,NpcNmlClothDer,NpcNmlHelperBoneDer,0,0,der10,95,0,,0,0,5,1,4
-9,9,4,6,Normal,Music,Boy_snobby,High,Stop,Normal,0,11120,0,11126,7394,8292,1,0,7777,9958,403,0,10,7,6,1,NpcNmlClothRbt,,0,0,rbt20,67,0,,0,0,5,1,4
+9,9,4,6,Normal,Music,Boy_snobby,High,Stop,Normal,0,11120,0,11126,7394,8292,1,0,-2,9958,403,0,10,7,6,1,NpcNmlClothRbt,,0,0,rbt20,67,0,,0,0,5,1,4

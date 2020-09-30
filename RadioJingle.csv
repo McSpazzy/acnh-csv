@@ -18,3 +18,4 @@ SelectRate,Timezone,Frames,MusicNo,UniqueID,BeforeDays,EventLabelShort
 1,Night,373,317,16,0,EventNone
 1,Night,364,318,17,0,EventNone
 10,AllDay,332,319,19,11,Easter
+10,AllDay,287,320,20,30,Halloween

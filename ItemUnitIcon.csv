@@ -1,10 +1,5 @@
 ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 1,-2,5,255,None,,（なし）,
-0.8,-2,279,255,MileCard,UnitIconMileCard,たぬきマイルカード,UnitIconMileCard
-0.8,-2,303,255,MarineSuit,UnitIconMarineSuit,マリンスーツ,UnitIconMarineSuit
-0.8,-2,304,1,Cinder,UnitIconFireworks,もえかす,UnitIconFireworks
-0.8,-2,305,255,Pearl,UnitIconPearl,しんじゅ,UnitIconPearl
-0.8,-2,306,255,PirateQuest,UnitIconPirateQuest,むせんき,UnitIconPirateQuest
 0.8,-2,0,0,Leaf,UnitIconLeaf,葉っぱ,UnitIconLeaf
 0.8,-2,273,1,LeafYellow,UnitIconLeaf,葉っぱ：黄,UnitIconLeaf
 0.8,-2,157,255,RoomWall,UnitIconRoomWall,壁紙,UnitIconRoomWall
@@ -21,6 +16,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,160,255,Umbrella,UnitIconUmbrella,装：カサ,UnitIconUmbrella
 0.8,-2,161,255,FishingRod,UnitIconFishingrod,道具：つりざお,UnitIconFishingrod
 0.8,-2,204,255,Stick,UnitIconStick,変身ステッキ,UnitIconStick
+0.8,-2,303,255,MarineSuit,UnitIconMarineSuit,マリンスーツ,UnitIconMarineSuit
 0.8,-2,162,255,Fence,UnitIconFence,柵,UnitIconFence
 0.8,-2,189,0,TentSet,UnitIconTentSet,テントセット,UnitIconTentSet
 0.8,-2,186,1,HousingKit,UnitIconTentSet,ハウジングキット,UnitIconTentSet
@@ -29,7 +25,6 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,208,255,Pitfall,UnitIconPitfall,おとしあなのタネ,UnitIconPitfall
 0.8,-2,207,255,Music,UnitIconMusic,ミュージック,UnitIconMusic
 0.8,-2,184,255,Medicine,UnitIconMedicine,おくすり,UnitIconMedicine
-0.8,-2,237,0,Fireworks,UnitIconFireworks,置き花火,UnitIconFireworks
 0.8,-2,209,0,RemakeKit,UnitIconRemakeKit,リメイクキット,UnitIconRemakeKit
 1,-2,274,255,SmartphoneCase,UnitIconSmartphoneCase,スマホケース,UnitIconSmartphoneCase
 0.8,-2,236,255,Timer,UnitIconTimer,タイマー,UnitIconTimer
@@ -56,6 +51,8 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,7731,2,255,MoneyBag,UnitIconMoneybag,ベル袋,UnitIconMoneybag
 1,-2,219,0,Parts,UnitIconParts,ジョニーのパーツ,UnitIconParts
 1,-2,239,1,PartsDust,UnitIconParts,さびたパーツ,UnitIconParts
+0.8,-2,306,255,PirateQuest,UnitIconPirateQuest,むせんき,UnitIconPirateQuest
+0.8,-2,305,255,Pearl,UnitIconPearl,しんじゅ,UnitIconPearl
 0.8,-2,170,255,LostQuestPouch,UnitIconLostquestPouch,落し物：袋,UnitIconLostquestPouch
 0.8,-2,169,255,LostQuestBook,UnitIconLostquestBook,落し物：本（読み物）,UnitIconLostquestBook
 0.8,-2,172,255,LostQuestNote,UnitIconLostquestNote,落し物：本（書き物）,UnitIconLostquestNote
@@ -109,6 +106,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 1,-2,121,0,SmartPhone,UnitIconSmartphone,スマホ,UnitIconSmartphone
 1,-2,187,255,Paper,UnitIconPaper,紙きれ1まい,UnitIconPaper
 0.8,-2,185,255,Map,UnitIconMap,地図,UnitIconMap
+0.8,-2,279,255,MileCard,UnitIconMileCard,たぬきマイルカード,UnitIconMileCard
 0.8,-2,217,255,GeneralBox,UnitIconGeneralBox,汎用アイコン：箱,UnitIconGeneralBox
 0.8,-2,216,255,GeneralSack,UnitIconGeneralSack,汎用アイコン：袋,UnitIconGeneralSack
 0.8,-2,197,0,Starpiece,UnitIconStar0,ほしのかけら,UnitIconStar0
@@ -166,6 +164,8 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,155,255,FlwAnemone,UnitIconPltFlwPetalAnemone,花：アネモネ,UnitIconPltFlwPetalAnemone
 0.8,-2,144,255,FlwMum,UnitIconPltFlwPetalMum,花：キク,UnitIconPltFlwPetalMum
 0.8,-2,145,255,FlwHyacinth,UnitIconPltFlwPetalHyacinth,花：ヒヤシンス,UnitIconPltFlwPetalHyacinth
+0.8,-2,23,255,Squash,UnitIconPltVgtPumpkin,カボチャ,UnitIconPltVgtPumpkin
+0.8,-2,152,255,SeedlingSquash,UnitIconPltVgtPumpkinSeeding,カボチャのなえ,UnitIconPltVgtPumpkinSeeding
 0.8,-2,281,255,EggGround,UnitIconEggGround,じめんのたまご,UnitIconEggGround
 0.8,-2,283,255,EggRock,UnitIconEggRock,いわのたまご,UnitIconEggRock
 0.8,-2,284,255,EggLeaf,UnitIconEggLeaf,はっぱのたまご,UnitIconEggLeaf
@@ -174,3 +174,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,280,255,EggFish,UnitIconEggFish,サカナのたまご,UnitIconEggFish
 0.8,-2,291,255,MessageBottleEgg,UnitIconMessageBottleEgg,たまごのメッセージボトル,UnitIconMessageBottleEgg
 0.8,-2,290,255,Love,UnitIconLove,あいのけっしょう,UnitIconLove
+0.8,-2,237,0,Fireworks,UnitIconFireworks,置き花火,UnitIconFireworks
+0.8,-2,304,1,Cinder,UnitIconFireworks,もえかす,UnitIconFireworks
+0.8,-2,313,255,Candy,UnitIconCandy,アメ,UnitIconCandy
+0.8,-2,314,255,Lollipop,UnitIconLollipop,ロリポップ,UnitIconLollipop

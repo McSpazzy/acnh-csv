@@ -46,6 +46,8 @@ OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,162,0,0,0,1,1,1,1,1,0,1,1,1,0
 None,None,None,40_Plant,FtrNoneUser,0,0,161,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,Tree,植物：木
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,164,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,BushSeedling,植物：低木の苗
 None,None,None,40_Plant,FtrNoneUser,0,0,163,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,Bush,植物：低木
+OnCaptureUIcon,PlantKeepItemWindow,None,40_Plant,FtrNoneUser,10,0,166,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,VegeSeedling,植物：野菜の苗
+None,PlantKeepItemWindow,None,40_Plant,FtrNoneUser,0,0,198,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,VegeTree,植物：野菜の木
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,165,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,Vegetable,植物：野菜
 OnCaptureUIcon,PlantKeepItemWindow,None,40_Plant,FtrNoneUser,99,0,187,1,0,0,0,1,1,1,1,0,1,1,1,0,1,1,1,0,0,Weed,植物：雑草
 OnCaptureUIcon,PlantKeepItemWindow,None,40_Plant,FtrNoneUser,10,0,54,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,FlowerSeed,植物：花の種
@@ -82,7 +84,7 @@ OnCapture,None,None,82_Music,FtrCommonUser,0,0,47,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,
 OnCapture,None,None,82_Music,FtrCommonUser,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MusicMiss,ミュージック(入手不可)
 OnCapture,None,Ftr,84_Bromide,FtrCommonUser,0,0,214,1,0,1,1,0,0,0,1,1,1,1,1,0,1,1,1,0,0,Bromide,ブロマイド
 OnCapture,None,Ftr,86_Poster,FtrCommonUser,0,0,262,1,0,1,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,Poster,ポスター
-OnCapture,None,None,62_HousePost,FtrCommonUser,0,0,93,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,HousePost,家パーツポスト
+OnCapture,None,None,62_HousePost,FtrCommonUser,0,0,93,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,HousePost,家パーツポスト
 OnCapture,DoorDeco,Ftr,61_HouseDoorDeco,FtrCommonUser,0,0,193,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,DoorDeco,ドア飾り
 OnCapture,HandyGoods,None,83_Fence,FtrNoneUser,50,0,194,1,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0,0,Fence,柵
 OnCapture,None,None,80_Etc,FtrNoneUser,0,0,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DummyRecipe,陳列用：レシピブック
@@ -100,7 +102,7 @@ None,HousingKit,None,80_Etc,FtrNoneUser,0,0,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
 OnCaptureUIcon,Bells,None,90_Money,FtrNoneUser,-1,0,2,1,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,Money,ベル（お金）
 OnCaptureUIcon,None,None,80_Etc,FtrNoneUser,0,0,24,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,FireworkM,花火（置き）
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,10,0,196,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,BdayCupcake,バースデーカップケーキ
-None,None,None,81_Event,FtrNoneUser,5,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,YutaroWisp,ゆうたろうのたましい
+None,None,None,81_Event,FtrNoneUser,5,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,YutaroWisp,ゆうたろうのたましい
 None,None,None,81_Event,FtrNoneUser,10,0,149,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,JohnnyQuest,ジョニークエスト
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,10,0,150,1,0,0,0,1,0,0,1,0,1,1,1,0,1,1,1,0,0,JohnnyQuestDust,ジョニークエストごみ
 None,None,None,81_Event,FtrNoneUser,10,0,273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,PirateQuest,海賊クエスト
@@ -114,6 +116,7 @@ OnCaptureUIcon,None,None,80_Etc,FtrNoneUser,10,0,241,0,0,0,1,0,0,0,1,0,1,1,1,0,1
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,5,0,261,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,RollanTicket,ローラン引換券
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,101,1,1,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,EasterEgg,イースターのたまご
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,266,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,LoveCrystal,あいのけっしょう
+OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,82,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Candy,アメ
 None,None,None,99_Dummy,FtrCommonUser,0,0,208,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Giftbox,初期支給プレゼントBOX
 None,None,None,99_Dummy,FtrNoneUser,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PinataStick,装備専用：ピニャータ割り棒
 None,None,None,99_Dummy,FtrNoneUser,0,0,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NpcOutfit,装備品：NPC専用
@@ -124,13 +127,13 @@ OnCapture,None,None,01_Art,FtrUniqueUser,0,0,184,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1
 OnCapture,None,None,01_Art,FtrUniqueUser,0,0,185,1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,1,0,1,SculptureFake,芸術品：彫刻贋作
 None,None,Smartphone,99_Dummy,FtrNoneUser,0,0,230,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SmartPhone,スマホ
 None,None,None,99_Dummy,FtrUniqueUser,0,0,206,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DummyFtr,ダミー家具
-None,None,None,81_Event,FtrNoneUser,0,0,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,SequenceOnly,シーケンス専用
+None,None,None,81_Event,FtrNoneUser,0,0,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SequenceOnly,シーケンス専用
 None,None,None,99_Dummy,FtrCommonUser,0,0,209,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MyDesignObject,マイデザインオブジェクト
 None,None,None,99_Dummy,FtrCommonUser,0,0,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MyDesignTexture,マイデザインテクスチャ
 None,None,None,99_Dummy,FtrNoneUser,0,0,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,None,なし
 OnCaptureUIcon,Present,None,80_Etc,FtrNoneUser,0,0,211,1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,DummyWrapping,ダミーラッピング済アイテム
 None,Present,None,80_Etc,FtrNoneUser,0,0,212,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DummyPresentbox,ダミープレゼントBOX
 None,Present,None,80_Etc,FtrNoneUser,0,0,215,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,DummyCardboard,ダミーダンボール入りアイテム
-None,None,Ftr,99_Dummy,FtrCommonUser,0,0,234,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EventObjFtr,イベントオブジェ家具
+None,None,Ftr,99_Dummy,FtrUniqueUser,0,0,234,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EventObjFtr,イベントオブジェ家具
 None,None,None,99_Dummy,FtrNoneUser,0,0,236,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NnpcRoomMarker,NPC部屋マーカー
 OnCaptureUIcon,None,None,91_PhotoStudioList,FtrNoneUser,0,0,255,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,PhotoStudioList,撮影スタジオ用アイテム

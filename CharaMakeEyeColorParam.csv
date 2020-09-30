@@ -5,3 +5,9 @@ BaseColorB,BaseColorG,BaseColorR,UniqueID,Label,Name
 0.05,0.1,0.07,3,EyeColor3,EyeColor3
 0.18,0.05,0.016,4,EyeColor4,EyeColor4
 0.1,0.08,0.08,5,EyeColor5,EyeColor5
+0.11,0.04,0.52,6,EyeColor6,EyeColor6
+0.03,0.09,0.31,7,EyeColor7,EyeColor7
+0.03,0.25,0.68,8,EyeColor8,EyeColor8
+0.55,0.12,0.38,9,EyeColor9,EyeColor9
+0.24,0.18,0.18,10,EyeColor10,EyeColor10
+0.15,0.2,0.05,11,EyeColor11,EyeColor11

@@ -18,3 +18,4 @@ FlagLand,FlagPlayer,ShopType,AttrCollectBit,ItemFrom
 265,-1,Shop,0,ShopTimer
 125,-1,Shop,0,Shop_EnableRecipeLadder
 330,-1,Label1,0,MileExchangeNsoPresent
+-1,1215,Label1,1,MileExchangeNewColor

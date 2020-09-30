@@ -308,5 +308,10 @@ None,0,EnableReadWrite,ReadOnly,1,362,EnableMyDream,ゆめみ|現在、自分の
 None,0,EnableReadWrite,NoCheck,1,363,JohnnyInvisible,ジョニー非表示状態か,1,0
 None,0,EnableReadOnly,ReadOnly,1,364,DreamUploadPlayerHaveCreaterID,ゆめみ|夢の最終更新者がMyDesignショーケースの作者IDを持ってるか？,1,0
 None,0,DisableAccess,ManualSend,5000,365,DiveFishNetHostCatchNumResult,通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数,1,0
+None,0,DisableAccess,ReadOnly,9999,366,HalloweenSloVisitYear,ハロウィンの初回レイジを予約した年,1,0
+Pre,0,EnableReadOnly,ReadOnly,1,367,HalloweenSloVisitToday,今日がハロウィンのレイジ来訪日,1,0
+None,0,EnableReadWrite,ReadOnly,1,369,GrowUpAfterPatch1_5,1.5適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,370,NeedUpdatePassword,セーブデータ復元後のパスワード更新必要,1,0
+Pre,0,EnableReadOnly,ReadOnly,1,371,IsHalloweenLessThanThreeDays,ハロウィン３日前以内か？,1,0
 None,0,DisableAccess,ReadOnly,1,374,EventObjFlag0,イベントオブジェフラグ0,1,0
+Pre,0,EnableReadWrite,ReadOnly,1,379,SecondPublicAnnouncement,2回目島内放送の発生が必要か？,1,0
