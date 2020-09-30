@@ -1,4 +1,4 @@
-b619ba5c u32,HouseDoorAnim,HouseDoorShape,CustomizeSortID,Material,UniqueID,DecoForbidden,Dummy,HasDoorWindow,LatchBolt,ModelName
+DoorDecoZOffset,HouseDoorAnim,HouseDoorShape,CustomizeSortID,Material,UniqueID,DecoForbidden,Dummy,HasDoorWindow,LatchBolt,ModelName
 0,KnobRotate,Round,1000,2,0,0,0,0,1,HouseDoorStandardAR
 0,KnobRotate,Square,1000,2,2,0,0,0,1,HouseDoorStandardAS
 0,Knob,Square,12000,3,3,0,0,0,0,HouseDoorIronAS
