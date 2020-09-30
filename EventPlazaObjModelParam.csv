@@ -1,4 +1,4 @@
-DemoDistance,a9c1118b.HashRef,RoofMaterial,UniqueID,FlowEntryName,FlowFileName,NearCulling,ResourceName,e2760d00 u8,a5010be8 u16
+DemoDistance,a9c1118b.HashRef,RoofMaterial,UniqueID,FlowEntryName,FlowFileName,NearCulling,ResourceName,e2760d00 u8,UseCollision
 0,None,0,0,,,0,,0,0
 11,BulletinBoard,0,1,,Obj_BulletinBoard,1,EvtobjBbs,0,1
 0,StreetLamp,0,2,,,1,EvtobjLamp,0,1
