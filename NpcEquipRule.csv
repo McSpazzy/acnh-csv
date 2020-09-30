@@ -1,4 +1,4 @@
-ClothesFrequencyWear,ClothesPurposeLimit,ClothesTemporarilyCreate,PurposeScore,PurposeTag,ScoreMultiplier,SeasonScore,TasteScore,UniqueID,CapFrequencyWear,CapPurposeLimit,CapTemporarilyCreate,GlassesFrequencyWear,GlassesPurposeLimit,GlassesTemporarilyCreate,6510a4fe u8,Label,MaskFrequencyWear,MaskPurposeLimit,MaskTemporarilyCreate,Name
+ClothesFrequencyWear,ClothesPurposeLimit,ClothesTemporarilyCreate,PurposeScore,PurposeTag,ScoreMultiplier,SeasonScore,TasteScore,UniqueID,CapFrequencyWear,CapPurposeLimit,CapTemporarilyCreate,GlassesFrequencyWear,GlassesPurposeLimit,GlassesTemporarilyCreate,IsEquipCeremony,Label,MaskFrequencyWear,MaskPurposeLimit,MaskTemporarilyCreate,Name
 Always,None,None,3,12,2,2,5,0,1,0,0,1,0,0,0,Usually,0,0,0,日常
 Always,Limit,Condition,2,17,4,0,8,9,3,1,2,0,0,0,0,SnowWear,0,0,0,雪具
 Relatively,Limit,None,2,11,4,0,8,10,2,1,0,0,0,0,0,Fishing,0,0,0,つり行動

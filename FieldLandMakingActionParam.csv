@@ -1,4 +1,4 @@
-ActionRange,75fee4b0.HashRef,MeshEdgeDirType,FallActionType,Layer,PlaneChangeType,7674c4d6.HashRef,SuccessResult,ActionLockRange,f9a37bdc u8,MainType,UpdateParts
+ActionRange,75fee4b0.HashRef,MeshEdgeDirType,FallActionType,Layer,PlaneChangeType,7674c4d6.HashRef,SuccessResult,ActionLockRange,FallToRiver,MainType,UpdateParts
 1x1,NoChange,RightToSlant,None,No0,NoChange,None,Make,0,0,5,0
 3x3,NoChange,RightToSlant,None,No0,NoChange,None,Break,1,1,0,0
 3x3,NoChange,RightToSlant,None,No0,NoChange,1x1,Make,1,1,1,0

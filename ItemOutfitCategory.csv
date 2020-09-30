@@ -1,4 +1,4 @@
-2924e11f u16,UniqueID,CanHasSit,555442aa u8,HandToolAsLabel,HandToolAsName,Label,Misc,Name,ToolEnterAsName,ToolLeftModelName,ToolRightModelName,ToolSetupAsName,ToolSetupPutawayAsName,UseToolLeft
+2924e11f u16,UniqueID,CanHasSit,EquipOnlyOutdoor,HandToolAsLabel,HandToolAsName,Label,Misc,Name,ToolEnterAsName,ToolLeftModelName,ToolRightModelName,ToolSetupAsName,ToolSetupPutawayAsName,UseToolLeft
 0,0,0,0,None,,None,0,なし,,,,,,0
 0,1,0,0,Cap,,Cap,0,帽子,,,,,,0
 0,2,0,0,AccessoryEye,,AccessoryEye,0,アクセサリ：目,,,,,,0

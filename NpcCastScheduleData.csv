@@ -1,4 +1,4 @@
-ApplyNeedActivity,CanDoze,CastLabel,d507df3e u8,EndHour,EndMinute,EventName,NeglectSleep,StartHour,StartMinute,e76db92f string
+ApplyNeedActivity,CanDoze,CastLabel,d507df3e u8,EndHour,EndMinute,EventName,NeglectSleep,StartHour,StartMinute,UseRainGoods
 1,1,0,0,29,0,NotEvent,0,5,0,
 0,0,1,0,29,0,NotEvent,0,5,0,
 1,1,2,0,29,0,NotEvent,1,5,0,

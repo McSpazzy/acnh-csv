@@ -1,4 +1,4 @@
-DefaultValue,MaxValue,UniqueID,5140e4b4 u8,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,FlagsNetAccess,Key,Name
+DefaultValue,MaxValue,UniqueID,5140e4b4 u8,3dad9135 u8,SkinBushA,FlagsFlowAccess,FlagsNetAccess,Key,Name
 0,1,0,3,1,0,2,0,CatchInsectFesQuestStart,ムシ取り大会|クエスト開始
 0,-1,1,0,0,0,2,2,CatchInsectFesGetTotalNum,xムシ取り大会|全員のムシ取得数
 0,1,2,3,1,0,2,0,CatchFishFesQuestStart,つり大会|クエスト開始
