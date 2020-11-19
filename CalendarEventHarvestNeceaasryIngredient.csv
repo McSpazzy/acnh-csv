@@ -1,4 +1,4 @@
-UniqueID,ItemID,IsAppearNorth,IsAppearSouth,IsHide1,IsHide2_1,IsHide2_2,IsHide3,IsHide4,f659c43b u8,70cdb695 u8,6278197b u8,bb916530 u8,a924cade u8,a6945588 u8,b421fa66 u8,IsVariable
+UniqueID,ItemID,IsAppearNorth,IsAppearSouth,IsHide1,IsHide2_1,IsHide2_2,IsHide3,IsHide4,IsNecessary1_1,IsNecessary2_1,IsNecessary2_2,IsNecessary3_1,IsNecessary3_2,IsNecessary4_1,IsNecessary4_2,IsVariable
 0,2567,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
 1,2839,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 2,4525,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
