@@ -15,4 +15,9 @@ DemoDistance,a9c1118b.HashRef,RoofMaterial,UniqueID,FlowEntryName,FlowFileName,N
 15,TsunekichiStall,5,18,,,0,EvtobjTsunekichiStall,0,1
 15,MyDesignExchanger,0,19,InDream,Obj_WorldMyDesignGallery,0,EvtobjTailorDevice,0,1
 15,Wind,0,20,,,0,EvtobjHwnGarland,1,0
+15,Wind,0,22,,,0,EvtobjHarvestGarlandN,1,0
+15,Wind,0,23,,,0,EvtobjHarvestGarlandS,1,0
 15,Wind,5,24,,,0,EvtobjRazyStallPumpkin,0,1
+15,Wind,0,25,,,0,EvtobjChristmasGarland,1,0
+15,None,0,26,,,0,EvtobjChristmasDecorations,1,0
+15,B685245C,0,27,,,0,EvtobjHarvestLight,0,0

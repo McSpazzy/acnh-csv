@@ -131,6 +131,8 @@ AllYear,3385,153,0,1,1,1,0,1,0,0,0,0,0,,TopsTexOnepieceBalloonLCorsetPurple,コ�
 AllYear,3386,154,1,0,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceBoxLShirt,シャツワンピ,0
 Summer,3387,155,1,0,0,0,0,0,0,0,0,1,0,,TopsTexOnepieceAlineNShirt,そでなしシャツワンピ,0
 AllYear,3388,156,0,0,1,0,0,1,0,0,1,0,1,,TopsTexTopYshirtsLTuxedo,タキシード,0
+AllYear,3390,157,0,1,0,0,0,1,0,0,0,0,1,,TopsTexTopCoatLSanta,サンタのジャケット,0
+AllYear,3391,158,0,1,0,0,0,1,0,0,0,0,1,,BottomsTexPantsNormalSanta,サンタのズボン,0
 AllYear,3401,159,0,0,1,0,0,1,0,0,1,0,1,,TopsTexTopCoatLMorningcoat,モーニングコート,0
 AllYear,3405,160,1,0,1,0,0,0,0,0,0,0,0,,BottomsTexPantsWideSchool,せいふくのズボン,0
 AllYear,3408,161,0,0,1,0,0,1,0,0,1,0,0,,BottomsTexPantsNormalSlacksgaudy,ハデなスラックス,0
@@ -376,6 +378,7 @@ AllYear,4488,402,1,0,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatLHippie,ヒッピーなふ
 Winter,4489,403,1,0,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceRibLShawl,ショールコーデワンピ,0
 AllYear,9280,404,1,0,0,0,0,0,0,1,0,1,1,,BottomsTexPantsWideKnee,ひざあてズボン,0
 AllYear,4491,405,0,0,0,0,0,0,1,0,0,0,0,,AccessoryMouthCucumber,きゅうりパック,0
+AllYear,4492,406,0,1,0,0,0,1,0,0,0,0,1,,AccessoryMouthSanta,サンタのヒゲ,0
 AllYear,4496,407,0,1,0,0,0,1,0,0,1,0,0,,AccessoryGlassmouthNose,つけばな,0
 AllYear,4501,408,0,0,0,0,0,1,0,0,1,0,0,,AccessoryGlassmouthBeard,ヒゲメガネ,0
 AllYear,4502,409,1,1,0,0,0,0,1,0,0,1,0,,BottomsTexSkirtLongTiered,ティアードスカート,0
@@ -385,6 +388,7 @@ Summer,11656,412,1,0,0,0,0,0,1,0,0,1,0,,BottomsTexSkirtLongDrape,ドレープス
 Summer,4506,413,1,1,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceBalloonHDolly,ドーリーワンピース,0
 AllYear,9449,414,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopYshirtsLChimayo,チマヨベスト,0
 AllYear,4510,415,0,0,0,0,0,1,0,0,0,0,0,,AccessoryGlassBirthday,バースデーサングラス,0
+AllYear,4511,416,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceOverallLReindeer,トナカイなふく,0
 AllYear,4512,417,0,0,0,1,0,0,1,0,0,0,0,,AccessoryGlassmouthPack,パック,0
 AllYear,4513,418,0,1,0,0,0,1,0,0,1,0,0,,AccessoryGlassEyes,をかしなめがね,0
 AllYear,4514,419,0,0,0,0,1,0,0,1,0,0,0,,BottomsTexPantsNormalCycle,サイクルボトム,0
@@ -629,6 +633,7 @@ AllYear,5301,662,1,0,1,0,0,0,0,0,0,0,1,,CapHatFelt,なかおれハット,0
 AllYear,5299,663,0,1,0,1,0,0,0,0,0,0,0,,CapHatSimple,しっそなぼうし,0
 AllYear,5305,664,0,0,0,0,0,0,0,1,0,0,0,,CapHatSports,うんどうぼう,0
 AllYear,10931,665,0,1,0,0,0,0,1,0,0,0,0,,CapHatNightcap,もこもこナイトキャップ,1
+AllYear,5306,666,0,1,0,0,0,1,0,0,0,0,1,,CapHatSanta,サンタのぼうし,0
 AllYear,5307,667,0,1,0,0,0,1,0,0,1,0,0,,CapHatCrown,おうかん,0
 AllYear,5311,669,0,0,0,0,1,0,1,1,0,0,1,,CapHatTowel,タオル,0
 AllYear,10933,670,1,0,0,0,0,0,1,0,0,0,0,,CapHatAcorn,どんぐりニット,0
@@ -706,6 +711,7 @@ Summer,5441,746,1,0,0,0,0,0,1,0,0,1,0,,TopsTexTopTshirtsNEmbroidery,ししゅう
 Winter,5442,747,0,0,1,0,0,1,0,0,0,0,0,,TopsTexOnepieceOverallLNordic,さむいくにのふく,0
 AllYear,5443,748,0,0,0,0,1,0,0,1,0,0,1,,CapCostumeRacing,フルフェイスメット,0
 AllYear,9912,749,0,0,0,0,1,0,0,0,0,0,0,,SocksTexChimayo,チマヨがらソックス,0
+AllYear,5446,750,0,1,0,0,0,1,0,0,1,0,0,,CapBangsReindeer,トナカイのぼうし,0
 AllYear,5447,751,0,0,0,1,0,0,0,0,1,0,0,,CapHatCow,うしのほね,0
 Winter,5448,752,1,0,1,0,0,1,0,0,0,0,1,,BottomsTexSkirtBoxChidori,ちどりのスカート,0
 AllYear,5449,754,1,1,0,0,0,1,0,0,0,0,0,,BottomsTexSkirtAlineShabby,シャビーなスカート,0
@@ -1135,7 +1141,7 @@ AllYear,12496,1218,0,1,1,0,0,0,0,0,1,0,0,,ShoesLowcutJuneshoes,じゅんぱく�
 AllYear,12497,1219,0,1,1,0,0,0,0,0,1,0,0,TshirtsL,TopsTexOnepieceOverallLJune,じゅんぱくのタキシード,0
 AllYear,12575,1220,0,1,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatHChildren,てづくりのマント,0
 AllYear,12576,1221,0,1,0,0,0,0,0,0,1,0,0,,CapOrnamentAChildren,てづくりのおうかん,0
-AllYear,12577,1222,0,1,0,0,0,1,0,0,0,1,0,,CapHatSummer,げしさいのはなかんむり,0
+AllYear,12577,1222,0,1,0,0,0,1,0,0,0,1,0,,CapHatSummer,ひまわりのはなかんむり,0
 AllYear,12660,1223,0,1,1,0,0,1,0,0,1,0,0,,ShoesLowcutMermaid,マーメイドなくつ,0
 AllYear,12661,1224,0,1,1,0,0,1,0,0,1,0,0,,CapOrnamentCMermaid,マーメイドなティアラ,0
 AllYear,12662,1225,0,1,0,1,0,0,0,0,1,0,0,,AccessoryGlassPiratespatch,かいぞくのアイパッチ,0
@@ -1148,7 +1154,7 @@ AllYear,12668,1231,0,1,0,1,0,0,0,0,1,0,0,,TopsTexOnepieceOverallLPirates0,かい
 AllYear,12797,1233,1,1,0,0,1,1,0,0,0,0,0,,BagBackpackHarvest,ぶどうのしゅうかくおけ,0
 AllYear,12958,1244,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceAlongNMermaiddress,マーメイドなおさかなドレス,0
 AllYear,12957,1245,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceDressNMermaid,マーメイドなプリンセスドレス,0
-Winter,12959,1246,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLWintersolstice,とうじのセーター,0
+Winter,12959,1246,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLWintersolstice,まふゆのセーター,0
 AllYear,12980,1255,0,1,1,1,0,0,0,0,1,0,0,,CapOrnamentCPirate,かいぞくのおたからおうかん,0
 AllYear,12982,1256,0,0,0,0,0,0,1,0,0,1,0,,TopsTexTopYshirtsHNookyellow,たぬきかいはつアロハ・コーラル,0
 AllYear,12983,1257,0,0,0,0,0,0,1,0,0,1,0,,TopsTexTopYshirtsHNookgreen,たぬきかいはつアロハ・グリーン,0

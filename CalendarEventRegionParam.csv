@@ -1,4 +1,11 @@
 RegionEventCountry1,SortID,RegionEventCountry2,RegionEventCountry3,RegionEventCountry4,RegionEventCountry5,UniqueID,EventLabel,ItemFrom
+World,100,0,0,0,0,30,WorldNewYear,NewYearWorld
+60013FBB,101,0,0,0,0,29,RoshiaNewYear,NewYearRoshia
+Asia,102,0,0,0,0,32,ChinaNewYear,NewYearChina
+Japan,103,0,0,0,0,28,RegionNewYear2,NewYearDay2
+Japan,104,0,0,0,0,15,RegionNewYear,NewYearDay
+Japan,105,0,0,0,0,33,RegionNewYear3,NeyYearDay3
+FF0E0B02,106,0,0,0,0,31,KoreaNewYear,NewYearKorea
 EachCountry,501,0,0,0,0,1,MothersDay,MotherDay
 EachCountry,600,0,0,0,0,2,WorldChild,WoldChildDay
 EachCountry,601,0,0,0,0,3,FathersDay,FatherDay
@@ -7,5 +14,11 @@ Southern,611,0,0,0,0,16,WinterSolstice,WinterSolstice_Southern
 Japan,700,0,0,0,0,5,Tanabata,StarFestival
 Brazil,801,0,0,0,0,7,CowBoyFestival,CowboyFestival
 Asia,802,0,0,0,0,19,GyurouSyokujyo,AsiaStarFestival
-Spain,900,6,9,8,0,8,GrapeHarvestFestival,GrapeHarvestFestival
+Spain,900,7,10,9,0,8,GrapeHarvestFestival,GrapeHarvestFestival
 EachCountry,910,0,0,0,0,10,MidAutumnFestival,MoonViewing
+Northern,1200,0,0,0,0,14,Midwinter,WinterSolstice_Southern
+Southern,1201,0,0,0,0,17,SouthernMidwinter,SummerSolstice
+World,1202,0,0,0,0,27,NewYearsEveWorld,NewYearsEveWorld
+Spain,1203,0,0,0,0,26,NewYearsEveSpain,NewYearsEveSpain
+9515B8B7,1204,0,0,0,0,22,NewYearsEveGermany,NewYearsEveGermany
+Japan,1205,0,0,0,0,21,Oomisoka,NewYearEve

@@ -95,7 +95,7 @@ None,15,EnableReadWrite,SpNpcOnly,15,114,DonationAmountForMuseum,博物館建設
 None,0,EnableReadOnly,ReadOnly,1,115,OfficeConstruction1,役場|工事中→役場,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,116,JohnnyTalkAnyPlayerFlag,ジョニー|村の誰か話しかけたか(海賊ジョニー不使用),1,0
 Pre,0,DisableAccess,ReadOnly,1,118,TkkReturn,とたけけ|帰ったか？,1,0
-None,0,EnableReadWrite,ReadOnly,1,119,FlightBalloonEnable,空飛ぶ風船|発生してよいか？,1,0
+None,0,EnableReadWrite,HetHostOnly,1,119,FlightBalloonEnable,空飛ぶ風船|発生してよいか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,120,ConfirmedFruit,フルーツの品種が特定された,1,0
 Pre,0,DisableAccess,ReadOnly,1,121,RctInTent,つぶきち|たぬきちテントに帰る,1,0
 Pre,0,DisableAccess,ReadOnly,1,122,GstAppearField,ゆうたろう|村に出現する,1,0
@@ -108,7 +108,7 @@ None,0,DisableAccess,ReadOnly,1,128,HgcVisitFlagForTailor,仕立て屋商品け�
 Pre,0,EnableReadWrite,ReadOnly,1,131,RcoDeleteBridgeSlopeReservedAnyone,たぬきち|誰かが橋/坂の撤去を予約してる,1,0
 None,0,EnableReadWrite,ReadOnly,1,133,RcoBuildBridgeSlopeSelector,たぬきち|現在の建設対象が橋/坂どちらか？0橋1坂,1,0
 None,0,EnableReadWrite,ReadOnly,1,134,RcoIslandRevitilizationRefuse,たぬきち|島おこし系クエスト断った,1,0
-None,0,EnableReadWrite,ReadOnly,1,135,MessageBottleAvailable,メッセージボトル漂着が解禁,1,0
+None,0,EnableReadWrite,HetHostOnly,1,135,MessageBottleAvailable,メッセージボトル漂着が解禁,1,0
 None,0,EnableReadWrite,ReadOnly,1,136,ImmQ_A_GetHousing,移住Quest|住宅A|ハウジングキットもらった,1,0
 None,0,EnableReadWrite,ReadOnly,1,137,ImmQ_B_GetHousing,移住Quest|住宅B|ハウジングキットもらった,1,0
 None,0,EnableReadWrite,ReadOnly,1,138,ImmQ_C_GetHousing,移住Quest|住宅C|ハウジングキットもらった,1,0
@@ -252,7 +252,7 @@ Pre,0,EnableReadWrite,ManualSend,65535,286,CatchInsectFesGetTotalNum,ムシ取�
 Pre,0,EnableReadWrite,ManualSend,65535,287,CatchFishFesGetTotalNum,つり大会|全員のサカナ取得数,0,1
 None,0,EnableReadWrite,SpNpcOnly,1,288,JohnnyQuestFinishFlagIsland,ジョニー|その日に村で誰かがジョニーを助けたか？(海賊ジョニーでも使用),1,0
 Pre,0,DisableAccess,ReadOnly,10,289,CampRandomSelectMoveOutNpc,キャンプ場|ランダム選出転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
-None,0,DisableAccess,ReadOnly,1,290,CampFireRemoved,広場のキャンプファイアー撤去,1,0
+None,0,DisableAccess,ReadOnly,1,290,CampFireRemoved,広場のキャンプファイアー撤去（実際の撤去とは連動してません）,1,0
 None,0,DisableAccess,ReadOnly,1,293,UnlockEaster,BCATにてイースター解禁,1,0
 None,0,EnableReadWrite,ReadOnly,5,294,MuseumConstruction2,博物館1→2への工事中,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,295,MuseumGrowupEnable2,博物館2への成長条件達成,1,0
@@ -286,7 +286,7 @@ None,0,EnableReadWrite,HetHostOnly,1,332,FoxPreVisitReserve,事前来訪つね�
 None,0,EnableReadWrite,ReadOnly,1,333,FoxMovedToMarket,つねきち|来訪時にフィールドから船へ移動した,1,0
 None,0,DisableAccess,ReadOnly,1,334,FoxAndShipReserve,つねきち船＋フィールドを予約する,1,0
 None,0,EnableReadOnly,ReadOnly,1,335,BCAT_EventFlag_002,国際ミュージアム解禁,1,0
-None,0,DisableAccess,ReadOnly,1,336,BCAT_EventFlag_004,x)ジューンブライド解禁,1,0
+None,0,DisableAccess,ReadOnly,1,336,BCAT_EventFlag_004,ハーベスト解禁,1,0
 None,0,DisableAccess,ReadOnly,1,337,BCAT_EventFlag_001,メーデー解禁,1,0
 None,0,DisableAccess,ReadOnly,1,338,BCAT_EventFlag_003,ジューンブライド解禁,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,343,FoxPreVisit1Today,つねきち1回目の事前来訪当日,1,0
@@ -313,5 +313,35 @@ Pre,0,EnableReadOnly,ReadOnly,1,367,HalloweenSloVisitToday,今日がハロウィ
 None,0,EnableReadWrite,ReadOnly,1,369,GrowUpAfterPatch1_5,1.5適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,370,NeedUpdatePassword,セーブデータ復元後のパスワード更新必要,1,0
 Pre,0,EnableReadOnly,ReadOnly,1,371,IsHalloweenLessThanThreeDays,ハロウィン３日前以内か？,1,0
+None,0,EnableReadWrite,ReadOnly,1,372,GrowUpAfterPatch1_6,1.6適用して成長処理をした,1,0
+None,0,EnableReadWrite,ReadOnly,1,373,IslandProducedByPlayerMoving,プレイヤーだけ引越し|プレイヤーだけ引越しによって作られた島か？,1,0
 None,0,DisableAccess,ReadOnly,1,374,EventObjFlag0,イベントオブジェフラグ0,1,0
+Pre,0,EnableReadWrite,SpNpcOnly,4,377,HarvestProgress,ハーベスト｜完成した料理の数（島単位）,1,0
+None,0,EnableReadWrite,ReadOnly,1,378,PlayerMovingEnableShopMaterialCollect,プレイヤーだけ引越し|お店の資材集め解禁していいか？,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,379,SecondPublicAnnouncement,2回目島内放送の発生が必要か？,1,0
+Pre,0,EnableReadOnly,ReadOnly,1,380,HarvestAfterTerm,ハーベスト｜アフター期間か？,1,0
+None,0,EnableReadWrite,HetHostOnly,1,381,FinishTreasureQuestByRollback,宝探しクエストが通信ロールバックで終了した,1,1
+Pre,0,EnableReadWrite,SpNpcOnly,1,382,HarvestHQDish1Island,ハーベスト｜島の誰かが料理１クラムチャウダーの隠し食材納めた？,1,0
+Pre,0,EnableReadWrite,SpNpcOnly,1,383,HarvestHQDish2Island,ハーベスト｜島の誰かが料理２パンプキンパイの隠し食材納めた？,1,0
+Pre,0,EnableReadWrite,SpNpcOnly,1,384,HarvestHQDish3Island,ハーベスト｜島の誰かが料理３グラタンの隠し食材納めた？,1,0
+Pre,0,EnableReadWrite,SpNpcOnly,1,385,HarvestHQDish4Island,ハーベスト｜島の誰かが料理４サカナのムニエルの隠し食材納めた？,1,0
+None,0,EnableReadWrite,ReadOnly,1,386,IsDisclosedMyDream,ゆめみ|現在、自分の島の夢をおまかせに公開中か？,1,0
+Pre,0,DisableAccess,ReadOnly,19,387,HarvestTukIngredient2_2,ハーベスト｜必要食材２－２,1,0
+Pre,0,DisableAccess,ReadOnly,19,388,HarvestTukIngredient3_1,ハーベスト｜必要食材３－１,1,0
+Pre,0,DisableAccess,ReadOnly,19,389,HarvestTukIngredient3_2,ハーベスト｜必要食材３－２,1,0
+Pre,0,DisableAccess,ReadOnly,19,390,HarvestTukIngredient4_2,ハーベスト｜必要食材４－２,1,0
+Pre,0,DisableAccess,ReadOnly,19,391,HarvestTukHideIngredient2_1,ハーベスト｜隠し食材２－１,1,0
+Pre,0,DisableAccess,ReadOnly,19,392,HarvestTukHideIngredient2_2,ハーベスト｜隠し食材２－２,1,0
+None,0,EnableReadWrite,ReadOnly,5,393,ReputaionMyIsland,ゆめみ｜現在の自分の島の評判値,1,0
+None,0,DisableAccess,ReadOnly,9999,396,LastPlayXmasYear,最後にプレイしたクリスマスの年,1,0
+Pre,0,DisableAccess,ReadOnly,1,397,ShopSelectChristmasFtr,クリスマスおもちゃ家具抽選を今日したか,1,0
+None,0,EnableReadWrite,ReadOnly,1,398,IsUploadDisclosedMyDream,ゆめみ|オマカセ公開で初回更新しなかったか？,1,0
+None,0,DisableAccess,ReadOnly,1,399,TkkFirstLiveNow,とたけけ|初ライブステージか？,1,0
+None,0,DisableAccess,ReadOnly,1,400,ChristmasFtrFirstRound,クリスマス｜おもちゃ家具の商品抽選が1巡したか,1,0
+None,0,DisableAccess,ReadOnly,9999,401,HarvestFestivalAddBbsYear,ハーベストフェスティバル予告の掲示板書き込みをした年,1,0
+None,0,DisableAccess,ReadOnly,9999,403,XmasEveAddBbsYear,クリスマス予告の掲示板書き込みをした年,1,0
+None,0,DisableAccess,ReadOnly,1,404,BCAT_EventFlag_005,クリスマス準備期間解禁,1,0
+None,0,DisableAccess,ReadOnly,65535,405,RandomKey5,ランダムキーe,1,0
+None,0,DisableAccess,ReadOnly,1,406,ShopSocksFlag,かべかけソックス当選済み,1,0
+None,0,DisableAccess,ReadOnly,65535,409,RandomKey6,ランダムキーf,1,1
+None,0,DisableAccess,ReadOnly,1,412,BCAT_EventFlag_006,クリスマスイブ解禁,1,0

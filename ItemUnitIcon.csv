@@ -27,6 +27,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,184,255,Medicine,UnitIconMedicine,おくすり,UnitIconMedicine
 0.8,-2,209,0,RemakeKit,UnitIconRemakeKit,リメイクキット,UnitIconRemakeKit
 1,-2,274,255,SmartphoneCase,UnitIconSmartphoneCase,スマホケース,UnitIconSmartphoneCase
+1,-2,315,255,SmartphoneCaseComp,UnitIconSmartphoneCaseComp,ポケットキャンプのスマホリメイクキット,UnitIconSmartphoneCaseComp
 0.8,-2,236,255,Timer,UnitIconTimer,タイマー,UnitIconTimer
 0.8,-2,59,255,Honeycomb,UnitIconHoneycomb,ハチの巣,UnitIconHoneycomb
 0.8,-2,72,255,Weed,UnitIconPltWeed,雑草,UnitIconPltWeed
@@ -139,6 +140,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,243,13,WPaperBrown,UnitIconWrappingPaper,ラッピングペーパー：ブラウン,UnitIconWrappingPaper
 0.8,-2,242,14,WPaperGray,UnitIconWrappingPaper,ラッピングペーパー：グレー,UnitIconWrappingPaper
 0.8,-2,241,15,WPaperBlack,UnitIconWrappingPaper,ラッピングペーパー：ブラック,UnitIconWrappingPaper
+0.8,-2,317,255,WPaperOrnament,UnitIconWrappingPaperOrnament,ラッピングペーパー：オーナメント ,UnitIconWrappingPaperOrnament
 0.8,-2,257,0,WParcelYellow,UnitIconWrapping,ラッピング袋：イエロー,UnitIconWrapping
 0.8,-2,258,1,WParcelPink,UnitIconWrapping,ラッピング袋：ピンク,UnitIconWrapping
 0.8,-2,259,2,WParcelOrange,UnitIconWrapping,ラッピング袋：オレンジ,UnitIconWrapping
@@ -155,6 +157,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,-2,270,13,WParcelBrown,UnitIconWrapping,ラッピング袋：ブラウン,UnitIconWrapping
 0.8,-2,271,14,WParcelGary,UnitIconWrapping,ラッピング袋：グレー,UnitIconWrapping
 0.8,-2,272,15,WParcelBlack,UnitIconWrapping,ラッピング袋：ブラック,UnitIconWrapping
+0.8,-2,316,255,WParceOrnament,UnitIconWrappingOrnament,ラッピング袋：オーナメント ,UnitIconWrappingOrnament
 0.8,-2,150,255,FlwTulip,UnitIconPltFlwPetalTulip,花：チューリップ,UnitIconPltFlwPetalTulip
 0.8,-2,146,255,FlwPansy,UnitIconPltFlwPetalPansy,花：パンジー,UnitIconPltFlwPetalPansy
 0.8,-2,148,255,FlwCosmos,UnitIconPltFlwPetalCosmos,花：コスモス,UnitIconPltFlwPetalCosmos

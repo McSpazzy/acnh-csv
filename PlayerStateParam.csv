@@ -23,7 +23,7 @@ Normal,IsDemo,1,Heavy,Overwrite,Auto,IfNotDemoDraw,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0
 Normal,IsDemo,1,Heavy,Overwrite,Auto,IfNotDemoDraw,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,DemoTurn,0,0,0,0,
 OnlyWallNoGravity_SitSpecial,IsDemo,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,SimpleMutter,1,0,0,0,
 OnlyWallNoGravity_SitSpecial,IsDemo,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,MenuWait,0,0,0,0,
-OnlyWallNoGravity_SitSpecial,EnableToDemoAll,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EmotionEffectAction,0,1,0,0,
+OnlyWallNoGravity_SitSpecial,EnableToDemoAll,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EmotionEffectAction,0,1,0,0,
 Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,GroundMakerReady,1,1,0,0,
 Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,GroundMakerReadyWait,1,1,0,0,
 Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,GroundMakerAction,1,1,0,0,
@@ -38,7 +38,7 @@ Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,0
 OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OutfitChange,0,0,0,0,
 Normal,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Eat,0,0,0,0,
 Normal,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,EatGetDemo,1,0,0,0,
-Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,ToolChange,1,0,0,0,
+Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,ToolChange,1,0,0,0,
 OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,ToolPutaway,1,0,0,0,
 OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Sequential,None,Continue,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,ToolPullout,1,0,0,0,
 Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,ToolAirShot,0,0,0,0,
@@ -70,15 +70,15 @@ Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,1,0,1,0,0,0,
 Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,AxeHitTree,1,0,0,0,
 OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrHold,0,1,0,0,
 OnlyWallNoGravity_SitSpecial,EnableToDemoNetLock,1,Heavy,Overwrite,None,Continue,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrHoldWait,0,1,0,0,
-Normal,EnableToDemoNetLock,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPullReady,0,1,0,0,
+Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPullReady,0,1,0,0,
 Normal,EnableToDemoNetLock,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPullDisable,0,1,0,0,
 Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPullReadyWait,1,1,0,0,
 OnlyFloor,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPull,1,1,0,0,
-Normal,EnableToDemoNetLock,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPushReady,0,1,0,0,
+Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPushReady,0,1,0,0,
 Normal,EnableToDemoNetLock,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPushDisable,0,1,0,0,
 Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPushReadyWait,1,1,0,0,
 Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrPush,1,1,0,0,
-Normal,EnableToDemoNetLock,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrRotateReady,0,1,0,0,
+Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrRotateReady,0,1,0,0,
 Normal,EnableToDemoNetLock,1,Heavy,Overwrite,None,IfNotDemoDraw,4,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrRotateDisable,0,1,0,0,
 Normal,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrRotateReadyWait,1,1,0,0,
 Normal,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrRotate,1,1,0,0,
@@ -266,3 +266,4 @@ OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,0
 OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,TweeterBlowing,0,1,0,0,
 OnlyFloor,Disable,1,Heavy,Sequential,None,Continue,0,1,0,0,1,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,HalloweenTricked,0,1,0,0,
 NoBgCheckNoGravity,EnableToDemoBedSpeak,1,Heavy,Overwrite,None,Putaway,109,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FtrBedWaitMessy,0,1,0,0,
+OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,SparklingCiderCheers,0,1,0,0,

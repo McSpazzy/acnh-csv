@@ -251,3 +251,6 @@ None,Random,White,888,0,3,23,6,12566,335,6,マーメイドなかべがみ,RoomSp
 UseAO,None,Orange,888,6,0,23,6,12567,336,6,かいぞくのかべがみ,RoomSpWallPirates00,1
 UseAO,None,White,888,6,7,23,6,13224,362,9,ハロウィンなかべ,RoomTexWallHalloween00,0
 None,None,Orange,888,0,8,23,6,13230,363,6,はなびたいかいのかべ,RoomSpWallFireworks00,0
+UseAO,None,Orange,888,0,7,23,6,13318,364,6,サンクスギビングなかべ,RoomTexWallHarvest00,0
+None,Random,White,888,6,3,23,6,13603,383,6,ゆきのふるかべ,RoomSpWallSnowy00,1
+None,Synchro,White,888,0,8,23,6,13609,384,6,オーロラのかべ,RoomSpWallAurora00,0

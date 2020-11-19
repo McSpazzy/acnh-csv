@@ -27,3 +27,4 @@ UniqueID,Label
 31,YumemiDemoWakeUpState
 32,YumemiFieldBgmDelay
 33,EventAnnounceState
+34,HarvestCookingState
