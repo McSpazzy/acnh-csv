@@ -1,4 +1,4 @@
-MannequinPose,62ff0c3d string,Seasonality,AccEye,AccMouth,Bottoms,Cap,Shoes,Socks,Tops,UniqueID
+MannequinPose,MannequinUsage,Seasonality,AccEye,AccMouth,Bottoms,Cap,Shoes,Socks,Tops,UniqueID
 MannequinPause01,Normal,0,-2,-2,11432,5146,10042,9682,8551,0
 MannequinPause02,Normal,2,4235,-2,9011,5265,11470,-2,5621,1
 MannequinPause05,Normal,2,-2,-2,8838,5146,10046,4741,4154,2

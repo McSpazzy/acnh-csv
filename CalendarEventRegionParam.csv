@@ -1,11 +1,11 @@
 RegionEventCountry1,SortID,RegionEventCountry2,RegionEventCountry3,RegionEventCountry4,RegionEventCountry5,UniqueID,EventLabel,ItemFrom
 World,100,0,0,0,0,30,WorldNewYear,NewYearWorld
-60013FBB,101,0,0,0,0,29,RoshiaNewYear,NewYearRoshia
+Russia,101,0,0,0,0,29,RoshiaNewYear,NewYearRoshia
 Asia,102,0,0,0,0,32,ChinaNewYear,NewYearChina
 Japan,103,0,0,0,0,28,RegionNewYear2,NewYearDay2
 Japan,104,0,0,0,0,15,RegionNewYear,NewYearDay
 Japan,105,0,0,0,0,33,RegionNewYear3,NeyYearDay3
-FF0E0B02,106,0,0,0,0,31,KoreaNewYear,NewYearKorea
+Korea,106,0,0,0,0,31,KoreaNewYear,NewYearKorea
 EachCountry,501,0,0,0,0,1,MothersDay,MotherDay
 EachCountry,600,0,0,0,0,2,WorldChild,WoldChildDay
 EachCountry,601,0,0,0,0,3,FathersDay,FatherDay
@@ -20,5 +20,5 @@ Northern,1200,0,0,0,0,14,Midwinter,WinterSolstice_Southern
 Southern,1201,0,0,0,0,17,SouthernMidwinter,SummerSolstice
 World,1202,0,0,0,0,27,NewYearsEveWorld,NewYearsEveWorld
 Spain,1203,0,0,0,0,26,NewYearsEveSpain,NewYearsEveSpain
-9515B8B7,1204,0,0,0,0,22,NewYearsEveGermany,NewYearsEveGermany
+Germany,1204,0,0,0,0,22,NewYearsEveGermany,NewYearsEveGermany
 Japan,1205,0,0,0,0,21,Oomisoka,NewYearEve
