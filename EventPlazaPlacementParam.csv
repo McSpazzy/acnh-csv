@@ -1,4 +1,4 @@
-036dd90c.HashRef,EventType,EventWeatherArea,24e5b19d.HashRef,PlacementKind,160cb241 string,EventFtrUniqueID,EventObjUniqueID,OffsetX,OffsetZ,UniqueID,CalendarEventKey,b8e42602 u8,DisableInDream,4906e466 u8,e6c63c5c string32,7215b154 string32,56ee0925 string32,NpcSpLabel,PlacementKey,VisitorNpcLabel
+036dd90c.HashRef,EventType,EventWeatherArea,24e5b19d.HashRef,PlacementKind,160cb241 string,EventFtrUniqueID,EventObjUniqueID,OffsetX,OffsetZ,UniqueID,CalendarEventKey,b8e42602 u8,DisableInDream,4906e466 u8,LandFlagKeyOFF,LandFlagKeyON,56ee0925 string32,NpcSpLabel,PlacementKey,VisitorNpcLabel
 EventNone,PermanentObj,All,None,EventObj,All,0,0,0,0,0,EventNone,0,0,0,,,,,Invalid,
 EventNone,PermanentObj,All,None,EventObj,All,0,1,3,5,1,EventNone,0,0,0,,EventPlazaBuilt,,,P_EventNone_EventObj_0,
 EventNone,PermanentObj,All,None,EventObj,All,0,2,1,1,2,EventNone,0,0,0,,BuiltTownOffice,,,P_EventNone_EventObj_1,
