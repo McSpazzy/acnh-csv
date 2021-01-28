@@ -1,5 +1,12 @@
 ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 1,-2,5,-1,None,,（なし）,
+0.8,-2,323,-1,FeatherRainbow,UnitIconFeatherRainbow,にじいろのはね,UnitIconFeatherRainbow
+0.8,-2,324,3,FeatherPurple,UnitIconFeather,むらさきのはね,UnitIconFeather
+0.8,-2,325,1,FeatherBlue,UnitIconFeather,あおいはね,UnitIconFeather
+0.8,-2,326,2,FeatherGreen,UnitIconFeather,みどりのはね,UnitIconFeather
+0.8,-2,327,0,FeatherRed,UnitIconFeather,あかいはね,UnitIconFeather
+0.8,-2,329,-1,OtoshidamaCh,UnitIconOtoshidamaCh,しゅんせつのおとしだま,UnitIconOtoshidamaCh
+0.8,-2,330,-1,OtoshidamaKr,UnitIconOtoshidamaKr,ソルラルのおとしだま,UnitIconOtoshidamaKr
 0.8,-2,0,0,Leaf,UnitIconLeaf,葉っぱ,UnitIconLeaf
 0.8,-2,273,1,LeafYellow,UnitIconLeaf,葉っぱ：黄,UnitIconLeaf
 0.8,-2,157,-1,RoomWall,UnitIconRoomWall,壁紙,UnitIconRoomWall

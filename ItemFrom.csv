@@ -28,6 +28,7 @@ HHABaseScore,UniqueID,Label,Name
 0,72,Shop_EnableShovel,店_スコップ解禁
 0,71,Shop_EnableAxe,店_オノ解禁
 0,118,ShopRecipeBook2,店_レシピブック2
+0,218,ShopReaction,店_リアクション_カーニバル
 0,88,ShopRemakeKit,店_リメイクキット
 0,84,Shop_EnableRecipeWatering,店_レシピ解禁(ジョウロ)
 0,85,Shop_EnableRecipeScoop,店_レシピ解禁(スコップ高跳び)
@@ -56,6 +57,8 @@ HHABaseScore,UniqueID,Label,Name
 51,162,TailorMarketOnlyXmas,仕立て屋_店舗_クリスマス
 51,183,TailorHalloween,仕立て屋_ハロウィン
 51,184,TailorMarketOnlyHalloween,仕立て屋_店舗_ハロウィン
+51,212,TailorMarketOnlyCarnival,仕立て屋_店舗_カーニバル
+51,223,TailorMarketOnlySetsubun,仕立て屋_店舗_節分
 253,22,RugS,ローラン_S
 253,23,RugM,ローラン_M
 253,24,RugL,ローラン_L
@@ -161,11 +164,20 @@ HHABaseScore,UniqueID,Label,Name
 201,205,NewYearKorea,<リージョン>お正月（韓国）
 201,206,NewYearChina,<リージョン>お正月（アジア）
 201,210,NeyYearDay3,<リージョン>お正月（日本３）
+201,220,LunarNewYearAsia,<リージョン>春節（中華圏・東アジア）
+0,221,LunarNewYearKorea,<リージョン>ソルラル（韓国）
+201,219,Valentine,<リージョン>バレンタインデー
+201,227,BigGame,<リージョン>ビッグゲーム
+201,228,BigGame2,<リージョン>ビッグゲーム2
+201,226,GroundhogDay,<リージョン>グラウンドホッグデー
+201,225,Setsubun,<リージョン>節分
 178,159,DeliveryPocketCamp,<永続配信>ポケ森コラボ
 351,163,Easter,イースター
 437,160,JuneBride,ジューンブライド
 231,180,Halloween_NPC,ハロウィン_NPC
 573,181,Halloween_Pumpking,ハロウィン_パンプキング
+231,214,Carnival,カーニバル
+573,215,Carnival_pck,カーニバル_ベルリーナ
 231,193,Harvest,ハーベスト_家具
 351,194,Harvest_tuk,ハーベスト_フランクリン
 0,195,Harvest_RecipeBook,店_ハーベストレシピ本

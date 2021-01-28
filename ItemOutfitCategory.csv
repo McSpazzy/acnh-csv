@@ -52,7 +52,7 @@
 20,65,0,0,CommonToolHand,CoolBagHand,1,手提げかばん(クール),,,,,,0
 21,66,0,0,CommonToolHand,LowBagHand,1,手提げかばん(生活度低,,,,,,0
 22,67,0,0,CommonToolHand,HighBagHand,1,手提げかばん(生活度高,,,,,,0
-23,68,0,0,CommonToolHand,SmallBook,1,本(小),,,,,,0
+23,68,0,0,CommonToolHand,SmallBook,1,本(小),ToolBook_CloseKeep,,,,,0
 24,69,0,0,CommonToolHand,LightDumbbell,1,ダンベル(軽い),,,,,,0
 25,70,0,0,CommonToolHand,Candy,1,キャンディ,,,,,,0
 26,71,0,0,CommonToolHand,Canister,1,缶,,,,,,0
@@ -71,6 +71,10 @@
 0,88,0,0,CommonToolHand,Canvas,1,キャンバス,,,,,,0
 0,91,1,0,CommonToolHand10400,Pennant,1,ペナント,,,,,,0
 0,92,0,0,CommonToolHand10600,PBag,1,プレゼントぶくろ,,,,,,0
+37,98,0,0,CommonToolHand20000,Mcas,11,マラカス,,Sub,Main,,,1
 0,100,0,0,CommonToolHand10600,CUten,3,調理器具,,Sub,Main,,,1
 0,101,1,0,CommonToolHand10600,SpCdr,1,サイダー,,,,,,0
-37,102,0,0,CommonToolHand10600,Dh,1,皿,,,,,,0
+38,102,0,0,CommonToolHand10600,Dh,1,皿,,,,,,0
+0,103,1,0,CommonToolHand10700,SoSe,1,まめまきセット,,,,,,0
+0,104,1,0,CommonToolHand10700,MePh,1,メガホン,,,,,,0
+0,105,1,0,CommonToolHand10700,PMcas,43,プレイヤーマラカス,,Sub,Main,,,1

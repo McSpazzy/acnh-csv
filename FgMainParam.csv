@@ -397,11 +397,9 @@ CollisionHeight,InsectParam,Kind,PicIconHeight,BuryItem,BuryItem2,BuryItem3,Chan
 12.5,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,5207,5020,0,-4938,0,和風のさく,0,FenceJapanese,FenceJapanese,0,0,FenceJapanese
 10.2,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,5206,5021,0,-4937,-1,鉄と石の柵,0,FenceIronAndStone,FenceIronAndStone,0,0,FenceIronAndStone
 10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,12630,5025,0,-4852,-1,イースターの柵,0,FenceEasterEgg,FenceEasterEgg,0,0,FenceEasterEgg
-10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,2213,5026,0,-4853,3,ジューンブライドな柵緑,0,FenceJuneBride3,FenceJuneBride,0,8,FenceJuneBride
 10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,12894,5026,0,-4851,0,ジューンブライドな柵,0,FenceJuneBride,FenceJuneBride,0,8,FenceJuneBride
-10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,2213,5026,0,-4850,1,ジューンブライドな柵ピンク,0,FenceJuneBride1,FenceJuneBride,0,8,FenceJuneBride
 10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,12758,5027,0,-4856,-1,いけがきの柵,0,FenceIkegaki,FenceIkegaki,0,2,FenceIkegaki
-10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,2213,5028,0,-4831,-1,マーメイドな柵,0,FenceMermaid,FenceMermaid,0,0,FenceMermaid
+10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,14278,5028,0,-4831,-1,マーメイドな柵,0,FenceMermaid,FenceMermaid,0,0,FenceMermaid
 10,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,13275,5030,0,-4827,-1,ハロウィンのさく,0,FenceHalloween,FenceHalloween,0,0,FenceHalloween
 9,None,Fence,0,-2,-2,-2,-2,-2,0,-2,-2,-2,5099,0,-4924,0,コミューン島専用柵,0,FenceCommune,FenceHorizontalLog,0,0,FenceHorizontalLog
 6,Stone,Stone,0,-2,-2,-2,-2,-2,0,-2,-2,-2,6000,0,-5358,-1,岩A,0,StoneA,stoneA,2,0,StoneA

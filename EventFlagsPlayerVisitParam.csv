@@ -76,3 +76,8 @@ DefaultValue,MaxValue,UniqueID,FlagsFlowAccess,Key,Name
 0,1,93,2,DC_TukTalkBeforeEvent,ハーベスト|お出かけ先のフランクリンとイベント前に話した？
 0,1,94,2,DC_TukTalkRunningEvent,ハーベスト|お出かけ先のフランクリンとイベント中に話した？
 0,1,95,2,DC_TukTalkAfterEvent,ハーベスト|お出かけ先のフランクリンとイベント後に話した？
+0,1,96,2,DC_PckTalkRunningEvent,カーニバル|お出かけ先のベルリーナと当日に話した？
+0,511,97,2,DC_GetCarnivalFurniture,カーニバル/ベルリーナ|お出かけ先でどの家具をもらったか？
+0,1,102,2,DC_PckLookChatFlag,カーニバル/べルリーナ|カーニバル装備の雑談した？
+0,10,103,2,DC_PckGiveFurnitureCount,カーニバル/べルリーナ|家具をもらった回数
+0,1,104,2,DC_PckRecipeTalkFlag,カーニバル/べルリーナ|にじいろのはねのレシピもらう会話した？

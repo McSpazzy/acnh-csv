@@ -1,5 +1,6 @@
 FlagAnim,UniqueID,Label
 0,0,None
+1,1,America
 3,3,Mexico
 6,6,Brazil
 8,8,China
@@ -16,3 +17,4 @@ FlagAnim,UniqueID,Label
 0,38,World
 0,39,Northern
 0,40,Southern
+0,41,GreaterChina

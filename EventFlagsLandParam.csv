@@ -301,7 +301,6 @@ None,0,DisableAccess,ReadOnly,65535,351,RandomKey4,ランダムキーd,1,1
 Pre,0,EnableReadWrite,SpNpcOnly,1,352,FoxPreVisitAlreadyBuyToday,つねきち|今日誰かが事前来訪中に美術品を買った,1,0
 None,0,DisableAccess,ReadOnly,1,353,RcoHasResolvedMoveKitBug,いせつキットバグを解消したか,1,0
 None,0,EnableReadWrite,ReadOnly,1,354,TapDreamEnable,ゆめみ|ゆめみ機能解禁か？,1,0
-None,0,EnableReadWrite,ReadOnly,1,356,MyDesignPro2,追加型マイデザインPro解禁,1,0
 None,0,DisableAccess,ReadOnly,1,357,GulBVisitEnable,海賊ジョニーが来訪する条件を満たしたか,1,0
 None,0,DisableAccess,ReadOnly,9999,359,FireworksAddBbsYear,花火大会予告の掲示板書き込みをした年,1,0
 None,0,EnableReadWrite,ReadOnly,1,362,EnableMyDream,ゆめみ|現在、自分の島の夢を提供中か？,1,0
@@ -339,9 +338,18 @@ None,0,EnableReadWrite,ReadOnly,1,398,IsUploadDisclosedMyDream,ゆめみ|オマ�
 None,0,DisableAccess,ReadOnly,1,399,TkkFirstLiveNow,とたけけ|初ライブステージか？,1,0
 None,0,DisableAccess,ReadOnly,1,400,ChristmasFtrFirstRound,クリスマス｜おもちゃ家具の商品抽選が1巡したか,1,0
 None,0,DisableAccess,ReadOnly,9999,401,HarvestFestivalAddBbsYear,ハーベストフェスティバル予告の掲示板書き込みをした年,1,0
+None,0,EnableReadWrite,ReadOnly,1,402,GrowUpAfterPatch1_7,1.7適用して成長処理をした,1,0
 None,0,DisableAccess,ReadOnly,9999,403,XmasEveAddBbsYear,クリスマス予告の掲示板書き込みをした年,1,0
 None,0,DisableAccess,ReadOnly,1,404,BCAT_EventFlag_005,クリスマス準備期間解禁,1,0
 None,0,DisableAccess,ReadOnly,65535,405,RandomKey5,ランダムキーe,1,0
 None,0,DisableAccess,ReadOnly,1,406,ShopSocksFlag,かべかけソックス当選済み,1,0
+None,0,DisableAccess,ReadOnly,65535,407,ShopHeartChocoSelect,ハートのチョコレート抽選済みカラバリ,1,0
+None,0,DisableAccess,ReadOnly,65535,408,ShopHeartFlowerSelect,ハートのバラブーケ抽選済みカラバリ,1,0
 None,0,DisableAccess,ReadOnly,65535,409,RandomKey6,ランダムキーf,1,1
+None,0,DisableAccess,ReadOnly,65535,410,RandomKey7,ランダムキーg,1,1
 None,0,DisableAccess,ReadOnly,1,412,BCAT_EventFlag_006,クリスマスイブ解禁,1,0
+None,0,DisableAccess,ReadOnly,1,413,BCAT_EventFlag_007,カーニバル本番、バレンタイン本番解禁,1,0
+None,0,DisableAccess,ReadOnly,9999,419,ValentineAddBbsYear,バレンタイン予告の掲示板書き込みをした年,1,0
+None,0,DisableAccess,ReadOnly,9999,420,CarnivalAddBbsYear,カーニバル予告の掲示板書き込みをした年,1,0
+Pre,0,EnableReadWrite,ReadOnly,1,421,CarnivalNpcFeatherColorDecided,カーニバル｜NPCが欲しがる羽の色決定済み,1,0
+Pre,0,EnableReadOnly,HetHostOnly,1,422,CarnivalEventPlazaNpcWander,カーニバル｜広場行動NPCがぶらつくか,1,0

@@ -84,3 +84,8 @@ AppearArea,AppearWeather,GetScale,Kind,WaitScale,ItemID,OpenAchievementCount,Toy
 0,AlwaysAppear,1,Wisp,1,4702,0,5922,101,0,ゆうたろうのたましい,YutaroWisp,0,InsectYutaroWisp,,
 0,AppearInCherryBlossomOpenUpTerm,1,Petal,1,5859,0,5922,106,0,さくらのはなびら,Sakurapetal,0,InsectSakurapetal,,
 0,AppearInAutumnLeavesTerm,1,AutumnLeaf,1,7374,0,5922,109,0,もみじ,AutumnLeaf,0,InsectAutumnLeaf,,
+0,AlwaysAppear,1,42C47D88,1,3541,0,5922,112,0,あかいはね,FeatherRed,0,InsectFeather,,
+0,AlwaysAppear,1,42C47D88,1,3542,0,5922,113,0,あおいはね,FeatherBlue,0,InsectFeather,,
+0,AlwaysAppear,1,42C47D88,1,3543,0,5922,114,0,みどりのはね,FeatherGreen,0,InsectFeather,,
+0,AlwaysAppear,1,42C47D88,1,3545,0,5922,115,0,むらさきのはね,FeatherPurple,0,InsectFeather,,
+0,AlwaysAppear,1,42C47D88,1,3548,0,5922,116,0,にじいろのはね,FeatherRainbow,0,InsectFeatherRainbow,,

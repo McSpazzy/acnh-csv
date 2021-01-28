@@ -53,6 +53,9 @@ UniqueID,Label,Name,ResName
 371,BlowRollItem,ふきもどし,BlowRollItem
 231,Balloon,風船,Balloon
 720,ToolPennantRcm,つぶまめの手持ちペナント,ToolPennantRcm
+735,MaracasCarnival,マラカス,MaracasCarnival
+348,Megaphone,メガホン,Megaphone
+736,Soy,まめまきセット,Soy
 188,Music,ミュージック,Music
 208,Fossil,化石,Fossil
 209,FossilJ,鑑定済化石,FossilJ
@@ -103,6 +106,10 @@ UniqueID,Label,Name,ResName
 653,WBagBlack,ラッピング袋：ブラック,WBagBlack
 731,WPaperOrnament,ラッピングペーパー：オーナメント,WPaperOrnament
 730,WBagOrnament,ラッピング袋：オーナメント,WBagOrnament
+737,OtoshidamaOpenCh,しゅんせつのおとしだま：包む前,OtoshidamaOpenCh
+738,OtoshidamaOpenKr,ソルラルのおとしだま：包む前,OtoshidamaOpenKr
+740,OtoshidamaSealCh,しゅんせつのおとしだま：包んだ後,OtoshidamaSealCh
+741,OtoshidamaSealKr,ソルラルのおとしだま：包んだ後,OtoshidamaSealKr
 359,YellowPaperBag,汎用紙袋,YellowPaperBag
 1,Coin,ベル：コイン,Coin
 2,MoneyBag010,ベル：金袋小,MoneyBag010
@@ -546,3 +553,8 @@ UniqueID,Label,Name,ResName
 727,Candy,アメ,Candy
 728,Lollipop,ロリポップ,Lollipop
 372,SantaSack,プレゼントぶくろ,SantaSack
+301,FeatherRed,あかいはね,FeatherRed
+302,FeatherBlu,あおいはね,FeatherBlu
+303,FeatherGrn,みどりのはね,FeatherGrn
+305,FeatherPpl,むらさきのはね,FeatherPpl
+308,FeatherRainbow,にじいろのはね,FeatherRainbow

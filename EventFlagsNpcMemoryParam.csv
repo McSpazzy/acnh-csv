@@ -10,7 +10,7 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 8,0,0,0,0,0,2,VisitCount,7,そのプレイヤーの家に行った回数
 9,0,0,0,0,0,1,VisitedCount,7,そのプレイヤーが家に来た回数
 10,0,0,0,0,25,1,Friendship,255,親密度
-11,0,0,0,0,0,1,TalkCountToday,7,今日の会話回数（通算）
+11,0,0,0,0,0,1,TalkCountToday,9,今日の会話回数（通算）
 12,0,1,0,0,0,1,TalkCountInNpcHouseToday,7,今日NPCの家での会話回数
 13,0,0,0,0,0,2,HasAcquaintanceship,1,面識ありか
 14,0,2,0,1,0,2,SitBenchFlag,1,NPCをベンチに座らせる
@@ -48,7 +48,7 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 46,0,1,0,0,0,2,TalkWantToday,1,今日Wantを聞いたか？
 47,0,1,0,0,0,2,InduceFailSellPlaceNothing,1,勧誘失敗理由|売り土地が無い
 48,0,0,0,0,0,2,IsPlayedQuestVisitN,1,訪問Nをクリアした事ある？ 
-49,0,0,0,0,0,2,AcquaintanceshipFlagOff,1,面識フラグを立てない 
+49,1,3,1,1,0,2,AcquaintanceshipFlagOff,1,面識フラグを立てない 
 50,0,0,0,0,0,2,InducementAtMovingDay,1,転出当日に勧誘された
 51,0,0,0,0,0,1,ChokeOffMoveOut,1,引越を引き止められた
 52,0,0,0,0,0,0,InducementFlag,1,勧誘されて来たか
@@ -130,7 +130,6 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 131,0,1,0,0,0,2,FireworksGetItemFlag,1,花火大会|このNPCからリアクション会話で花火を受け取った
 132,0,1,0,1,0,2,HaloweenTalkThisSceneFalg,1,ハロウィン|このシーンで会話した？
 133,0,1,0,1,0,2,HaloweenGetCandyThisSceneFalg,1,ハロウィン|このシーンでアメもらった？
-134,0,1,0,0,0,2,FollowQuestAfter,1,追従｜追従クエスト後か？ 
 136,0,1,0,0,0,2,HalloweenLastNotGetFlag,1,ハロウィン|最後の会話で報酬アイテムもらえなかった？
 137,0,1,0,0,0,2,HalloweenLastNotGetItem,16,ハロウィン|最後の会話でもらえなかった報酬アイテム
 138,0,1,0,0,0,2,HarvestItemExchangeToday,1,ハーベスト｜物々交換を１度でも行ったか？
@@ -146,3 +145,8 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 148,0,1,0,0,0,0,ChristmasSantaPresentItemType,8,クリスマス｜サンタミッションであげたプレゼントの種類
 149,0,1,0,0,0,0,ChristmasExchangeRemakeId,8,クリスマス｜プレゼント交換であげたプレゼントのリメイクID
 150,0,1,0,0,0,0,ChristmasSantaPresentRemakeId,8,クリスマス｜サンタミッションであげたプレゼントのリメイクID
+151,0,1,0,0,0,2,CarnvalTalkWithoutFeatherFlag,1,一般NPC/カーニバル|はねを持たずに会話した？
+152,1,1,0,1,0,2,CarnvalExchangeFeatherFlag,1,一般NPC/カーニバル|このNPCとはね交換した？
+153,0,1,0,0,0,2,CarnvalTalkOutdoorFlag,1,一般NPC/カーニバル|今日屋外で会話した？
+154,1,1,0,1,0,2,CarnvalExchangeFeatherTalkFlag,1,一般NPC/カーニバル|このNPCとはね交換の会話をした？
+155,0,1,0,0,0,2,ValentinePresentFlag,1,バレンタイン|バレンタインのプレゼント渡した？

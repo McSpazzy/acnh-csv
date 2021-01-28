@@ -44,6 +44,9 @@ OnCaptureUIcon,Timer,None,20_Tool,FtrCommonUser,0,0,22,1,0,0,1,1,1,0,1,0,1,1,1,0
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,274,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,HandheldPennant,サブ道具：手持ちペナント
 None,HandyGoods,None,80_Etc,FtrCommonUser,0,0,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,BigbagPresent,サブ道具：プレゼントぶくろ
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,283,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,JuiceFuzzyapple,サブ道具：スパークリングサイダー
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,287,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Megaphone,サブ道具：メガホン
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,286,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,SoySet,サブ道具：まめまきセット
+OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,289,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,MaracasCarnival,サブ道具：マラカス
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,162,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,TreeSeedling,植物：木の苗
 None,None,None,40_Plant,FtrNoneUser,0,0,161,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,Tree,植物：木
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,164,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,BushSeedling,植物：低木の苗
@@ -98,6 +101,7 @@ None,None,None,85_BridgeSlope,FtrNoneUser,0,0,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 OnCaptureUIcon,DIYRecipe,None,99_Dummy,FtrNoneUser,0,0,238,0,0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,0,DIYRecipe,DIYレシピ
 None,MessageBottle,None,80_Etc,FtrNoneUser,0,0,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MessageBottle,メッセージボトル
 OnCaptureUIcon,WrappingPaper,None,80_Etc,FtrNoneUser,10,0,253,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,0,WrappingPaper,ラッピングペーパー
+OnCaptureUIcon,WrappingPaper,None,80_Etc,FtrNoneUser,10,0,291,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,Otoshidama,おとしだま
 None,HousingKit,None,80_Etc,FtrNoneUser,0,0,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,HousingKit,ハウジングキット
 None,HousingKit,None,80_Etc,FtrNoneUser,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,HousingKitRcoQuest,ハウジングキット：移住クエスト
 None,HousingKit,None,80_Etc,FtrNoneUser,0,0,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,HousingKitBirdge,ハウジングキット：橋用
@@ -121,6 +125,8 @@ OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,101,1,1,0,0,1,1,0,1,0,1,1,1,0
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,266,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,LoveCrystal,あいのけっしょう
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,82,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Candy,アメ
 None,None,None,81_Event,FtrUniqueUser,0,0,280,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HarvestDish,ハーベストの料理
+OnCaptureUIcon,Fassion,None,81_Event,FtrNoneUser,3,0,37,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,Feather,カーニバルの羽（ノーマル）
+OnCaptureUIcon,Fassion,None,81_Event,FtrNoneUser,0,0,288,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,RainbowFeather,カーニバルの羽（にじいろ）
 None,None,None,99_Dummy,FtrCommonUser,0,0,208,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Giftbox,初期支給プレゼントBOX
 None,None,None,99_Dummy,FtrNoneUser,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PinataStick,装備専用：ピニャータ割り棒
 None,None,None,99_Dummy,FtrNoneUser,0,0,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NpcOutfit,装備品：NPC専用
@@ -141,3 +147,4 @@ None,Present,None,80_Etc,FtrNoneUser,0,0,215,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 None,None,Ftr,99_Dummy,FtrUniqueUser,0,0,234,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EventObjFtr,イベントオブジェ家具
 None,None,None,99_Dummy,FtrNoneUser,0,0,236,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NnpcRoomMarker,NPC部屋マーカー
 OnCaptureUIcon,None,None,91_PhotoStudioList,FtrNoneUser,0,0,255,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,PhotoStudioList,撮影スタジオ用アイテム
+OnCaptureUIcon,Present,None,80_Etc,FtrNoneUser,0,0,292,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,DummyWrappingOtoshidama,ダミー包んだおとしだま

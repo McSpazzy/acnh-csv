@@ -327,7 +327,7 @@ CharacterId,NumberingId,SpNpcCloth,NfpType,NpcLabel,NpcType,Reaction,SeriesId,St
 99588,377,0,1,rcm,1,0,5,0
 114945,378,0,1,otg,1,1,5,1
 110849,379,0,1,upa,1,1,5,1
-109312,380,0,1,pck,1,1,5,1
+109312,380,0,1,pck,1,0,5,0
 107008,381,0,1,gul,1,0,5,0
 108545,382,0,1,fox,1,0,5,0
 109568,383,0,1,pyn,1,0,5,0

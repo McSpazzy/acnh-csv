@@ -16,3 +16,4 @@ NpcFtrActionHoldTime,NpcFtrActionInterest,NpcFtrActionWeather,NpcFtrActionTool,U
 0,FtrAccess,None,8821,14,WaterSpray,霧吹き,NpcSpray
 0,FtrAccess,None,-2,15,SmellFood,匂いをかぐ,NpcSmellFurniture
 0,FtrSwitchOn,None,-2,16,SwitchSmellFood,駆動（匂いをかぐ）,NpcSmellFurniture
+1800,32DB41D9,None,-2,28,DanceFloor,フロアマットで踊る,MaReAddDance
