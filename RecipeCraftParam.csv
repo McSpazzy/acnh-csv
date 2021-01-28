@@ -635,6 +635,6 @@ BoardColorID,CraftRecipeSeason,CraftRecipeSelectSeasonType,CraftUnlock,NPCUnlock
 46,Bamboo,SelectCalendarEvent,ChristmasRei,NO_TAKE,0,3,1,1,0,0,0,13244,7694,3206,3672,-2,-2,-2,7411,750,XmasEve,0
 46,XmasDeco,SelectRecipeSeason,ChristmasRei,NO_TAKE,0,1,1,1,0,0,0,13792,5730,5731,5732,-2,-2,-2,7490,751,EventNone,0
 15,SnowCrystal,SelectRecipeSeason,SeasonSnowCrystal,NO_TAKE,0,3,10,0,0,0,0,13603,3539,2502,-2,-2,-2,-2,7053,752,EventNone,0
-13,Bamboo,SelectCalendarEvent,A1A9E32E,NO_TAKE,0,1,1,1,1,0,0,3548,3541,3542,3543,3545,-2,-2,7690,755,Carnival,0
+13,Bamboo,SelectCalendarEvent,Carnival,NO_TAKE,0,1,1,1,1,0,0,3548,3541,3542,3543,3545,-2,-2,7690,755,Carnival,0
 46,Shell,SelectRecipeSeason,SeasonSummerShell,NO_TAKE,0,6,0,0,0,0,0,12217,5982,-2,-2,-2,-2,-2,4270,757,EventNone,0
 46,Bamboo,NoSelect,Seo01,NO_TAKE,0,1,5,5,0,0,0,14278,12968,1380,1379,-2,-2,-2,3890,776,EventNone,0

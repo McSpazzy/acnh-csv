@@ -23,9 +23,9 @@ Spain,1203,0,0,0,0,26,NewYearsEveSpain,NewYearsEveSpain,0,0
 Germany,1204,0,0,0,0,22,NewYearsEveGermany,NewYearsEveGermany,0,0
 Japan,1205,0,0,0,0,21,Oomisoka,NewYearEve,0,0
 EachCountry,1300,0,0,0,0,34,RegionValentine,Valentine,1,0
-35C4632E,1301,0,0,0,0,36,RegionLunarNewYearAsia,LunarNewYearAsia,0,0
+GreaterChina,1301,0,0,0,0,36,RegionLunarNewYearAsia,LunarNewYearAsia,0,0
 Korea,1302,0,0,0,0,35,RegionLunarNewYearKR,LunarNewYearKorea,0,0
 Japan,1303,0,0,0,0,38,Setsubun,Setsubun,0,0
-68FDB418,1304,0,0,0,0,39,GroundhogDay,GroundhogDay,0,0
-68FDB418,1305,0,0,0,0,37,RegionBigGame,BigGame,1,0
-68FDB418,1306,0,0,0,0,40,RegionBigGame2,BigGame2,0,0
+America,1304,0,0,0,0,39,GroundhogDay,GroundhogDay,0,0
+America,1305,0,0,0,0,37,RegionBigGame,BigGame,1,0
+America,1306,0,0,0,0,40,RegionBigGame2,BigGame2,0,0

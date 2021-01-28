@@ -21,5 +21,5 @@ DemoDistance,a9c1118b.HashRef,RoofMaterial,UniqueID,FlowEntryName,FlowFileName,N
 15,Wind,0,25,,,0,EvtobjChristmasGarland,1,0
 15,None,0,26,,,0,EvtobjChristmasDecorations,1,0
 15,Invisible,0,27,,,0,EvtobjHarvestLight,0,0
-15,7155E707,0,28,,,0,EvtobjCarnivalDecorations,1,1
-15,7155E707,0,29,,,0,EvtobjCarnivalGarland,1,0
+15,CarnivalLight,0,28,,,0,EvtobjCarnivalDecorations,1,1
+15,CarnivalLight,0,29,,,0,EvtobjCarnivalGarland,1,0
