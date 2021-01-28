@@ -1,4 +1,4 @@
-RegionEventCountry1,SortID,RegionEventCountry2,RegionEventCountry3,RegionEventCountry4,RegionEventCountry5,UniqueID,EventLabel,ItemFrom,b4f1ab32 u8,1c2c02f5 u8
+RegionEventCountry1,SortID,RegionEventCountry2,RegionEventCountry3,RegionEventCountry4,RegionEventCountry5,UniqueID,EventLabel,ItemFrom,SelectGrowUp,SelectOne
 World,100,0,0,0,0,30,WorldNewYear,NewYearWorld,0,0
 Russia,101,0,0,0,0,29,RoshiaNewYear,NewYearRoshia,0,0
 Asia,102,0,0,0,0,32,ChinaNewYear,NewYearChina,0,0
