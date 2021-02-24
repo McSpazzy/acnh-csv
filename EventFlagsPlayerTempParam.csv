@@ -1,6 +1,6 @@
 DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,1,0,0,0,2,TreasureQuestPlayerWin,宝探しクエストプレイヤー勝利
-0,-1,1,0,0,1,CatchFesGetPoint,ムシ取り、つり大会|獲得ポイント
+0,65535,1,0,0,1,CatchFesGetPoint,ムシ取り、つり大会|獲得ポイント
 0,1,2,0,1,2,RcoDoneDIYmeselfNow,たぬきち|このシーンでたぬきちテント作業台でDIYした
 0,1,3,0,1,2,RcoDonationNow,たぬきち|このシーンで虫魚寄贈した
 0,1,4,0,1,2,KinuyoTalkSceneFlag,きぬよ|このシーンで会話した？
@@ -14,7 +14,7 @@ DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,5,14,0,1,2,TownNewsTopicCount,村内放送|村内放送のトピック数
 0,2,15,0,1,2,TownNewsConnectCount,村内放送|村内放送の連結メッセージ表示回数
 0,5,16,0,0,2,CatchBeeCount,ハチを連続で捕まえた回数用カウント
-0,-1,17,0,0,2,CatchInsectFesGetNum,ムシ取り大会|ムシ取得数
+0,65535,17,0,0,2,CatchInsectFesGetNum,ムシ取り大会|ムシ取得数
 0,1,18,0,1,2,FtrChestCheck,タンス｜このシーンでチェックした？
 0,1,20,0,1,2,SzaTalkInsideOffice,しずえ|役場シーン内で会話した？
 0,1,21,0,1,2,FoxBuyNowFlag,つねきち|今回の入店中に買い物した？
@@ -26,7 +26,7 @@ DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,1,27,0,1,0,FoxCheckItemFlag5,つねきち|今回の入店中にFのアイテムをチェックした？
 0,1111,28,0,1,2,PcDonation4TownOfficeChk,役場建設用寄贈品の所持状況チェック
 0,1,29,0,1,2,PcAvailableDonation4TownOffice,役場建設用に寄贈できるものを持っているか？
-0,-1,31,0,0,2,CatchFishFesGetNum,つり大会|サカナ取得数
+0,65535,31,0,0,2,CatchFishFesGetNum,つり大会|サカナ取得数
 0,1,32,0,1,2,RcoTentAskedHintTmp,たぬきち|「何すればいい？」選択した
 0,1,33,0,1,2,OwlKnownFossil,フータ|初化石選択が鑑定済化石だった
 0,3,34,0,1,2,NnpcApproachSelectCount,アプローチ会話|内容を再抽選した回数

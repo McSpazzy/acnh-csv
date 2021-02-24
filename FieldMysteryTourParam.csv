@@ -1,0 +1,4 @@
+ItemPlacementKind,UniqueID,MysteryTourItemUniqueID,MysteryTourFieldUniqueID,InsectPattern,FishPattern,SelectWeight
+Normal,0,0,0,-1,-1,1
+Normal,1,1,1,-1,-1,1
+Normal,2,1,2,-1,-1,1

@@ -1,5 +1,5 @@
 EventFtrDirection,EventFtrSwitch,ItemNameUniqueID,UniqueID,cb7385a8 u32
-S,OFF,-2,0,0
+S,OFF,65534,0,0
 S,OFF,5709,3,0
 W,OFF,5884,4,0
 S,OFF,5725,5,0

@@ -1,5 +1,5 @@
 ItemShopSeasonality,ParentItemName,UniqueID,FashionThemeDaily,FashionThemeFairyland,FashionThemeFomal,FashionThemeHorror,FashionThemeOutdoor,FashionThemeParty,FashionThemeRelax,FashionThemeSport,FashionThemeStage,FashionThemeVacation,FashionThemeWork,83ccbe0f string64,Label,Name,UseColorGroupSort
-AllYear,-2,0,0,0,0,0,0,0,0,0,0,0,0,,None,-,0
+AllYear,65534,0,0,0,0,0,0,0,0,0,0,0,0,,None,-,0
 AllYear,2402,18,1,0,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatL,トレンチコート,0
 AllYear,2781,19,1,0,0,0,0,0,0,1,0,0,0,,TopsTexTopTshirtsHKungfu,カンフーなふく,0
 AllYear,3058,20,0,0,0,0,0,0,0,1,1,0,0,,TopsTexOnepieceAlineNCheer,チアのコスチューム,0
