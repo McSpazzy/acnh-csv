@@ -1067,3 +1067,4 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,bed25a86 u8,c436ce69 u8,FlagsFlowAcce
 0,1,1335,1,1,0,2,RcmChkReactionBook,カーニバル用リアクション本をチェックした,1
 0,1,1336,0,1,0,2,RcmChkCarnivalFtr,まめきち|カーニバル家具チェックした？,1
 0,1,1337,0,1,0,2,AnnounceCarnival,カーニバル｜当日に島内放送で告知した？,1
+0,1,1338,1,1,0,2,ShootDownShamrockRecipeBalloon,シャムロックデー|今日、シャムロックステッキのレシピ風船を撃ち落としたか,1

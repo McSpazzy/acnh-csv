@@ -42,6 +42,7 @@ FtrTriggerOnce,None,Unknown,7,1,0,TriggerRestart,トリガー：上書き,1
 FtrTriggerToLoopOnOff,None,Unknown,8,1,0,TriggerOnOffAndLoop,トリガー：toループ オンオフ,1
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,18,1,0,TriggerOnOffAndLoopWaitEnd,トリガー：toループ終了待ちオンオフ,1
 FtrTriggerOnce,None,Unknown,17,0,0,Pass,通過,0
+FtrLoopTrigger,None,Unknown,80,0,0,PassTriggerWaitEndOnKeep,通過：ループ終了待ち：トリガー,0
 FtrTriggerOnce,None,Unknown,12,1,0,Touch,接触,0
 FtrLoopTriggerWaitEndOnKeep,None,Unknown,59,1,0,TouchTriggerWaitEndOnKeep,接触：ループ終了待ち：トリガー,0
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,58,1,0,GrabHoldLoopWaitEnd,掴みホールド：ループ終了待ちオンオフ,0
@@ -56,6 +57,7 @@ FtrTriggerOnOff,None,Unknown,21,1,1,TrashBox,ゴミ箱,0
 FtrLoopAuto,None,Unknown,16,1,1,Bamboo,たなばたのささ,0
 FtrLoopAuto,None,Unknown,79,1,1,CrsSocks,くつしたのかざり,1
 FtrInsectSing,None,Unknown,65,1,0,SingInsect,鳴くムシ,1
+FtrLoopAuto,None,Unknown,84,1,0,WarpHall,ワープどかん,0
 FtrLoopAuto,None,Unknown,49,1,1,MoveBox,初期支給プレゼントBOX,0
 FtrLoopAuto,None,Unknown,66,0,0,MyDesignRug,マイデザインラグ,0
 FtrActionMusicJacket,None,Unknown,67,1,0,MusicJacket,ミュージックジャケット,0

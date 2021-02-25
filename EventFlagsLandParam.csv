@@ -347,8 +347,11 @@ None,0,DisableAccess,ReadOnly,65535,407,ShopHeartChocoSelect,ハートのチョ�
 None,0,DisableAccess,ReadOnly,65535,408,ShopHeartFlowerSelect,ハートのバラブーケ抽選済みカラバリ,1,0
 None,0,DisableAccess,ReadOnly,65535,409,RandomKey6,ランダムキーf,1,1
 None,0,DisableAccess,ReadOnly,65535,410,RandomKey7,ランダムキーg,1,1
+None,0,DisableAccess,ReadOnly,65535,411,RandomKey8,ランダムキーh,1,1
 None,0,DisableAccess,ReadOnly,1,412,BCAT_EventFlag_006,クリスマスイブ解禁,1,0
 None,0,DisableAccess,ReadOnly,1,413,BCAT_EventFlag_007,カーニバル本番、バレンタイン本番解禁,1,0
+None,0,DisableAccess,ReadOnly,1,414,BCAT_EventFlag_008,マリオコラボ解禁,1,0
+None,0,EnableReadWrite,ReadOnly,1,415,GrowUpAfterPatch1_8,1.8適用して成長処理をした,1,0
 None,0,DisableAccess,ReadOnly,9999,419,ValentineAddBbsYear,バレンタイン予告の掲示板書き込みをした年,1,0
 None,0,DisableAccess,ReadOnly,9999,420,CarnivalAddBbsYear,カーニバル予告の掲示板書き込みをした年,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,421,CarnivalNpcFeatherColorDecided,カーニバル｜NPCが欲しがる羽の色決定済み,1,0

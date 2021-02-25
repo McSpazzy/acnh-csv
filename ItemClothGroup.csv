@@ -1184,8 +1184,27 @@ AllYear,13215,1300,0,0,0,0,1,0,0,1,0,1,1,,AccessoryGlassmouthNook,たぬきか�
 AllYear,13239,1301,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceKimonoLWeaverwomen,おりひめのふく,0
 AllYear,13240,1302,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceKimonoLWeavermen,ひこぼしのふく,0
 AllYear,13495,1315,0,1,0,1,0,1,0,0,0,0,0,,TopsTexOnepieceRobeLHalloween,まほうスクールのローブ,0
+AllYear,13546,1318,0,1,0,0,0,1,0,0,0,0,0,,CapHatMario,マリオのぼうし,0
+AllYear,13547,1319,0,1,0,0,0,1,0,0,0,0,0,,CapHatLuigi,ルイージのぼうし,0
+AllYear,13548,1320,0,1,0,0,0,1,0,0,0,0,0,,CapHatWario,ワリオのぼうし,0
+AllYear,13555,1321,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceSalopetteLMario,マリオのふく,0
+AllYear,13556,1322,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceSalopetteLLuigi,ルイージのふく,0
+AllYear,13557,1323,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceOverallHWario,ワリオのふく,0
+AllYear,13558,1324,0,1,1,0,0,1,0,0,0,0,0,,AccessoryGlassmouthMario,マリオのひげ,0
+AllYear,13559,1325,0,1,1,0,0,1,0,0,0,0,0,,AccessoryGlassmouthLuigi,ルイージのひげ,0
+AllYear,13560,1326,0,1,1,0,0,1,0,0,0,0,0,,AccessoryGlassmouthWario,ワリオのひげ,0
+AllYear,13562,1327,0,1,0,0,0,1,0,0,0,0,0,,ShoesLowcutWario,ワリオのくつ,0
+AllYear,13561,1328,0,1,0,0,0,1,0,0,0,0,0,,ShoesLowcutMario,マリオのくつ,0
+AllYear,13563,1329,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentAPeach,ピーチひめのかんむり,0
+AllYear,13564,1330,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceDressHPeach,ピーチひめのドレス,0
+AllYear,13602,1331,0,1,0,0,0,1,0,0,1,0,0,,ShoesLowcutPeach,ピーチひめのくつ,0
 AllYear,13910,1343,0,1,0,1,0,0,0,0,0,0,0,,CapMaskOkame,おかめのおめん,0
 AllYear,14242,1344,0,0,0,0,0,1,0,0,1,1,0,TshirtsL,TopsTexOnepieceSalopetteLCarnival,カーニバルなコスチューム,0
+AllYear,14235,1351,0,1,1,0,0,1,0,0,1,0,0,,CapHatShamrock0,シャムロックハット,0
+AllYear,14236,1352,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceSalopetteLShamrock0,シャムロックスーツ,0
+AllYear,14237,1353,0,1,0,0,0,1,0,0,1,0,0,,ShoesLowcutShamrock0,シャムロックシューズ,0
+AllYear,14238,1354,0,1,0,0,0,1,0,0,1,1,0,,AccessoryGlassShamrock0,シャムロックサングラス,0
+AllYear,14243,1355,0,1,0,0,0,1,0,0,0,0,0,,ShoesLowcutLuigi,ルイージのくつ,0
 AllYear,2655,6,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsLBorder,ボーダーＴシャツ,0
 AllYear,3255,8,0,0,0,0,1,0,0,1,0,0,0,,TopsTexTopYshirtsLMountain,マウンテンパーカー,0
 Winter,2782,13,1,0,0,0,0,0,0,0,0,0,0,,TopsTexTopCoatLDuffle,ダッフルコート,0

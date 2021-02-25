@@ -29,3 +29,6 @@ Japan,1303,0,0,0,0,38,Setsubun,Setsubun,0,0
 America,1304,0,0,0,0,39,GroundhogDay,GroundhogDay,0,0
 America,1305,0,0,0,0,37,RegionBigGame,BigGame,1,0
 America,1306,0,0,0,0,40,RegionBigGame2,BigGame2,0,0
+Japan,1400,0,0,0,0,42,RegionHinamatsuri,Hinamatsuri,0,1
+EachCountry,1401,0,0,0,0,43,RegionPiDay,PiDay,0,0
+Europe,1402,0,0,0,0,41,RegionShamrockDay,ShamrockDay,0,1
