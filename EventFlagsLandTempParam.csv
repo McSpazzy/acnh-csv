@@ -75,3 +75,4 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,3dad9135 u8,3c7fb88f u8,FlagsFlowAcce
 0,4,94,3,0,0,2,0,PckGiveFeather,カーニバル/べルリーナ|渡すはねの色は？
 0,1,95,3,0,0,2,0,PckDanceCarnivalRight,カーニバル/べルリーナ|ダンス時にライトを明滅速度を速くするか？
 0,1,96,3,0,0,2,0,PckDanceEffect,カーニバル/べルリーナ|ダンス時にエフェクトを出すか？
+0,1,98,3,0,0,0,2,SetCampSiteRequestFtr,テントで納品した家具を配置したか

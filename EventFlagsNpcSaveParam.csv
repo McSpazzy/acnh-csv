@@ -52,3 +52,4 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,FlagsFlowAccess,Key,Name
 0,1,64,1,2,HarvestDemoEndWait,ハーベスト｜デモ終了待機中か？
 0,1,65,1,2,WoreNewYearHat,カウントダウン｜ニューイヤーハットを被った
 0,1,66,1,2,HarvestDemoStateNow,ハーベスト｜デモ参加状態か？
+0,36,70,0,0,WearItemLayer1LayoutLimit,成長処理家具入替時の装備品の二層目配置候補上限数

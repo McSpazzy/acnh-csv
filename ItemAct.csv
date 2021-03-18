@@ -63,4 +63,5 @@ FtrLoopAuto,None,Unknown,66,0,0,MyDesignRug,マイデザインラグ,0
 FtrActionMusicJacket,None,Unknown,67,1,0,MusicJacket,ミュージックジャケット,0
 FtrLoopAuto,None,Unknown,68,1,1,Bromide,ブロマイド,1
 FtrLoopAuto,None,Unknown,70,1,1,StampRack,スタンプ台(国際ミュージアム),0
+FtrLoopAuto,None,Unknown,75,1,0,FacePanel,かおだしかんばん,0
 FtrTriggerToLoopOnOff,None,Unknown,81,1,0,HarvestKitchen,フランクリンのキッチン(ハーベスト),0

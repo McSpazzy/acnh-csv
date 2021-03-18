@@ -121,7 +121,7 @@ OnCaptureUIcon,TreasureCapsule,None,81_Event,FtrNoneUser,0,0,178,0,0,0,0,0,0,0,0
 None,None,None,81_Event,FtrNoneUser,0,0,179,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,1,0,TreasureQuestDust,宝探しカプセルごみ
 OnCaptureUIcon,None,None,80_Etc,FtrNoneUser,10,0,241,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,MilePlaneTicket,マイル航空券
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,5,0,261,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,0,0,RollanTicket,ローラン引換券
-OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,101,1,1,0,0,1,1,0,1,0,1,1,1,0,1,1,1,0,0,EasterEgg,イースターのたまご
+OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,101,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,EasterEgg,イースターのたまご
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,266,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,LoveCrystal,あいのけっしょう
 OnCaptureUIcon,None,None,81_Event,FtrNoneUser,30,0,82,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Candy,アメ
 None,None,None,81_Event,FtrUniqueUser,0,0,280,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HarvestDish,ハーベストの料理
@@ -147,4 +147,4 @@ None,Present,None,80_Etc,FtrNoneUser,0,0,215,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 None,None,Ftr,99_Dummy,FtrUniqueUser,0,0,234,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EventObjFtr,イベントオブジェ家具
 None,None,None,99_Dummy,FtrNoneUser,0,0,236,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NnpcRoomMarker,NPC部屋マーカー
 OnCaptureUIcon,None,None,91_PhotoStudioList,FtrNoneUser,0,0,255,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,PhotoStudioList,撮影スタジオ用アイテム
-OnCaptureUIcon,Present,None,80_Etc,FtrNoneUser,0,0,292,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,DummyWrappingOtoshidama,ダミー包んだおとしだま
+None,Present,None,80_Etc,FtrNoneUser,0,0,292,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,DummyWrappingOtoshidama,ダミー包んだおとしだま

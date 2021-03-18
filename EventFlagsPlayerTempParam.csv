@@ -96,7 +96,8 @@ DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,1,110,0,0,0,IsJuneBrideCeremonyDemo,ジューンブライド|結婚式セレモニーデモ中か？
 0,9,111,0,1,2,FreeISelectCount,FreeI会話|報酬を再抽選した回数
 0,1,112,0,1,0,ShopPlayerInNextGoto,ショップ|NextGotoを踏んだか？
-0,16,115,0,0,2,AlwJuneBrideDayScoreCount,リサ/ジューンブライド|もらえるあいのけっしょう数用カウント
+0,1,114,0,0,2,EnterSceneByMydesignShowcaseApp,マイデザインショーケース| アプリからのシーン遷移かどうか？
+0,64,115,0,0,2,AlwJuneBrideDayScoreCount,リサ/ジューンブライド|もらえるあいのけっしょう数用カウント
 0,1,116,0,1,2,PublicAnnounceDiveFish,島内放送|今日泳ぎ系のニュースをした？
 0,4,117,0,0,2,DocHintMayDayTour,ロドリー|メーデーツアーの謎解きヒント用カウント
 0,1,118,0,0,2,AlwJuneBrideSitDownFlag,リサ/ジューンブライド|座っているときの受け渡しした？

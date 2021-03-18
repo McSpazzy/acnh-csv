@@ -237,6 +237,12 @@ UseAO,None,Orange,888,12,7,0,7,7274,308,39,ピンクキルトのかべ,RoomTexWa
 UseAO,None,Orange,888,12,7,0,7,7275,309,39,パープルキルトのかべ,RoomTexWallDollhouse03,0
 UseAO,None,Orange,888,12,7,0,7,7276,310,39,イエローキルトのかべ,RoomTexWallDollhouse02,0
 UseAO,None,Orange,888,12,7,0,7,7277,311,39,ブルーキルトのかべ,RoomTexWallDollhouse01,0
+UseAO,None,Orange,888,8,7,23,6,10171,312,6,ハローキティなかべ,RoomTexWallKitty00,0
+UseAO,None,Orange,888,8,7,23,6,10172,313,6,シナモロールなかべ,RoomTexWallCinnamon00,0
+UseAO,None,Orange,888,8,7,23,6,10173,314,6,マイメロディなかべ,RoomTexWallMymelody00,0
+UseAO,None,Orange,888,6,7,23,6,10174,315,6,ポムポムプリンなかべ,RoomTexWallPurin00,0
+UseAO,None,Orange,888,0,7,23,6,10175,316,6,けろけろけろっぴなかべ,RoomTexWallKeroppi00,0
+UseAO,None,Orange,888,8,7,23,6,10176,317,6,キキ&ララなかべ,RoomTexWallKikilala00,0
 None,None,Orange,888,0,0,23,6,10918,318,6,マイデザインのかべ,RoomTexWallMyDesign00,0
 UseAO,None,Orange,888,0,0,23,6,11176,319,35,シックなちゃしつのかべ,RoomTexWallMud03,0
 UseAO,None,Orange,888,0,0,23,6,11177,320,26,おちついたちゃしつのかべ,RoomTexWallMud01,0
@@ -255,3 +261,4 @@ UseAO,None,Orange,888,0,7,23,6,13318,364,6,サンクスギビングなかべ,Roo
 None,Random,White,888,6,3,23,6,13603,383,6,ゆきのふるかべ,RoomSpWallSnowy00,1
 None,Synchro,White,888,0,8,23,6,13609,384,6,オーロラのかべ,RoomSpWallAurora00,0
 None,Synchro,White,888,0,8,23,6,13805,385,6,スーパーマリオのかべ,RoomSpWallMario00,0
+None,Synchro,Orange,888,0,7,23,6,14252,390,6,プロムのかべ,RoomSpWallBallroom00,0

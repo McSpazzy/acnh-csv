@@ -11,7 +11,7 @@ Pre,0,EnableReadWrite,ReadOnly,5,8,FreeFChatTimes,村でイベント会話を聞
 None,0,DisableAccess,ReadOnly,65535,10,RandomKey,ランダムキー,1,0
 None,0,EnableReadWrite,ReadOnly,1,11,DoneMuseumConstruction,博物館建築工事完了,1,0
 None,0,EnableReadWrite,ReadOnly,1,12,Prologue4BuiltPlayer,序盤プレイヤーテント設置したか？,1,0
-None,0,EnableReadWrite,ReadOnly,1,13,Plorogue4BuiltMuseum,フータテント予定地設置したか？,1,0
+None,0,EnableReadWrite,ReadOnly,1,13,Plorogue4BuiltMuseum,博物館|フータテント予定地設置したか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,14,Prologue4BuiltShop,商店の工事看板設置したか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,15,Prologue4BuiltNpcAN,序盤ANテント設置したか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,16,Prologue4BuiltNpcHA,序盤HAテント設置したか？,1,0
@@ -254,14 +254,14 @@ None,0,EnableReadWrite,SpNpcOnly,1,288,JohnnyQuestFinishFlagIsland,ジョニー|
 Pre,0,DisableAccess,ReadOnly,10,289,CampRandomSelectMoveOutNpc,キャンプ場|ランダム選出転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
 None,0,DisableAccess,ReadOnly,1,290,CampFireRemoved,広場のキャンプファイアー撤去（実際の撤去とは連動してません）,1,0
 None,0,DisableAccess,ReadOnly,1,293,UnlockEaster,BCATにてイースター解禁,1,0
-None,0,EnableReadWrite,ReadOnly,5,294,MuseumConstruction2,博物館1→2への工事中,1,0
-None,0,EnableReadWrite,SpNpcOnly,1,295,MuseumGrowupEnable2,博物館2への成長条件達成,1,0
+None,0,EnableReadWrite,ReadOnly,5,294,MuseumConstruction2,博物館1→2(美術部屋追加)への工事中,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,295,MuseumGrowupEnable2,博物館2(美術部屋追加)への成長条件達成,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,304,OwlWantsPainting,フータの絵画クエストを開始した,1,0
 Pre,0,DisableAccess,ReadOnly,10,305,CampTodaySelectMoveOutNpc,キャンプ場|強制転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
-None,0,EnableReadOnly,ReadOnly,1,306,Museum3Built,博物館②完成,1,0
-Pre,0,EnableReadOnly,ReadOnly,1,307,Museum3BuiltToday,博物館②完成当日か？,1,0
-None,0,EnableReadOnly,ReadOnly,10000,308,CountMuseum2AfterBuild,博物館②|オープンして何日目か,1,0
-Plus,0,EnableReadOnly,ReadOnly,1,309,Museum2ConstructionToday,今日、博物館②工事当日であるか？,1,0
+None,0,EnableReadOnly,ReadOnly,1,306,Museum3Built,博物館②(美術部屋追加)完成,1,0
+Pre,0,EnableReadOnly,ReadOnly,1,307,Museum3BuiltToday,博物館②(美術部屋追加)完成当日か？,1,0
+None,0,EnableReadOnly,ReadOnly,10000,308,CountMuseum2AfterBuild,博物館②(美術部屋追加)|オープンして何日目か,1,0
+Plus,0,EnableReadOnly,ReadOnly,1,309,Museum2ConstructionToday,今日、博物館②(美術部屋追加)工事当日であるか？,1,0
 None,0,EnableReadWrite,ReadOnly,1,310,GrowUpAfterPatch1_1,1.1適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,311,GrowUpAfterPatch1_2,1.2適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,312,GrowUpAfterPatch1_3,1.3適用して成長処理をした,1,0
@@ -352,7 +352,13 @@ None,0,DisableAccess,ReadOnly,1,412,BCAT_EventFlag_006,クリスマスイブ解�
 None,0,DisableAccess,ReadOnly,1,413,BCAT_EventFlag_007,カーニバル本番、バレンタイン本番解禁,1,0
 None,0,DisableAccess,ReadOnly,1,414,BCAT_EventFlag_008,マリオコラボ解禁,1,0
 None,0,EnableReadWrite,ReadOnly,1,415,GrowUpAfterPatch1_8,1.8適用して成長処理をした,1,0
+None,0,EnableReadWrite,ReadOnly,1,416,GrowUpAfterPatch1_9,1.9適用して成長処理をした,1,0
+None,0,DisableAccess,ReadOnly,65535,417,RandomKey9,ランダムキーi,1,1
+None,0,DisableAccess,ReadOnly,1,418,BCAT_EventFlag_009,イースター2年目準備解禁,1,0
 None,0,DisableAccess,ReadOnly,9999,419,ValentineAddBbsYear,バレンタイン予告の掲示板書き込みをした年,1,0
 None,0,DisableAccess,ReadOnly,9999,420,CarnivalAddBbsYear,カーニバル予告の掲示板書き込みをした年,1,0
 Pre,0,EnableReadWrite,ReadOnly,1,421,CarnivalNpcFeatherColorDecided,カーニバル｜NPCが欲しがる羽の色決定済み,1,0
 Pre,0,EnableReadOnly,HetHostOnly,1,422,CarnivalEventPlazaNpcWander,カーニバル｜広場行動NPCがぶらつくか,1,0
+None,0,DisableAccess,ReadOnly,1,429,BCAT_EventFlag_010,イースター2年目本番解禁,1,0
+None,0,DisableAccess,ReadOnly,65535,430,RandomKey10,ランダムキーj,1,1
+None,0,EnableReadWrite,ReadOnly,1,437,AOC_EventFlag_002,AOC同期フラグ| 002 1.9.0NSO加入特典,1,0

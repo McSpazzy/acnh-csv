@@ -58,6 +58,12 @@ UniqueID,Label,Name
 30,SuppliesFolkCraft,雑貨：民芸品
 179,Easter,雑貨：イースター
 29,SuppliesSeason,雑貨：季節イベント
+219,Sanrio1,サンリオコラボ_キティ
+220,Sanrio2,サンリオコラボ_プリン
+221,Sanrio3,サンリオコラボ_キキララ
+222,Sanrio4,サンリオコラボ_シナモン
+223,Sanrio5,サンリオコラボ_マイメロ
+224,Sanrio6,サンリオコラボ_けろっぴ
 218,Mario,マリオコラボ
 180,Compass,ポケ森コラボ
 36,Picture,絵画
@@ -112,6 +118,7 @@ UniqueID,Label,Name
 164,NatureWhite,◆自然：白
 66,SpNature,◆◆特殊（自然）
 67,SpInorganic,◆◆特殊（無機質）
+157,Sanrio,◆◆サンリオ
 195,Cap,装備：ぼうし・かぶりもの
 196,Accessory,装備：アクセサリ
 197,Tops,装備：トップス
@@ -181,6 +188,7 @@ UniqueID,Label,Name
 103,WallSpNatureWarm,■■特殊（自然暖色）
 104,WallSpIndoor,■■特殊（室内）
 105,WallSpInorganic,■■特殊（無機質）
+156,WallSanrio,■■サンリオ
 143,RugSimple,●●シンプル
 141,RugPattern,●●柄物：正方形
 171,RugPatternSlender,●●柄物：細長
@@ -196,6 +204,7 @@ UniqueID,Label,Name
 173,RugMessageMat,●●メッセージマット
 146,RugIcon,●●アイコン
 177,RugPark,●●どうぶつの森
+172,RugSanrio,●●サンリオ
 181,FieldTreeOak,外専用：広葉樹
 182,FieldTreeFruit,外専用：フルーツの木
 183,FieldTreeOakDeco,外専用：飾りつきの広葉樹

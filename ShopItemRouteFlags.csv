@@ -19,5 +19,7 @@ FlagLand,FlagPlayer,ShopType,AttrCollectBit,ItemFrom
 125,-1,Shop,0,Shop_EnableRecipeLadder
 330,-1,Label1,0,MileExchangeNsoPresent
 -1,1215,Label1,1,MileExchangeNewColor
+-1,1174,Label1,1,MileExchangeMydesignPro2
 380,-1,Shop,0,Harvest_RecipeBook
 -1,140,Label1,1,MileExchangeReaction
+-1,845,Label1,1,MileExchange_MydesignShowcase

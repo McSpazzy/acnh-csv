@@ -171,6 +171,12 @@ None,888,None,None,18,7220,0,224,0,0,あかいキュートなフロアタイル,
 None,888,None,None,18,7221,0,225,0,0,ブルーのキュートなフロアタイル,RoomTexFloorCute02,1
 None,888,None,None,18,7222,0,226,0,0,きいろいキュートなフロアタイル,RoomTexFloorCute03,1
 None,888,None,None,67,7239,0,227,0,0,ほしのすなはまのゆか,RoomTexFloorSandStar00,0
+None,888,None,None,19,10178,0,228,1,0,けろけろけろっぴなゆか,RoomTexFloorKeroppi00,1
+None,888,None,None,23,10179,0,229,0,1,キキ&ララなゆか,RoomTexFloorKikilala00,1
+None,888,None,None,18,10180,0,230,0,0,マイメロディなゆか,RoomTexFloorMymelody00,0
+None,888,None,None,18,10181,0,231,0,0,ポムポムプリンなゆか,RoomTexFloorPurin00,0
+None,888,None,None,22,10182,0,232,0,0,シナモロールなゆか,RoomTexFloorCinnamon00,1
+None,888,None,None,18,10183,0,233,0,0,ハローキティなゆか,RoomTexFloorKitty00,0
 None,888,None,None,6,10919,0,234,0,0,マイデザインのゆか,RoomTexFloorMyDesign00,1
 None,888,None,None,23,12423,0,241,0,0,イースターなゆか,RoomTexFloorEaster00,1
 None,888,None,None,17,12431,0,243,0,0,ウェディングなホワイトタイル,RoomTexFloorMarbleTile00,1
@@ -181,3 +187,4 @@ None,888,None,None,22,12569,0,249,1,0,かいぞくのゆか,RoomTexFloorPirates0
 None,888,None,None,6,13225,0,273,0,0,ハロウィンなゆか,RoomTexFloorHalloween00,0
 None,888,None,None,6,13319,0,275,0,0,サンクスギビングなゆか,RoomTexFloorHarvest00,1
 None,888,None,None,18,13804,0,279,0,0,スーパーマリオのゆか,RoomTexFloorMario00,0
+None,888,None,None,18,14253,1,282,0,1,プロムのゆか,RoomTexFloorBallroom00,1
