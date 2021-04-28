@@ -18,3 +18,4 @@ Normal,Normal,2,-1,4703,2615,0,0,21,BuiltTownOffice,VisitMysteryTourID21,VisitMy
 Normal,Normal,-1,-1,2615,65534,22,21,23,,,,DocMysterytourExplain1st,,100,0
 StoneGold,Normal,-1,1,4703,2615,23,22,24,BuiltTownOffice,VisitMysteryTourID24,VisitMysteryTourID24,DocMysterytourExplain1st,EnableGotoRareMysteryTour,3,0
 Normal,MayDay,-1,-1,65534,65534,25,25,27,,,,,,0,3
+Normal,MayDay,-1,-1,65534,65534,26,26,28,,,,,,0,3

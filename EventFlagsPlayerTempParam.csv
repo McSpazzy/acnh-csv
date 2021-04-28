@@ -108,3 +108,4 @@ DefaultValue,MaxValue,UniqueID,3dad9135 u8,3c7fb88f u8,FlagsFlowAccess,Key,Name
 0,3,123,0,1,2,FoxCheckArtCount,つねきち|チェックした美術品の数
 0,1,124,0,1,2,SzaChristmasHintMessage,しずえ|クリスマスのヒントメッセージを出した？
 0,1,125,0,0,0,IsJuneBrideDemoSitStart,ジューンブライド|座り状態でセレモニーデモ開始したか？
+0,1,160,0,1,2,TalkSpotSPNowAnyone,今、誰かにSpotSPを聞いたか？

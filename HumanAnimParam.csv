@@ -567,3 +567,5 @@ None,DisableOnlyLowerBody,65535,863,2,255,PckViva,0,0,ベルリーナ：ビバ,0
 None,DisableOnlyLowerBody,65535,864,2,255,PckVivaTwice,0,0,ベルリーナ：ビバ（2回）,0,64,0,
 None,DisableOnlyLowerBody,65535,869,0,255,CommonToolHand10800,0,0,道具持ちアニメ2021春,0,0,0,
 None,DisableOnlyLowerBody,65535,870,2,255,PckVivaOneColor,0,0,ベルリーナ：ビバ（ノーマルのはね）,0,64,0,
+None,DisableOnlyLowerBody,65535,893,0,255,PlayerFlowerThrow,1,0,Player:花をまく,0,4,0,
+None,DisableOnlyLowerBody,65535,894,0,255,CommonToolHand11000,0,0,道具持ちアニメ2021夏,0,0,0,

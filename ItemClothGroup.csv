@@ -640,6 +640,7 @@ AllYear,5305,664,0,0,0,0,0,0,0,1,0,0,0,,CapHatSports,うんどうぼう,0
 AllYear,10931,665,0,1,0,0,0,0,1,0,0,0,0,,CapHatNightcap,もこもこナイトキャップ,1
 AllYear,5306,666,0,1,0,0,0,1,0,0,0,0,1,,CapHatSanta,サンタのぼうし,0
 AllYear,5307,667,0,1,0,0,0,1,0,0,1,0,0,,CapHatCrown,おうかん,0
+AllYear,5308,668,0,1,0,0,0,0,0,0,1,0,0,,CapHatPaper,しんぶんしのかぶと,0
 AllYear,5311,669,0,0,0,0,1,0,1,1,0,0,1,,CapHatTowel,タオル,0
 AllYear,10933,670,1,0,0,0,0,0,1,0,0,0,0,,CapHatAcorn,どんぐりニット,0
 AllYear,5316,671,0,0,0,0,1,0,0,0,0,0,0,,CapHatCombat,コンバットヘルメット,0
@@ -1241,6 +1242,11 @@ AllYear,14262,1362,0,0,0,0,0,1,0,0,1,0,0,,BagShoulderTasukiprom,プロムなた�
 AllYear,14263,1363,0,0,1,0,0,1,0,0,1,0,0,,ShoesLowcutDanceshoes,ダンスシューズ,0
 AllYear,14264,1364,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentCCrownprom,プロムなクラウン,0
 AllYear,14265,1365,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentCTiaraprom,プロムなティアラ,0
+AllYear,14279,1374,0,0,1,0,0,1,0,0,0,0,0,,CapWigTsunokakushi,つのかくし,0
+AllYear,14280,1375,0,1,0,0,1,0,0,0,1,0,0,,CapHatPhrygian,フリジアぼう,0
+AllYear,14281,1376,0,0,1,0,0,1,0,0,0,0,0,,TopsTexOnepieceKimonoLCrestedWhite,しろいもんつきはかま,0
+AllYear,14282,1377,0,0,1,0,0,1,0,0,0,0,0,,TopsTexOnepieceKimonoLPurewhite,しろむく,0
+AllYear,14283,1378,1,0,0,0,0,0,1,0,0,0,1,,TopsTexTopCoatLFather,ちちのひサンキューエプロン,0
 AllYear,2655,6,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsLBorder,ボーダーＴシャツ,0
 AllYear,3255,8,0,0,0,0,1,0,0,1,0,0,0,,TopsTexTopYshirtsLMountain,マウンテンパーカー,0
 Winter,2782,13,1,0,0,0,0,0,0,0,0,0,0,,TopsTexTopCoatLDuffle,ダッフルコート,0

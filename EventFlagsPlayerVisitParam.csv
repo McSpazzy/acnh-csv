@@ -81,3 +81,11 @@ DefaultValue,MaxValue,UniqueID,FlagsFlowAccess,Key,Name
 0,1,102,2,DC_PckLookChatFlag,カーニバル/べルリーナ|カーニバル装備の雑談した？
 0,10,103,2,DC_PckGiveFurnitureCount,カーニバル/べルリーナ|家具をもらった回数
 0,1,104,2,DC_PckRecipeTalkFlag,カーニバル/べルリーナ|にじいろのはねのレシピもらう会話した？
+0,1,105,2,OwlArtStampRally1,フータ/国際ミュージアム|【美術品】スタンプ1つ目を押した？
+0,1,106,2,OwlArtStampRally2,フータ/国際ミュージアム|【美術品】スタンプ2つ目を押した？
+0,1,107,2,OwlArtStampRally3,フータ/国際ミュージアム|【美術品】スタンプ3つ目を押した？
+0,1,108,2,OwlStampGotArt,フータ/国際ミュージアム|フータスタンプ(美術品)を押した
+0,1,109,2,OwlStampGotInsectReward,フータ/国際ミュージアム|ムシ報酬を貰った
+0,1,110,2,OwlStampGotFishReward,フータ/国際ミュージアム|サカナ報酬を貰った
+0,1,111,2,OwlStampGotFossilReward,フータ/国際ミュージアム|かせき報酬を貰った
+0,1,112,2,OwlStampGotArtReward,フータ/国際ミュージアム|美術品報酬を貰った

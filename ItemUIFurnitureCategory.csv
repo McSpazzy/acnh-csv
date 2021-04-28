@@ -19,7 +19,7 @@ UniqueID,Label,Name
 178,GameConsole,ゲーム機
 15,Audio,オーディオ機器
 10,MusicalInstrument,楽器
-16,Clock,時計
+16,Clock,掛け時計
 32,HouseDoorDeco,ドア飾り
 20,HomeAppliances,生活家電
 25,Fan,扇風機系
@@ -214,6 +214,6 @@ UniqueID,Label,Name
 187,FieldTreeBamboo,外専用：竹
 188,FieldBush,外専用：低木
 189,FieldFlw,外専用：花
-192,FieldWeed,外専用：雑草
 193,FieldVgt,外専用：野菜
+192,FieldWeed,外専用：雑草
 194,FieldStone,外専用：岩

@@ -37,7 +37,7 @@
 36,43,1,0,CommonToolHand,Tambourine,41,タンバリン,,,,,,0
 10,45,0,0,CommonToolHand,Broom,1,ほうき,,,,,,0
 11,47,0,0,CommonToolHand,Coffee,1,コーヒー,,,,,,0
-12,48,0,0,CommonToolHand,Ice,1,アイス,,,,,,0
+12,48,1,0,CommonToolHand,Ice,1,アイス,,,,,,0
 0,49,0,0,CommonToolHand,BagHand,1,手提げカバン,,,,,,0
 0,50,0,1,CommonToolHand,JumpStick,1,ジャンプ棒,,,,,,0
 13,52,1,0,CommonToolHand,Dumbbell,1,ダンベル,,,,,,0
@@ -54,7 +54,7 @@
 22,67,0,0,CommonToolHand,HighBagHand,1,手提げかばん(生活度高,,,,,,0
 23,68,0,0,CommonToolHand,SmallBook,1,本(小),ToolBook_CloseKeep,,,,,0
 24,69,1,0,CommonToolHand,LightDumbbell,1,ダンベル(軽い),,,,,,0
-25,70,0,0,CommonToolHand,Candy,1,キャンディ,,,,,,0
+25,70,1,0,CommonToolHand,Candy,1,キャンディ,,,,,,0
 26,71,0,0,CommonToolHand,Canister,1,缶,,,,,,0
 27,72,0,0,CommonToolHand,Sandwich,1,サンドウィッチ,,,,,,0
 28,73,0,0,CommonToolHand,Doughnut,1,ドーナッツ,,,,,,0
@@ -68,7 +68,7 @@
 0,84,0,0,CommonToolHand,Brush,1,はけ,,,,,,0
 0,86,0,0,CommonToolHand,Bouquet,3,ブーケ,,,,,,0
 0,87,0,0,CommonToolHand10300,Scallop,3,ホタテ,,,,,,0
-0,88,0,0,CommonToolHand,Canvas,1,キャンバス,,,,,,0
+0,88,0,0,CommonToolHand20000,Canvas,1,キャンバス,,,,,,0
 0,91,1,0,CommonToolHand10400,Pennant,1,ペナント,,,,,,0
 0,92,0,0,CommonToolHand10600,PBag,1,プレゼントぶくろ,,,,,,0
 37,98,0,0,CommonToolHand20000,Mcas,11,マラカス,,Sub,Main,,,1
@@ -79,3 +79,4 @@
 0,104,1,0,CommonToolHand10700,MePh,1,メガホン,,,,,,0
 0,105,1,0,CommonToolHand10700,PMcas,43,プレイヤーマラカス,,Sub,Main,,,1
 0,106,1,0,CommonToolHand10800,ShSo,1,シャムロックソーダ,,,,,,0
+0,107,1,0,CommonToolHand11000,PeTo,1,フラワーシャワー,,,,,,0
