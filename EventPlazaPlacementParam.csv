@@ -85,7 +85,7 @@ EventNone,NpcGroupActivity,All,GroupPlayFirework,Ftr,All,34,0,4,14,108,EventNone
 EventNone,PermanentObj,All,None,Ftr,Office,36,0,7,6,113,EventNone,0,1,0,,IsHalloweenLessThanThreeDays,CalendarEventStop,,P_EventNone_Ftr_14,
 EventNone,PermanentObj,All,None,Ftr,Office,36,0,15,6,114,EventNone,0,1,0,EventObjFlag1,IsHalloweenLessThanThreeDays,CalendarEventStop,,P_EventNone_Ftr_15,
 EventNone,PermanentObj,All,None,Ftr,Tent,36,0,13,4,115,EventNone,0,1,0,,IsHalloweenLessThanThreeDays,CalendarEventStop,,P_EventNone_Ftr_16,
-EventNone,VisitorNpc,All,None,EventObj,All,0,24,16,11,117,EventNone,0,1,0,,EventObjFlag0,,,V_slo_EventObj_1,slo
+EventNone,VisitorNpc,All,None,EventObj,All,0,24,16,11,117,EventNone,0,1,0,EventObjFlag3,EventObjFlag0,,,V_slo_EventObj_1,slo
 HarvestFestival,CalendarEvent,All,None,NPC,All,0,0,18,12,123,HarvestFestival,0,1,0,,BuiltTownOffice,,tuk,E_HarvestFestival_NPC_1,
 HarvestFestival,CalendarEvent,North,None,Ftr,All,38,0,16,14,125,HarvestFestival,0,1,0,,BuiltTownOffice,,,E_HarvestFestival_Ftr_5,
 HarvestFestival,CalendarEvent,North,None,EventObj,Office,0,22,6,2,126,HarvestFestival,0,1,1,,,,,E_HarvestFestival_EventObj_0,

@@ -1,4 +1,4 @@
-UniqueID,ASCommand,EndHour,NpcLabel,6d0f4a8 string32,SelectRate,StartHour
+UniqueID,ASCommand,EndHour,NpcLabel,NpcLabel2,SelectRate,StartHour
 0,NpcSpGymnastics,9,rco,sza,40,7
 1,NpcSpGymnastics,15,rco,sza,50,14
 2,NpcSpGymnastics,7,rco,sza,60,6

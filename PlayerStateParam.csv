@@ -216,10 +216,10 @@ Normal,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
 Normal,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,FtrMailboxEnd,1,1,0,0,1
 OnlyWallNoGravity_SitSpecial,EnableToDemoAll,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,PaperFanAction,0,0,0,0,0
 OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,PaperFanDown,0,0,0,0,0
-OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightStart,0,0,0,0,0
-OnlyWallNoGravity_SitSpecial,EnableToDemoAll,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightKeep,0,0,0,0,0
-OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightEnd,0,0,0,0,0
-OnlyWallNoGravity_SitSpecial,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightNewYearStart,0,0,0,0,0
+OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightStart,0,0,0,0,0
+OnlyWallNoGravity_SitSpecial,EnableToDemoAll,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightKeep,0,0,0,0,0
+OnlyWallNoGravity_SitSpecial,Disable,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightEnd,0,0,0,0,0
+OnlyWallNoGravity_SitSpecial,IsDemo,1,Heavy,Sequential,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightNewYearStart,0,0,0,0,0
 OnlyWallNoGravity_SitSpecial,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightNewYearKeep,0,0,0,0,0
 OnlyWallNoGravity_SitSpecial,IsDemo,1,Heavy,Overwrite,None,IfNotDemoDraw,0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,StickLightNewYearEnd,0,0,0,0,0
 Normal,IsDemo,1,Heavy,Overwrite,None,Continue,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,ShowcaseOpen,1,1,0,0,1

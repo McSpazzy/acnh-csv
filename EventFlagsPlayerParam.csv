@@ -20,7 +20,7 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,bed25a86 u8,c436ce69 u8,FlagsFlowAcce
 0,1,26,0,1,0,2,KinuyoTalkBoforeFlag,きぬよ|今までに会話したことある？,1
 0,1,27,1,1,0,2,KinuyoTalkTodayFlag,きぬよ|今日すでに会話した？(来訪用),1
 0,1,29,0,1,0,2,SkkTalkBeforeFlag,シャンク|今までに会話したことある？,1
-0,1,31,0,1,0,2,ReijiTalkBeforeFlag,レイジ|行商で会話したことある？,1
+0,1,31,0,1,0,2,ReijiTalkBeforeFlag,レイジ|今までに会話したことある？（面識ある？）,1
 0,1,33,1,1,0,2,RollanTalkTodayFlag,ローラン|今日すでに会話した？,1
 0,3,34,1,1,0,2,RollanBuyLargeCount,ローラン|今日ラグ大を買った枚数,1
 0,3,35,1,1,0,2,RollanBuyMediumCount,ローラン|今日ラグ中を買った枚数,1
@@ -1111,4 +1111,12 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,bed25a86 u8,c436ce69 u8,FlagsFlowAcce
 0,1,1456,0,0,0,2,GetMayDayTicketFirst,メーデー|1.10.0未満でメーデーりょこうけんを入手したことがあるか？,1
 0,1,1464,0,1,0,2,RcoHeardAboutMayDayTravelTicket,メーデー|たぬきち|メーデー旅行券の説明聞いたか？,1
 0,1,1465,0,0,0,2,XctGetRewardPast,メーデー|1.10.0未満でみしらぬネコから報酬をもらった？,1
+0,1,1469,0,1,0,2,FoxTalk2020FireworksFlag,つねきち|2020年の花火大会で会話したことない？,1
+0,1,1470,1,1,0,2,FoxTalkIceCandyTodayFlag,つねきち|アイスキャンディの説明した？,1
+0,1,1471,1,1,0,2,FoxTalkTapiocaTodayFlag,つねきち|タピオカドリンクの説明した？,1
 0,1,1478,1,0,0,2,AlwJuneBrideNoRemake1stFlag,リサ/ジューンブライド|今日1回目でリメイク解禁してなかった,1
+0,1,1480,0,1,0,2,AnnounceHalloween2,2021年ハロウィンを島内放送で告知した(2回目放送用),1
+0,1,1542,0,1,0,2,FoxTalkFireworksFoodFlag,つねきち|花火大会で食べ物追加された会話聞いた？,1
+0,1,1543,0,1,0,2,AnnounceHalloween2Ready,2021年ハロウィン｜準備期間に島内放送で告知した？(2回目放送用),1
+0,1,1553,1,1,0,2,FoxFirstTalkTodayFireworksFlag,つねきち|今日花火大会で会話した？,1
+0,9999,1581,0,1,0,2,LastPlayFireWorksFestival,花火大会|最後に遊んだ花火大会の年,1

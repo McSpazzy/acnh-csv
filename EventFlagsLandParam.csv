@@ -370,4 +370,14 @@ None,0,EnableReadWrite,ReadOnly,50,442,MuseumArtStampRackLotID3,国際ミュー�
 None,0,DisableAccess,ReadOnly,1,466,EventObjFlag1,イベントオブジェフラグ1,1,0
 None,0,DisableAccess,ReadOnly,1,467,EventObjFlag2,イベントオブジェフラグ2,1,0
 None,0,EnableReadWrite,ReadOnly,1,477,GrowUpAfterPatch1_10,1.10適用して成長処理をした,1,0
+None,0,EnableReadWrite,ReadOnly,1,478,GrowUpAfterPatch1_11,1.11適用して成長処理をした,1,0
+None,0,DisableAccess,ReadOnly,1,480,BCAT_EventFlag_012,ハロウィン2年目解禁,1,0
+None,0,DisableAccess,ReadOnly,65535,481,RandomKey12,ランダムキー12,1,1
 None,0,DisableAccess,ReadOnly,9999,483,MayDayAddBbsYear,メーデー予告の掲示板書き込みをした年,1,0
+None,0,DisableAccess,ReadOnly,1,504,EventObjFlag3,イベントオブジェフラグ3,1,0
+None,0,DisableAccess,ReadOnly,9999,505,HalloweenAddBbsYear,ハロウィン予告の掲示板書き込みをした年,1,0
+None,0,DisableAccess,ReadOnly,1,509,ExistIllminations,成長処理時点で電飾付の木が一本以上存在しているか？,1,0
+None,0,DisableAccess,ReadOnly,1,510,ExistSakura,成長処理時点で村に桜の木が存在するか？,1,0
+None,0,DisableAccess,ReadOnly,1,511,ExistBanboo,成長処理時点で村に竹の成木が存在するか？,1,0
+None,0,DisableAccess,ReadOnly,1,512,ExistOak,成長処理時点で村に成木の広葉樹が存在するか？,1,0
+None,0,DisableAccess,ReadOnly,1,513,ExistCedar,成長処理時点で村に成木の針葉樹が存在するか？,1,0

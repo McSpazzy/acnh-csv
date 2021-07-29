@@ -56,7 +56,7 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 55,1,2,0,1,0,2,ContinuousTalkCount,255,連続会話回数
 56,1,2,0,1,0,2,Again2Count,255,XX_Again2を聞いた回数
 57,0,1,0,0,0,2,TalkDIY,1,DIY会話をした
-58,0,1,0,0,0,2,HalloweenDIYGetItem,2,ハロウィン|DIYしている時の報酬アイテムは？
+58,0,1,0,0,0,2,HalloweenDIYGetItem,2,DIYしている時の報酬アイテムは？
 59,0,0,0,0,0,2,NewYearGreetingFlag,1,新年（1月1日）のあいさつをした
 60,0,1,0,0,0,2,GotRecipeorMaterial,1,DIYレシピか素材をもらった
 61,0,1,0,0,0,2,GotMaterialItemFull,1,素材をもらうときもちものがいっぱいだった

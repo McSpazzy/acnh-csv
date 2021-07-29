@@ -35,6 +35,7 @@ OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,225,1,0,1,1,1,1,0,1,0,1,1,1,0
 OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,226,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Tambourine,サブ道具：タンバリン
 OnCapture,HandyGoods,None,80_Etc,FtrUniqueUser,0,0,289,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,MaracasCarnival,サブ道具：マラカス
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,219,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,StickLight,サブ道具：スティックライト
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,306,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,StickLightColorful,サブ道具：カラフルスティックライト
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,220,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,0,Uchiwa,サブ道具：うちわ
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,221,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Windmill,サブ道具：風車
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,223,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Partyhorn,サブ道具：ふきもどし
@@ -47,6 +48,12 @@ OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,283,1,0,1,1,1,1,0,1,0,1,1,1,0
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,287,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Megaphone,サブ道具：メガホン
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,286,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,SoySet,サブ道具：まめまきセット
 OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,294,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,FlowerShower,サブ道具：フラワーシャワー
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,311,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Candyfloss,サブ道具：わたあめ
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,312,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Tapioca,サブ道具：タピオカドリンク
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,310,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Icecandy,サブ道具：アイスキャンディー
+OnCapture,HandyGoods,None,80_Etc,FtrCommonUser,0,0,301,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,SubToolGeneric,サブ道具：汎用
+OnCapture,HandyGoods,Tool,80_Etc,FtrCommonUser,0,0,308,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Basket,サブ道具：おやつバスケット
+OnCapture,HandyGoods,Tool,80_Etc,FtrCommonUser,0,0,307,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Lantern,サブ道具：てもちランタン
 OnCaptureUIcon,Timer,None,20_Tool,FtrCommonUser,0,0,22,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,1,0,0,Timer,タイマー
 OnCaptureUIcon,None,None,40_Plant,FtrNoneUser,10,0,162,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,TreeSeedling,植物：木の苗
 None,None,None,40_Plant,FtrNoneUser,0,0,161,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,Tree,植物：木

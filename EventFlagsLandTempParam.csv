@@ -41,11 +41,11 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,3dad9135 u8,3c7fb88f u8,FlagsFlowAcce
 0,1,48,0,0,0,2,1,CalendarEventStop,序盤のカレンダーイベント一時停止
 0,1,49,0,0,0,2,1,ReserveMemErrorReenter,断片化再構築予約フラグ
 0,1,50,3,0,0,2,1,EntryGame,ゲームをはじめる時に立てるフラグ
-0,1,51,0,0,0,0,1,ExistIllminations,成長処理時点で電飾付の木が一本以上存在しているか？
-0,1,52,0,0,0,0,1,ExistSakura,成長処理時点で村に桜の木が存在するか？
-0,1,53,0,0,0,0,1,ExistBanboo,成長処理時点で村に竹の成木が存在するか？
-0,1,55,0,0,0,0,1,ExistOak,成長処理時点で村に成木の広葉樹が存在するか？
-0,1,56,0,0,0,0,1,ExistCedar,成長処理時点で村に成木の針葉樹が存在するか？
+0,1,51,0,0,0,0,1,ExistIllminations,x)成長処理時点で電飾付の木が一本以上存在しているか？
+0,1,52,0,0,0,0,1,ExistSakura,x)成長処理時点で村に桜の木が存在するか？
+0,1,53,0,0,0,0,1,ExistBanboo,x)成長処理時点で村に竹の成木が存在するか？
+0,1,55,0,0,0,0,1,ExistOak,x)成長処理時点で村に成木の広葉樹が存在するか？
+0,1,56,0,0,0,0,1,ExistCedar,x)成長処理時点で村に成木の針葉樹が存在するか？
 0,1,59,3,0,0,2,0,NNPC_CatchFishFesAction_Continue,つり大会|屋外NNPが大会中行動を続ける
 0,1,60,3,0,0,2,0,NNPC_CatchInsectFesAction_Continue,ムシとり大会|屋外NNPが大会中行動を続ける
 0,1,62,0,0,1,2,1,RcoRemakeWSInThisScene,たぬきち|このシーンで誰かがリメイク体験会をした

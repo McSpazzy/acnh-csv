@@ -68,10 +68,8 @@
 0,84,0,0,CommonToolHand,Brush,1,はけ,,,,,,0
 0,86,0,0,CommonToolHand,Bouquet,3,ブーケ,,,,,,0
 0,87,0,0,CommonToolHand10300,Scallop,3,ホタテ,,,,,,0
-0,88,0,0,CommonToolHand20000,Canvas,1,キャンバス,,,,,,0
 0,91,1,0,CommonToolHand10400,Pennant,1,ペナント,,,,,,0
 0,92,0,0,CommonToolHand10600,PBag,1,プレゼントぶくろ,,,,,,0
-37,98,0,0,CommonToolHand20000,Mcas,11,マラカス,,Sub,Main,,,1
 0,100,0,0,CommonToolHand10600,CUten,3,調理器具,,Sub,Main,,,1
 0,101,1,0,CommonToolHand10600,SpCdr,1,サイダー,,,,,,0
 38,102,0,0,CommonToolHand10600,Dh,1,皿,,,,,,0
@@ -80,3 +78,8 @@
 0,105,1,0,CommonToolHand10700,PMcas,43,プレイヤーマラカス,,Sub,Main,,,1
 0,106,1,0,CommonToolHand10800,ShSo,1,シャムロックソーダ,,,,,,0
 0,107,1,0,CommonToolHand11000,PeTo,1,フラワーシャワー,,,,,,0
+0,108,0,0,CommonToolHand11100,ChTo,1,ちとせあめ,,,,,,0
+0,109,1,0,CommonToolHand11100,HaLa,1,てづくりランタン,,,,,,0
+0,119,1,0,CommonToolHand11100,CoCa,1,わたあめ,,,,,,0
+0,120,1,0,CommonToolHand11100,TaDr,1,タピオカドリンク,,,,,,0
+0,121,1,0,CommonToolHand11100,SnBa,1,おやつバスケット,,,,,,0

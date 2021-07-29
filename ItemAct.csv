@@ -65,3 +65,4 @@ FtrLoopAuto,None,Unknown,68,1,1,Bromide,ブロマイド,1
 FtrLoopAuto,None,Unknown,70,1,1,StampRack,スタンプ台(国際ミュージアム),0
 FtrLoopAuto,None,Unknown,75,1,0,FacePanel,かおだしかんばん,0
 FtrTriggerToLoopOnOff,None,Unknown,81,1,0,HarvestKitchen,フランクリンのキッチン(ハーベスト),0
+FtrSticklightColorful,None,Unknown,89,1,0,SticklightColorful,カラフルスティックライト,0
