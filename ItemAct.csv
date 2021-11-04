@@ -18,6 +18,7 @@ FtrChest,None,Unknown,60,1,1,ChestDoubleCenter,クローゼット：両開き：
 FtrChest,Closet,Unknown,25,1,1,ChestFlip,クローゼット：フリップ,1
 FtrLoopAuto,None,Unknown,47,1,1,Dresser,ドレッサー,0
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,28,1,1,Audio,オーディオ,0
+FtrAudioTypeMusicCategory,None,Unknown,82,1,1,AudioTypeMusicCategory,オーディオ：ミュージックカテゴリ ,0
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,43,1,1,RandomAudio,ラジオ,0
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,50,1,0,MusicalInstrument,楽器,1
 FtrTV,None,Unknown,26,1,1,TV,テレビ,1
@@ -28,6 +29,10 @@ FtrLoopAuto,None,Unknown,33,1,0,ClockDigital,時計：デジタル,0
 FtrTriggerToLoopOnOff,None,Unknown,62,1,0,ClockSwitch,時計：スイッチ,1
 FtrTriggerOnce,None,Unknown,72,1,0,ClockTrigger,時計：トリガー,0
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,31,1,1,WorkBench,作業台,0
+FtrLoopAuto,None,Unknown,19,1,1,CookingTable,調理台：常時ON,0
+FtrTriggerToLoopWaitEndOnOff,None,Unknown,86,1,1,CookingTableTriggerFire,調理台：トリガ（火）,0
+FtrTriggerToLoopWaitEndOnOff,None,Unknown,87,1,1,CookingTableTriggerWater,調理台：トリガ（水）,0
+FtrLoopAuto,None,Unknown,88,1,1,CookingTableTwoWay,調理台：両面,0
 FtrLoopAuto,None,Unknown,2,1,0,LoopAuto,ループ,0
 FtrLoopSwitch,None,Unknown,30,1,0,LoopSwitch,ループ：スイッチ,1
 FtrLoopFade,None,Unknown,5,1,0,LoopOnOffFade,ループ：フェード,1
@@ -41,6 +46,7 @@ FtrTriggerOnOff,None,Unknown,6,1,0,TriggerOnOff,トリガー：オンオフ,1
 FtrTriggerOnce,None,Unknown,7,1,0,TriggerRestart,トリガー：上書き,1
 FtrTriggerToLoopOnOff,None,Unknown,8,1,0,TriggerOnOffAndLoop,トリガー：toループ オンオフ,1
 FtrTriggerToLoopWaitEndOnOff,None,Unknown,18,1,0,TriggerOnOffAndLoopWaitEnd,トリガー：toループ終了待ちオンオフ,1
+FtrTriggerOnceRandom,None,Unknown,77,1,0,TriggerOnceRandom,トリガー：ランダム,1
 FtrTriggerOnce,None,Unknown,17,0,0,Pass,通過,0
 FtrLoopTrigger,None,Unknown,80,0,0,PassTriggerWaitEndOnKeep,通過：ループ終了待ち：トリガー,0
 FtrTriggerOnce,None,Unknown,12,1,0,Touch,接触,0
@@ -56,13 +62,20 @@ FtrMailBox,None,MailBoxTypeE,57,1,1,MailBoxTypeE,ポスト：タイプE,0
 FtrTriggerOnOff,None,Unknown,21,1,1,TrashBox,ゴミ箱,0
 FtrLoopAuto,None,Unknown,16,1,1,Bamboo,たなばたのささ,0
 FtrLoopAuto,None,Unknown,79,1,1,CrsSocks,くつしたのかざり,1
+FtrLoopAuto,None,Unknown,22,1,1,ATM,ATM,0
 FtrInsectSing,None,Unknown,65,1,0,SingInsect,鳴くムシ,1
 FtrLoopAuto,None,Unknown,84,1,0,WarpHall,ワープどかん,0
 FtrLoopAuto,None,Unknown,49,1,1,MoveBox,初期支給プレゼントBOX,0
 FtrLoopAuto,None,Unknown,66,0,0,MyDesignRug,マイデザインラグ,0
 FtrActionMusicJacket,None,Unknown,67,1,0,MusicJacket,ミュージックジャケット,0
 FtrLoopAuto,None,Unknown,68,1,1,Bromide,ブロマイド,1
+FtrLoopAuto,None,Unknown,69,1,0,OneroomBox,もちこみダンボール,0
 FtrLoopAuto,None,Unknown,70,1,1,StampRack,スタンプ台(国際ミュージアム),0
+FtrKabetasu,None,Unknown,73,1,0,KabetasuWall,カベタス,0
+FtrLoopAuto,None,Unknown,74,1,1,MoneyBox,貯金箱,1
 FtrLoopAuto,None,Unknown,75,1,0,FacePanel,かおだしかんばん,0
+FtrHaniwa,None,Unknown,78,1,0,Haniwa,ハニワ,1
+FtrTriggerToLoopOnOff,None,Unknown,83,1,0,Theremin,テルミン,0
 FtrTriggerToLoopOnOff,None,Unknown,81,1,0,HarvestKitchen,フランクリンのキッチン(ハーベスト),0
+FtrLoopAuto,None,Unknown,85,1,0,RadioRadioGymnastics,ラジオ(ラジオ体操),0
 FtrSticklightColorful,None,Unknown,89,1,0,SticklightColorful,カラフルスティックライト,0

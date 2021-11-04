@@ -29,3 +29,10 @@ Player,Bridge,MainField,Player,Bridge,0,26
 Player,Slope,MainField,Player,Slope,0,27
 Player,Facility,MainField,Player,Facility,0,28
 Player,Facility,PhotoStudioIsland,Player,Facility,0,29
+Player,WherearenFacility,WherearenMainIsland,Player,Facility,37,32
+Npc,House,WherearenNpcGarden,WherearenNpc,House,38,33
+Player,WherearenFacility,WherearenMainIsland,Player,Facility,42,37
+Player,WherearenFacility,WherearenMainIsland,Player,Facility,43,38
+Player,WherearenFacility,WherearenMainIsland,Player,Facility,44,39
+Player,WherearenFacility,WherearenMainIsland,Player,Facility,45,40
+Player,WherearenFacility,WherearenMainIsland,Player,Facility,46,41

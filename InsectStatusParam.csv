@@ -29,7 +29,7 @@ AppearArea,AppearWeather,GetScale,Kind,WaitScale,ItemID,OpenAchievementCount,Toy
 0,AlwaysAppear,1,Cicada,1,618,20,7078,21,0,クマゼミ,Kumazemi,4,InsectKumazemi,,
 0,AlwaysAppear,1,Cicada,0.8,649,0,7104,22,0,ツクツクホウシ,Tsukutsukuhousi,4,InsectTsukutsukuhousi,,
 0,AlwaysAppear,1,Cicada,1,601,0,7063,23,0,ヒグラシ,Higurashi,4,InsectHigurashi,,
-0,AlwaysAppear,1,CastOffSkin,1,641,50,7095,24,0,セミのぬけがら,Seminonukegara,0,InsectSeminonukegara,,InsectSeminonukegaraMuseum
+0,AlwaysAppear,1,CastOffSkin,1,641,20,7095,24,0,セミのぬけがら,Seminonukegara,0,InsectSeminonukegara,,InsectSeminonukegaraMuseum
 0,NotAppearInRain,1,Dragonfly,1,585,0,7050,26,0,アキアカネ,Akiakane,64,InsectAkiakane,,
 0,NotAppearInRain,1,Dragonfly,1,595,0,7058,27,0,ギンヤンマ,Ginyanma,64,InsectGinyanma,,
 0,NotAppearInRain,1,Dragonfly,1,635,50,7090,28,0,オニヤンマ,Oniyanma,64,InsectOniyanma,,

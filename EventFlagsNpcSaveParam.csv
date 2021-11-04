@@ -21,7 +21,7 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,FlagsFlowAccess,Key,Name
 0,1,22,0,2,FinishTalkTransition,序盤→日常移行会話を聞き終えたか
 0,3,23,1,2,OutdoorCatnap,深夜屋外でのうたた寝判定状況
 0,1,24,0,0,ForceMoveOut,強制的に転出させられるフラグ
-0,3,25,0,1,EarlyOrLate,早起き・夜更かしフラグ
+0,4,25,0,1,EarlyOrLate,早起き・夜更かしフラグ
 0,16,26,0,1,ContinuousNormalDay,平常活動の連続日数
 0,1,27,0,2,React1stNpcPresent,React_1P_Lifestartのプレゼント装備の反応発生したか
 0,1,28,0,2,IsReFabricSmartPhone,スマホ柄に汎用布地を使うか？
@@ -52,4 +52,11 @@ DefaultValue,MaxValue,UniqueID,5140e4b4 u8,FlagsFlowAccess,Key,Name
 0,1,64,1,2,HarvestDemoEndWait,ハーベスト｜デモ終了待機中か？
 0,1,65,1,2,WoreNewYearHat,カウントダウン｜ニューイヤーハットを被った
 0,1,66,1,2,HarvestDemoStateNow,ハーベスト｜デモ参加状態か？
+0,3,69,0,2,CoordinateDIYStatus,OneRoom | 家コーディネートの作業台の状態
 0,36,70,0,0,WearItemLayer1LayoutLimit,成長処理家具入替時の装備品の二層目配置候補上限数
+0,1,71,1,2,CookingInDIYSchedule,DIY予定の時間に料理をするか
+0,3000,72,1,0,MuseumCafeExitTime,喫茶ハトの巣|ランダム来店撤収時刻
+0,1,73,0,2,HouseReset,案内所で自宅リセットされた
+0,3,74,0,2,ReserveDIYStatus,家コーディネートの作業台の状態予約
+0,3,75,0,0,AudioShuffleState,編集された部屋のオーディオのシャッフル設定
+0,3,76,0,0,IslandKitchenStandPos,調理行動時アイランドキッチンの正面側に立つか

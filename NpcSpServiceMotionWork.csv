@@ -7,3 +7,12 @@ UniqueID,ASCommand1,ASCommand2,ASCommand3,ASCommand4,ASCommand5,ASCommand6,ASCom
 12,NpcSpDrinking@ToolCupDoc,NpcSpBook@ToolBookExercise,NpcSpDrinking@ToolCanTea,,,,,,doc,25,50,25,0,0,0,0,0
 13,NpcSpDrinking@ToolCupDoc,NpcSpBook@ToolBookMusic,NpcSpTyping,NpcSpBook@ToolBookComic,,,,,dod,30,15,40,15,0,0,0,0
 14,NpcSpBook@ToolBookMusic,NpcSpDrinking@ToolCupCoffee,NpcSpBook@ToolBookFashion,NpcSpTambourineSound@ToolTambourine,NpcSpYoga,,,,spn,15,25,10,25,25,0,0,0
+18,NpcSpDrinkingExist@ToolCupOtg,NpcSpOrderListExist@ToolBinderOtg,NpcSpTypingExist,NpcSpDusterHighExist@ToolDusterNormal,NpcSpArrangeExist,,,,otgOffice,20,20,20,20,20,0,0,0
+19,NpcSpDrinkingExist@ToolCanJuice,,,,,,,,mncOffice,50,0,0,0,0,0,0,0
+20,NpcSpDrinkingExist@ToolCupOtg,NpcFan@ToolFanPalm,NpcSpLookAround,NpcSpFeetFlap,,,,,manOffice,25,25,25,25,0,0,0,0
+21,NpcSpDrinkingSitExist@ToolCupOtg,NpcSpEatChocolate@ToolChocolate,NpcSpWaver,CommonSitWait,,,,,manChairOffice,25,25,25,25,0,0,0,0
+23,NpcSpDrinkingExist@ToolCanJuice,NpcSpGymnastics,NpcWatchExist@ToolSpanner,,,,,,mnc,30,30,30,0,0,0,0,0
+24,NpcSpDrinking@ToolCanTea,NpcSpDrinking@ToolSoupMinestrone,,,,,,,pooChair,50,25,0,0,0,0,0,0
+26,AlpWorkbenchConversation@ToolHammer,,,,,,,,alpWorkbench,100,0,0,0,0,0,0,0
+28,NpcSpBook@ToolBookFlower,,,,,,,,ttl,50,0,0,0,0,0,0,0
+29,NpcSpDrinking@ToolCanTea,,,,,,,,cml,0,0,0,0,0,0,0,0

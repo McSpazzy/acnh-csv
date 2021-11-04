@@ -7,6 +7,20 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,65534,327,0,FeatherRed,UnitIconFeather,あかいはね,UnitIconFeather
 0.8,65534,329,-1,OtoshidamaCh,UnitIconOtoshidamaCh,しゅんせつのおとしだま,UnitIconOtoshidamaCh
 0.8,65534,330,-1,OtoshidamaKr,UnitIconOtoshidamaKr,ソルラルのおとしだま,UnitIconOtoshidamaKr
+0.8,65534,331,-1,OtoshidamaJp,UnitIconOtoshidamaJp,おとしだま,UnitIconOtoshidamaJp
+0.8,65534,333,-1,SouvenirChocolate,UnitIconSouvenirChocolate,お土産チョコレート,UnitIconSouvenirChocolate
+0.8,65534,335,-1,HaniwaPiece,UnitIconHaniwaPiece,ハニワのかけら,UnitIconHaniwaPiece
+0.8,65534,336,-1,FlourWheat,UnitIconFlourWheat,こむぎこ,UnitIconFlourWheat
+0.8,65534,337,-1,FlourWheatwhole,UnitIconFlourWheatwhole,ぜんりゅうふん,UnitIconFlourWheatwhole
+0.8,65534,338,-1,FlourSugar,UnitIconFlourSugar,さとう,UnitIconFlourSugar
+0.8,65534,339,-1,FlourSugarbrown,UnitIconFlourSugarbrown,こくとう,UnitIconFlourSugarbrown
+0.8,65534,341,-1,PokiBag,UnitIconPokiBag,ポキ袋,UnitIconPokiBag
+0.8,65534,342,-1,HandBag,UnitIconHandBag,装：てもちかばん,UnitIconHandBag
+1,65534,343,-1,SmartphoneCaseOtg,UnitIconSmartphoneCaseOtg,タクミライフのスマホケース,UnitIconSmartphoneCaseOtg
+0.8,65534,344,-1,CookingDrink,UnitIconCookingDrink,料理：飲み物,UnitIconCookingDrink
+0.8,65534,345,-1,CookingFood,UnitIconCookingFood,料理：食べ物,UnitIconCookingFood
+0.8,751,346,-1,LadderKit,UnitIconLadderKit, FIXはしごキット ,UnitIconLadderKit
+0.8,65534,347,-1,WallHighSeries,UnitIconWallHighSeries,カベタスシリーズ,UnitIconWallHighSeries
 0.8,65534,0,0,Leaf,UnitIconLeaf,葉っぱ,UnitIconLeaf
 0.8,65534,273,1,LeafYellow,UnitIconLeaf,葉っぱ：黄,UnitIconLeaf
 0.8,65534,157,-1,RoomWall,UnitIconRoomWall,壁紙,UnitIconRoomWall
@@ -42,6 +56,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,65534,17,-1,TurnipExpired,UnitIconPltKabuRotten,カブ腐れ,UnitIconPltKabuRotten
 0.8,65534,220,-1,MessageBottle,UnitIconMessageBottle,メッセージボトル,UnitIconMessageBottle
 0.9,7735,223,-1,Recipe,UnitIconRecipe,レシピ,UnitIconRecipe
+0.8,752,340,-1,CookingRecipeCard,UnitIconCookingRecipeCard,クッキングレシピカード,UnitIconCookingRecipeCard
 1,65534,221,-1,FishBait,UnitIconFishBait,サカナのまきエサ,UnitIconFishBait
 0.8,65534,218,0,AirTicket,UnitIconAirTicket,マイル航空券,UnitIconAirTicket
 0.8,65534,235,1,TailorTicket,UnitIconAirTicket,したてやひきかえけん,UnitIconAirTicket
@@ -79,7 +94,7 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,65534,126,-1,PltCedar,UnitIconPltTreeCedar,針葉樹,UnitIconPltTreeCedar
 0.8,65534,128,-1,PltPalm,UnitIconPltTreePalm,ヤシの木,UnitIconPltTreePalm
 0.8,65534,127,-1,PltBamboo,UnitIconPltTreeBamboo,竹,UnitIconPltTreeBamboo
-0.8,65534,154,-1,SeedlingBush,UnitIconPltBushSeeding,低木の苗,UnitIconPltBushSeeding
+0.8,755,154,-1,SeedlingBush,UnitIconPltBushSeeding,低木の苗,UnitIconPltBushSeeding
 0.8,65534,292,-1,PltBush,UnitIconPltBush,低木,UnitIconPltBush
 0.8,7736,123,-1,SeedPaperbag,UnitIconFlowerSeed,花の種袋,UnitIconFlowerSeed
 1,65534,124,-1,Seed,UnitIconPltFlowerSeeding,花の種,UnitIconPltFlowerSeeding
@@ -188,3 +203,16 @@ ScaleOffset,CatalogItemUniqueID,UniqueID,ColorIndex,Label,ModelName,Name,ResName
 0.8,65534,304,1,Cinder,UnitIconFireworks,もえかす,UnitIconFireworks
 0.8,65534,313,-1,Candy,UnitIconCandy,アメ,UnitIconCandy
 0.8,65534,314,-1,Lollipop,UnitIconLollipop,ロリポップ,UnitIconLollipop
+0.8,65534,58,-1,Gyroid,UnitIconGyroid,ハニワ,UnitIconGyroid
+0.8,65534,6,-1,Tomato,UnitIconPltVgtTomato,トマト,UnitIconPltVgtTomato
+0.8,65534,24,-1,SugarCane,UnitIconPltVgtSugarcane,サトウキビ,UnitIconPltVgtSugarcane
+0.8,65534,25,-1,Potato,UnitIconPltVgtPotato,ジャガイモ,UnitIconPltVgtPotato
+0.8,65534,26,-1,Carrot,UnitIconPltVgtCarrot,ニンジン,UnitIconPltVgtCarrot
+0.8,65534,27,-1,Wheat,UnitIconPltVgtWheat,小麦,UnitIconPltVgtWheat
+0.8,65534,312,-1,SeedingWheat,UnitIconPltVgtPumpkinSeeding,小麦のなえ,UnitIconPltVgtPumpkinSeeding
+0.8,65534,308,-1,SeedingCarrot,UnitIconPltVgtPumpkinSeeding,ニンジンのなえ,UnitIconPltVgtPumpkinSeeding
+0.8,65534,309,-1,SeedingSugercane,UnitIconPltVgtPumpkinSeeding,サトウキビのなえ,UnitIconPltVgtPumpkinSeeding
+0.8,65534,310,-1,SeedingTomato,UnitIconPltVgtPumpkinSeeding,トマトのなえ,UnitIconPltVgtPumpkinSeeding
+0.8,65534,311,-1,SeedingPotato,UnitIconPltVgtPumpkinSeeding,ジャガイモのたねいも,UnitIconPltVgtPumpkinSeeding
+0.8,65534,328,-1,Vine,UnitIconPltVine,ツル,UnitIconPltVine
+0.8,65534,334,-1,WeedLight,UnitIconPltWeedLight,ヒカリゴケ,UnitIconPltWeedLight

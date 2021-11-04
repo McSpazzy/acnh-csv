@@ -66,3 +66,7 @@ DefaultValue,MaxValue,UniqueID,5f77b61a u8,8d401df7 u8,FlagsFlowAccess,Key,Name
 0,1,71,1,1,2,CarnivalApproachAlready,カーニバルアプローチ発生が画面内で発生済みか
 0,5,72,0,1,2,EasterExchangeEggKind,イースター｜交換するタマゴの種類
 0,1,73,0,0,1,EasterScheduleDay,イースター｜イースター用のスケジュールが設定された日か
+0,1,74,0,0,1,FortuneApproach,占い結果をうけてのアプローチ中か
+0,1,75,1,1,1,PresentSelectOnlyChocolate,プレゼント用会話での対象はお土産チョコレートだけか
+0,1,77,0,0,2,ExtendStayTimeVisitP,訪問中、滞在時間を延長した
+0,1,78,1,1,2,VisitNFtrReturnToPlayer,NPC宅訪問でプレイヤーから貰ったものをタダで返すか

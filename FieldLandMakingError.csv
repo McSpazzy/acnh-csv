@@ -11,3 +11,9 @@ UniqueID,AsCommand,CliffCreate,b3be609 u8,EventFlowEntryName,Label,Name
 28,PlayerToolNG,0,0,ErrorRiverMake_ExistBackFaceFall,RiverExistBackFaceFall,川造成：背面に滝があります。
 29,PlayerToolNG,0,0,ErrorCliffMakeCreate_ExistFrontFall,CliffCreateExistFrontFall,崖造成(Create)：滝正面に崖生成してます。
 30,PlayerToolNG,0,0,ErrorRiverMake_ExistStructure,RiverExistStructure,川造成：建物があります。
+31,PlayerToolNG,0,0,ErrorCliffMakeBreak_ExistBridge,CliffBreakExistLadder,崖造成(Break)：崖にハシゴがあります。
+32,PlayerToolNG,0,0,ErrorCliffMakeBreak_ExistVine,CliffBreakExistVine,崖造成(Break)：崖にツルがあります。
+33,PlayerToolNG,0,0,ErrorCliffMakeBreak_ExistNearBridge,CliffBreakExistSlantLadder,崖造成(Break)：崖に斜めハシゴがあります。
+34,PlayerToolNG,0,0,ErrorCliffMakeBreak_ExistNearVine,CliffBreakExistSlantVine,崖造成(Break)：崖に斜めツルがあります。
+35,PlayerToolNG,0,0,ErrorRiverMake_ExistBridge,RiverExistLadder,川造成：ハシゴを滝にしようとしました。
+36,PlayerToolNG,0,0,ErrorRiverMake_ExistVine,RiverExistVine,川造成：ツルを滝にしようとしました。

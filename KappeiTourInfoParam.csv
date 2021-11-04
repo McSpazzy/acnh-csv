@@ -1,0 +1,12 @@
+303fd59e string,a03a592f string,c84432b7 u16,UniqueID,6b3738e0 u16,DayNorth,DaySouth,4556b457 u8,MonthNorth,MonthSouth,PlayerFlagKeyAfterSelect,SelectWeight
+Normal,Haniwa,298,0,0,0,0,0,0,0,,30
+Normal,Vegetable,297,1,0,0,0,8,0,0,,22
+Normal,OneRoom,296,2,0,1,1,9,8,2,,18
+Rare,StarPiece,296,3,41,15,15,10,6,12,KppTourDone_RareStarpiece,22
+Rare,Sakura,297,4,0,10,10,11,4,10,KppTourDone_RareCherryBlossom,22
+Rare,SpringBamboo,297,5,0,31,30,12,5,11,KppTourDone_RareSpringBamboo,22
+Rare,SeaShell,297,6,42,31,28,13,8,2,KppTourDone_RareSummerShell,22
+Rare,Mushroom,297,7,0,30,31,14,11,5,KppTourDone_RareMushroom,22
+Rare,Maple,297,8,0,25,25,15,11,5,KppTourDone_RareMapleLeaf,22
+Rare,SnowCrystal,296,9,38,24,24,16,2,8,KppTourDone_RareSnowCrystal,22
+Normal,RareHaniwa,298,10,14,0,0,0,0,0,,8

@@ -18,3 +18,5 @@ UniqueID,BaseName,CNzh,EUde,EUen,EUes,EUfr,EUit,EUnl,EUru,JPja,KRko,LocalizeAnim
 24,StrcMarketA02,14,8,1,6,7,9,11,12,0,13,0,0,1,14,1,6,7
 25,IdrObjTourCounterDemoSignBoard,14,8,1,6,7,9,11,12,0,13,0,0,1,15,1,2,3
 26,FtrTVProgramColorbars,5,5,5,5,5,5,5,5,1,1,1,0,0,5,1,1,1
+27,SoldOutWherearen,0,8,0,2,3,9,11,12,0,0,0,0,1,0,0,2,3
+28,StrcMarketA02BlackfridayDeco2,0,8,0,6,3,9,11,12,0,0,0,0,1,0,0,2,3

@@ -2,3 +2,8 @@ UniqueID,ASCommand,EndHour,NpcLabel,NpcLabel2,SelectRate,StartHour
 0,NpcSpGymnastics,9,rco,sza,40,7
 1,NpcSpGymnastics,15,rco,sza,50,14
 2,NpcSpGymnastics,7,rco,sza,60,6
+3,MaReSleep,5,man,,50,0
+4,NpcSpFeelWindMor,15,otg,,50,10
+5,NpcSpFeelWindEve,19,otg,,50,18
+6,NpcSpaceOut@ToolCupCoffee,5,spn,pooB,50,22
+7,NpcSpDrinking@ToolCupCoffee,5,pooB,spn,50,22

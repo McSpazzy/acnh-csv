@@ -5,6 +5,8 @@ DefaultValue,MaxValue,UniqueID,FlagsFlowAccess,Key,Name
 0,1,3,2,DC_ChmTalkPoint_BeforeEv,カメヤマ(DC)|準備中、ポイント交換のお誘い聞いた?
 0,1,7,2,BirthdayNGavePresent_DC,NPC誕生日|ホストにプレゼントを渡した？(DC)
 0,1,8,2,VisitorTalkedOwl,よその村の博物館でフータと会話した？
+0,1,9,2,PgeVisitorTalkFlag,マスター|おでかけ先のマスターと会話した？
+0,1,10,2,PgeVisitorCoffeeFlag,マスター|おでかけ先でコーヒー注文した？
 0,1,11,2,DC_ChmTalkFirst_EvQuestFinish,カメヤマ(DC)|今日大会クエストしたか？
 0,1,12,2,DC_ChmTalkFirst_AfterEv,カメヤマ(DC)|開催後、初回会話聞いた？
 0,1,13,2,SzaVisitorTalkBeforeCountdown,しずえ|お出かけ先で年越し前に会話した？
@@ -89,3 +91,5 @@ DefaultValue,MaxValue,UniqueID,FlagsFlowAccess,Key,Name
 0,1,110,2,OwlStampGotFishReward,フータ/国際ミュージアム|サカナ報酬を貰った
 0,1,111,2,OwlStampGotFossilReward,フータ/国際ミュージアム|かせき報酬を貰った
 0,1,112,2,OwlStampGotArtReward,フータ/国際ミュージアム|美術品報酬を貰った
+0,1,113,2,NoticeATMOtherIsland,ATM｜よその島でATM使ったときの注意見たか？
+0,1,114,2,KppTalkFlag,かっぺい/おでかけ先の島で会話した？

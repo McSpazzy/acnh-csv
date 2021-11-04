@@ -22,6 +22,12 @@ MaxValue,MessageLabel,TalkValueVillager,TalkValueVisitor,UniqueID,FlagsFlowAcces
 16,121,4,4,20,0,CaughtPitCount,落とし穴にハマった回数
 720,122,60,0,21,0,InteriorModeTime,インテリアモード起動時間 
 720,123,60,0,22,0,DesignEditTime,マイデザインエディタ起動時間
+64,154,15,10,23,0,PlantVegetableCount,野菜を植えた回数
+256,155,50,20,24,0,HarvestVegetableCount,野菜を収穫した数
+64,156,20,10,25,0,CookingCount,料理をした回数
+36,157,3,0,26,0,RadioExerciseCount,ラジオ体操した回数
+64,158,5,3,27,0,OrderCoffeeCount,コーヒーを飲んだ回数
+8,159,3,0,28,0,DigGyroidCount,はにわを掘り出した回数
 64,124,20,0,34,0,TalkNpc0Count,住民NPC0との会話回数
 64,124,20,0,35,0,TalkNpc1Count,住民NPC1との会話回数
 64,124,20,0,36,0,TalkNpc2Count,住民NPC2との会話回数

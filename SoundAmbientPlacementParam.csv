@@ -1,0 +1,25 @@
+SortID,UniqueID,Name,53d9c19f u8,947670d3 string
+0,0,Silence,0,
+1,13,Echo,1,
+2,2,Sea,0,
+3,3,InWater,1,
+4,5,Plateau,0,
+5,28,Forest,0,
+6,6,Jungle,0,
+7,16,Cave,1,
+8,4,Wind,0,
+9,1,Rain,0,
+10,14,Storm,0,
+11,17,Earthquake,0,
+12,20,Country,0,
+13,9,City,0,
+14,7,Crowd,0,
+15,8,Cheers,0,
+16,10,Train,0,
+17,11,Construction,0,
+18,21,Factory,0,
+19,29,Duct,0,
+20,12,Space,1,
+21,26,Cyber,0,
+22,27,Healing,0,
+23,18,Squeak,0,

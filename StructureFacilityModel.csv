@@ -20,3 +20,4 @@ Door0Angle,85a0fa49.HashRef,FacilityModelVariation,FloorHeight,Door0,DoorMateria
 0,Invalid,A,0,0,1,7,6,25,30,0,1,0,0,0,0,StrcCampsiteA00,0,0
 0,CampSite,A,28.8,35,5,6,5,25,31,0,2,1,1,0,0,StrcCampsiteTentA00,0,0
 0,Studio,A,20,36,2,6,2,29,32,0,0,0,1,0,0,StrcStudioA00,0,0
+0,MuseumLevel2,A,30,47,1,23,6,21,56,0,4,0,1,0,0,StrcMuseumA02,0,0

@@ -1,3 +1,8 @@
-Floorboards,UISortID,UniqueID,LandingName,ResourceName
-6,0,0,木/茶色,RoomTexStairsWood00
-6,1,1,木/こげ茶,RoomTexStairsWood01
+Floorboards,981286fd u16,UISortID,UniqueID,LandingName,ResourceName
+6,0,0,0,木/茶色,RoomTexStairsWood00
+6,1,1,1,木/こげ茶,RoomTexStairsWood01
+17,2,2,7,タイル/白,RoomTexStairsTile00
+3,3,3,10,レンガ/赤,RoomTexStairsBrick00
+23,4,4,11,じゅうたん/赤,RoomTexStairsCarpet00
+3,5,5,12,コンクリート/素,RoomTexStairsConcrete00
+3,6,6,13,石/荒い,RoomTexStairsStone00

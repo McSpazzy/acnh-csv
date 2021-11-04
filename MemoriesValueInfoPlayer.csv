@@ -1,0 +1,26 @@
+UniqueID,7ef334a6 u8,Label
+0,0,PV_ExcavatedFossil
+1,0,PV_ConstructRiver
+2,0,PV_ConstructCliff
+3,0,PV_ConstructRoad
+4,0,PV_CreateMydesignNormal
+5,0,PV_CreateMydesignPro
+6,0,PV_WishShootingStar
+7,0,PV_BptFortune
+8,0,PV_Cafe_DrinkCoffee
+9,0,PV_Cafe_TakeoutCoffee
+10,0,PV_TkkLive_Join
+11,0,PV_RadioGym_Join
+12,0,PV_FillInHaniwaPiece
+13,0,PV_ExcavatedHaniwa
+14,0,PV_ChangeEquip
+15,0,PV_ChangeEquip_ByStick
+16,0,PV_ChangeEquip_ByDressor
+17,0,PV_TakePhoto
+18,0,PV_TakePhoto_InStudio
+19,0,PV_TalkNnpc
+20,0,PV_TalkNnpc_All
+21,0,PV_EnterDreamLand
+22,0,PV_HouseCoordinate
+23,0,PV_Goto_MysteryTour
+24,0,PV_Goto_KappeiTour

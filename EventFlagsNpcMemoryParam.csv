@@ -56,7 +56,7 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 55,1,2,0,1,0,2,ContinuousTalkCount,255,連続会話回数
 56,1,2,0,1,0,2,Again2Count,255,XX_Again2を聞いた回数
 57,0,1,0,0,0,2,TalkDIY,1,DIY会話をした
-58,0,1,0,0,0,2,HalloweenDIYGetItem,2,DIYしている時の報酬アイテムは？
+58,0,1,0,0,0,2,HalloweenDIYGetItem,5,DIYしている時の報酬アイテムは？
 59,0,0,0,0,0,2,NewYearGreetingFlag,1,新年（1月1日）のあいさつをした
 60,0,1,0,0,0,2,GotRecipeorMaterial,1,DIYレシピか素材をもらった
 61,0,1,0,0,0,2,GotMaterialItemFull,1,素材をもらうときもちものがいっぱいだった
@@ -154,3 +154,13 @@ UniqueID,5f77b61a u8,5140e4b4 u8,bed25a86 u8,8d401df7 u8,DefaultValue,FlagsFlowA
 157,0,1,0,1,0,2,EasterExchangeEggFlag,1,一般NPC/イースターこのNPCとたまご交換した？
 158,0,1,0,1,0,2,EasterExchangeEggTalkFlag,1,一般NPC/イースター|このNPCとたまご交換の会話をした？
 159,0,1,0,0,0,2,EasterCannotGetNnpcIsRecipeFlag,1,イースター|このNPCから受け取り損ねたのはレシピか
+160,0,0,1,0,0,2,TodayReserveCoordinateHouseInterior,1,NPC家コーデ｜今日NPCの家の内装の提案をしたか？
+161,0,0,1,0,0,2,TodayReserveCoordinateHouseExterior,1,NPC家コーデ｜今日NPCの家の外観の提案をしたか？
+162,0,1,1,0,0,2,TodayCompleteCoordinateHouseInterior,1,NPC家コーデ｜今日NPCの家に提案した内装が反映されたか？
+163,0,1,1,0,0,2,TodayCompleteCoordinateHouseExterior,1,NPC家コーデ｜今日NPCの家に提案した外観が反映されたか？
+164,0,0,1,0,0,2,InteriorCoordinator,1,NPC家コーデ｜現在の内装を提案した
+165,0,0,1,0,0,2,ExteriorCoordinator,1,NPC家コーデ｜現在の外観を提案した
+166,0,1,1,0,0,2,TodayHeardReactTalkAboutCoordinateHouse,1,NPC家コーデ｜今日、コーディネート提案に関するリアクション会話聞いた
+167,0,0,0,0,0,2,WHEREAREN_VisitWherearenWithPlayer,1,OneRoom|おみやげチョコレートを受け取ってウェアラン諸島に行ったことがあるか？
+168,0,0,0,0,0,2,TalkProgressMuseumBuiltCafe,1,博物館（カフェ）への拡張に関するFreeH_Progressを聞いたか？
+169,0,0,0,0,0,2,WHEREAREN_GetChocolate,1,OneRoom|おみやげチョコレートを受け取ったことがあるか？

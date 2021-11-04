@@ -1,0 +1,14 @@
+UniqueID,5f77b61a u8,5140e4b4 u8,8d401df7 u8,DefaultValue,FlagsFlowAccess,Key,MaxValue,Name
+1,0,0,0,0,2,GiveDrinkDone,1,差し入れ渡し済
+2,0,0,0,0,2,GiveGiftDone,1,お礼渡し済
+3,0,0,0,0,2,GiveGiftFaild,1,お礼を渡せなかった
+4,0,1,0,0,0,AddRewardDone,1,依頼報酬を加算済
+5,0,0,0,0,2,HasAcquaintanceship,1,面識ありか
+6,0,0,0,0,1,IsBuiltNewHouse,1,新築を行ったことがあるか
+7,0,1,0,0,2,Chocolate1stTalkDone,1,チョコ配置NPCの初回会話をしたか？
+10,0,0,0,0,0,IsJoinedTkkFes,1,けけフェスに参加したことがあるか
+11,0,1,0,0,2,StandingUpFlag,1,Npcを立たせるフラグ
+12,0,1,0,0,2,KeepStandingUpFlag,1,Npcの立ち状態をキープさせるフラグ
+13,0,1,0,0,2,AlreadyApproachSelectToday,1,今日既にアプローチ抽選終えたか？
+14,0,1,0,0,2,ApproachOccurringFlag,2,アプローチ発生中か？
+15,0,1,0,0,2,ApproachRefuse,1,アプローチを断った

@@ -253,6 +253,7 @@ Pre,0,EnableReadWrite,ManualSend,65535,287,CatchFishFesGetTotalNum,つり大会|
 None,0,EnableReadWrite,SpNpcOnly,1,288,JohnnyQuestFinishFlagIsland,ジョニー|その日に村で誰かがジョニーを助けたか？(海賊ジョニーでも使用),1,0
 Pre,0,DisableAccess,ReadOnly,10,289,CampRandomSelectMoveOutNpc,キャンプ場|ランダム選出転出NPCが何番目の住人か？(0:未抽選/抽選対象なし),1,0
 None,0,DisableAccess,ReadOnly,1,290,CampFireRemoved,広場のキャンプファイアー撤去（実際の撤去とは連動してません）,1,0
+None,0,EnableReadWrite,ReadOnly,1,291,WHEREAREN_HHDUnlock,ウェアラン諸島解禁,1,0
 None,0,DisableAccess,ReadOnly,1,293,UnlockEaster,BCATにてイースター解禁,1,0
 None,0,EnableReadWrite,ReadOnly,5,294,MuseumConstruction2,博物館1→2(美術部屋追加)への工事中,1,0
 None,0,EnableReadWrite,SpNpcOnly,1,295,MuseumGrowupEnable2,博物館2(美術部屋追加)への成長条件達成,1,0
@@ -266,6 +267,7 @@ None,0,EnableReadWrite,ReadOnly,1,310,GrowUpAfterPatch1_1,1.1適用して成長�
 None,0,EnableReadWrite,ReadOnly,1,311,GrowUpAfterPatch1_2,1.2適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,312,GrowUpAfterPatch1_3,1.3適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,313,GrowUpAfterPatch1_4,1.4適用して成長処理をした,1,0
+None,0,EnableReadWrite,ReadOnly,1,314,GrowUpAfterPatch2_0,2.0適用して成長処理をした,1,0
 None,0,DisableAccess,ReadOnly,1,315,EarthdaySloFirstVisit,アースデーの初回レイジを予約した,1,0
 None,0,EnableReadWrite,ReadOnly,1,316,OwlFoundDiveFish,フータ|誰かが海の幸を見せたことがある,1,0
 Pre,0,EnableReadWrite,SpNpcOnly,1,317,SloPeddlerPurchaceToday,レイジ行商|今回の来訪で島の誰かが商品購入した？,1,0
@@ -302,6 +304,7 @@ Pre,0,EnableReadWrite,SpNpcOnly,1,352,FoxPreVisitAlreadyBuyToday,つねきち|�
 None,0,DisableAccess,ReadOnly,1,353,RcoHasResolvedMoveKitBug,いせつキットバグを解消したか,1,0
 None,0,EnableReadWrite,ReadOnly,1,354,TapDreamEnable,ゆめみ|ゆめみ機能解禁か？,1,0
 None,0,DisableAccess,ReadOnly,1,357,GulBVisitEnable,海賊ジョニーが来訪する条件を満たしたか,1,0
+None,0,EnableReadOnly,ReadOnly,200,358,PokiRate,x)ポキの両替レート,1,0
 None,0,DisableAccess,ReadOnly,9999,359,FireworksAddBbsYear,花火大会予告の掲示板書き込みをした年,1,0
 None,0,EnableReadWrite,ReadOnly,1,362,EnableMyDream,ゆめみ|現在、自分の島の夢を提供中か？,1,0
 None,0,EnableReadWrite,NoCheck,1,363,JohnnyInvisible,ジョニー非表示状態か,1,0
@@ -325,12 +328,12 @@ Pre,0,EnableReadWrite,SpNpcOnly,1,383,HarvestHQDish2Island,ハーベスト｜島
 Pre,0,EnableReadWrite,SpNpcOnly,1,384,HarvestHQDish3Island,ハーベスト｜島の誰かが料理３グラタンの隠し食材納めた？,1,0
 Pre,0,EnableReadWrite,SpNpcOnly,1,385,HarvestHQDish4Island,ハーベスト｜島の誰かが料理４サカナのムニエルの隠し食材納めた？,1,0
 None,0,EnableReadWrite,ReadOnly,1,386,IsDisclosedMyDream,ゆめみ|現在、自分の島の夢をおまかせに公開中か？,1,0
-Pre,0,DisableAccess,ReadOnly,19,387,HarvestTukIngredient2_2,ハーベスト｜必要食材２－２,1,0
-Pre,0,DisableAccess,ReadOnly,19,388,HarvestTukIngredient3_1,ハーベスト｜必要食材３－１,1,0
-Pre,0,DisableAccess,ReadOnly,19,389,HarvestTukIngredient3_2,ハーベスト｜必要食材３－２,1,0
-Pre,0,DisableAccess,ReadOnly,19,390,HarvestTukIngredient4_2,ハーベスト｜必要食材４－２,1,0
-Pre,0,DisableAccess,ReadOnly,19,391,HarvestTukHideIngredient2_1,ハーベスト｜隠し食材２－１,1,0
-Pre,0,DisableAccess,ReadOnly,19,392,HarvestTukHideIngredient2_2,ハーベスト｜隠し食材２－２,1,0
+Pre,0,DisableAccess,ReadOnly,22,387,HarvestTukIngredient2_2,ハーベスト｜必要食材２－２,1,0
+Pre,0,DisableAccess,ReadOnly,22,388,HarvestTukIngredient3_1,ハーベスト｜必要食材３－１,1,0
+Pre,0,DisableAccess,ReadOnly,22,389,HarvestTukIngredient3_2,ハーベスト｜必要食材３－２,1,0
+Pre,0,DisableAccess,ReadOnly,22,390,HarvestTukIngredient4_2,ハーベスト｜必要食材４－２,1,0
+Pre,0,DisableAccess,ReadOnly,22,391,HarvestTukHideIngredient2_1,ハーベスト｜隠し食材２－１,1,0
+Pre,0,DisableAccess,ReadOnly,22,392,HarvestTukHideIngredient2_2,ハーベスト｜隠し食材２－２,1,0
 None,0,EnableReadWrite,ReadOnly,5,393,ReputaionMyIsland,ゆめみ｜現在の自分の島の評判値,1,0
 None,0,DisableAccess,ReadOnly,9999,396,LastPlayXmasYear,最後にプレイしたクリスマスの年,1,0
 Pre,0,DisableAccess,ReadOnly,1,397,ShopSelectChristmasFtr,クリスマスおもちゃ家具抽選を今日したか,1,0
@@ -367,17 +370,104 @@ None,0,DisableAccess,ReadOnly,65535,439,RandomKey11,ランダムキー11,1,1
 None,0,EnableReadWrite,ReadOnly,50,440,MuseumArtStampRackLotID1,国際ミュージアム|1つ目の美術品のスタンプ台ID,1,0
 None,0,EnableReadWrite,ReadOnly,50,441,MuseumArtStampRackLotID2,国際ミュージアム|2つ目の美術品のスタンプ台ID,1,0
 None,0,EnableReadWrite,ReadOnly,50,442,MuseumArtStampRackLotID3,国際ミュージアム|3つ目の美術品のスタンプ台ID,1,0
+None,0,EnableReadWrite,ReadOnly,1,443,v200_Enabled_ChangeRegulation,条例が解禁した,1,0
+None,0,EnableReadOnly,ReadOnly,1,444,RegulationType1,美しい島条例発動中,1,0
+None,0,EnableReadOnly,ReadOnly,1,445,RegulationType2,朝活条例発動中,1,0
+None,0,EnableReadOnly,ReadOnly,1,446,RegulationType3,夜活条例発動中,1,0
+None,0,EnableReadOnly,ReadOnly,1,447,RegulationType4,景気アップ条例発動中,1,0
+None,0,EnableReadWrite,ReadOnly,5,448,ReserveRegulation,予約中の条例,1,0
+None,0,EnableReadOnly,ReadOnly,5,449,TodayChangeRegulation,今日変更した条例,1,0
+None,0,EnableReadWrite,HetHostOnly,1,450,MuseumCafeConstruction_1_Confirm,博物館カフェ増築｜①工事決定（翌朝工事へ）,1,0
+None,0,EnableReadWrite,ReadOnly,1,451,GyroidCommuneFlag,チャリティーハニワくん｜目標額を達成した？,1,0
+Pre,0,EnableReadWrite,ReadOnly,8,452,GyroidCommuneDonationCount,チャリティーハニワくん｜今日どのハニワくんが目標額達成した？,1,0
+None,0,EnableReadWrite,ReadOnly,1,453,GyroidCommuneOtherFlag,チャリティーハニワくん｜目標額を達成したハニワがいる？,1,0
+None,0,EnableReadOnly,ReadOnly,65535,454,WeedCount,村全体に生えている雑草の本数,1,0
+Plus,0,EnableReadOnly,ReadOnly,1,455,MuseumCafeConstruction_2_ConstructionDay,博物館カフェ増築｜②工事当日（今日一日工事状態）,1,0
+None,0,EnableReadWrite,ReadOnly,2,456,CommuneSloDonation,コミューン島レイジ用募金状態,1,0
+None,0,EnableReadWrite,ReadOnly,2,457,CommuneCmlDonation,コミューン島レローラン用募金状態,1,0
+None,0,EnableReadWrite,ReadOnly,2,458,CommuneFoxDonation,コミューン島つねきち用募金状態,1,0
+None,0,EnableReadWrite,ReadOnly,2,459,CommuneBptDonation,コミューン島ハッケミィ用募金状態,1,0
+None,0,EnableReadWrite,ReadOnly,2,460,CommuneSkkDonation,コミューン島シャンク用募金状態,1,0
+None,0,EnableReadWrite,ReadOnly,2,461,CommuneAlpDonation,コミューン島リサカイゾー用募金状態,1,0
+Pre,0,EnableReadOnly,ReadOnly,1,462,MuseumCafeConstruction_3_OpenDay,博物館カフェ増築｜③オープン当日,1,0
+None,0,EnableReadWrite,ReadOnly,1,463,MuseumCafeConstruction_4_Opened,博物館カフェ増築｜④オープン済（当日含む）,1,0
+None,0,EnableReadWrite,ReadOnly,10000,464,MuseumCafeConstruction_5_OpenDaysCount,博物館カフェ増築｜⑤オープンして何日目か（初日は１）,1,0
+None,0,EnableReadWrite,ReadOnly,1,465,ReserveCommuneSloOpenEvent,コミューン島レイジ開店イベント予約,1,0
 None,0,DisableAccess,ReadOnly,1,466,EventObjFlag1,イベントオブジェフラグ1,1,0
 None,0,DisableAccess,ReadOnly,1,467,EventObjFlag2,イベントオブジェフラグ2,1,0
+None,0,EnableReadWrite,ReadOnly,5,468,MuseumConstruction3,博物館2→3(カフェ増築)への工事中,1,0
+None,0,EnableReadWrite,ReadOnly,1,469,CommuneExpanded,コミューン｜コミューン島が拡張した,1,0
+None,0,EnableReadWrite,ReadOnly,1,470,ReserveCommuneCmlOpenEvent,コミューン島ローラン開店イベント予約,1,0
+None,0,EnableReadWrite,ReadOnly,1,471,ReserveCommuneFoxOpenEvent,コミューン島つねきち開店イベント予約,1,0
+None,0,EnableReadWrite,ReadOnly,1,472,ReserveCommuneBptOpenEvent,コミューン島ハッケミィ開店イベント予約,1,0
+None,0,EnableReadWrite,ReadOnly,1,473,ReserveCommuneSkkOpenEvent,コミューン島シャンク開店イベント予約,1,0
+None,0,EnableReadWrite,ReadOnly,1,474,ReserveCommuneAlpOpenEvent,コミューン島リサカイゾー開店イベント予約,1,0
+Pre,0,EnableReadOnly,ReadOnly,65535,475,MuseumCafeAmiiboCustomer,喫茶ハトの巣|Amiiboで呼び出したNPC,1,0
+None,0,EnableReadWrite,ReadOnly,1,476,SloWeedingFlag,レイジ｜今日草むしりサービス頼んだ？,1,0
 None,0,EnableReadWrite,ReadOnly,1,477,GrowUpAfterPatch1_10,1.10適用して成長処理をした,1,0
 None,0,EnableReadWrite,ReadOnly,1,478,GrowUpAfterPatch1_11,1.11適用して成長処理をした,1,0
+None,0,DisableAccess,ReadOnly,2,479,RadioGymnasticsBbsFlag,ラジオ体操の掲示板書き込みをした？,1,0
 None,0,DisableAccess,ReadOnly,1,480,BCAT_EventFlag_012,ハロウィン2年目解禁,1,0
 None,0,DisableAccess,ReadOnly,65535,481,RandomKey12,ランダムキー12,1,1
+None,0,EnableReadWrite,ReadOnly,1,482,CompleteCommuneExpandEvent,コミューン｜コミューン島が拡張したイベントを誰かが完了したか,1,0
 None,0,DisableAccess,ReadOnly,9999,483,MayDayAddBbsYear,メーデー予告の掲示板書き込みをした年,1,0
+Pre,0,DisableAccess,ReadOnly,65535,484,MuseumCafeCheckedTimeZone,喫茶ハトの巣|ランダム来訪一般NPCチェックした時間帯,1,0
+Pre,0,DisableAccess,ReadOnly,3,485,MuseumCafeRandomVisitSp_hgs,喫茶ハトの巣|ランダム来訪特殊NPC（あさみ）,1,0
+Pre,0,DisableAccess,ReadOnly,3,486,MuseumCafeRandomVisitSp_hgh,喫茶ハトの巣|ランダム来訪特殊NPC（きぬよ）,1,0
+Pre,0,DisableAccess,ReadOnly,3,487,MuseumCafeRandomVisitSp_doc,喫茶ハトの巣|ランダム来訪特殊NPC（ロドリー）,1,0
+Pre,0,DisableAccess,ReadOnly,3,488,MuseumCafeRandomVisitSp_boc,喫茶ハトの巣|ランダム来訪特殊NPC（ウリ）,1,0
+Pre,0,DisableAccess,ReadOnly,3,489,MuseumCafeRandomVisitSp_mol,喫茶ハトの巣|ランダム来訪特殊NPC（リセットさん）,1,0
+Pre,0,DisableAccess,ReadOnly,3,490,MuseumCafeRandomVisitSp_mob,喫茶ハトの巣|ランダム来訪特殊NPC（ラケットさん）,1,0
+Pre,0,DisableAccess,ReadOnly,3,491,MuseumCafeRandomVisitSp_tkkA,喫茶ハトの巣|ランダム来訪特殊NPC（とたけけ）,1,0
+Pre,0,DisableAccess,ReadOnly,3,492,MuseumCafeRandomVisitSp_skk,喫茶ハトの巣|ランダム来訪特殊NPC（シャンク）,1,0
+Pre,0,DisableAccess,ReadOnly,3,493,MuseumCafeRandomVisitSp_cml,喫茶ハトの巣|ランダム来訪特殊NPC（ローラン）,1,0
+Pre,0,DisableAccess,ReadOnly,3,494,MuseumCafeRandomVisitSp_hgc,喫茶ハトの巣|ランダム来訪特殊NPC（ことの）,1,0
+Pre,0,DisableAccess,ReadOnly,3,495,MuseumCafeRandomVisitSp_slo,喫茶ハトの巣|ランダム来訪特殊NPC（レイジ）,1,0
+Pre,0,DisableAccess,ReadOnly,3,496,MuseumCafeRandomVisitSp_ows,喫茶ハトの巣|ランダム来訪特殊NPC（フーコ）,1,0
+Pre,0,DisableAccess,ReadOnly,3,497,MuseumCafeRandomVisitSp_chy,喫茶ハトの巣|ランダム来訪特殊NPC（レックス）,1,0
+Pre,0,DisableAccess,ReadOnly,3,498,MuseumCafeRandomVisitSp_bey,喫茶ハトの巣|ランダム来訪特殊NPC（ジャスティン）,1,0
+None,0,DisableAccess,ReadOnly,1,499,BCAT_EventFlag_013,サンクスギビング、ブラックフライデー解禁,1,0
+None,0,DisableAccess,ReadOnly,65535,500,RandomKey13,ランダムキー13,1,1
+None,0,EnableReadWrite,ReadOnly,2,501,CommuneTtlDonation,コミューン島コトブキ用募金状態,1,0
+None,0,EnableReadWrite,ReadOnly,1,502,ReserveCommuneTtlOpenEvent,コミューン島コトブキ開店イベント予約,1,0
+None,0,EnableReadOnly,ReadOnly,1,503,UnlockGyroidMainField,ハニワの自然発生が解禁されているか？,1,0
 None,0,DisableAccess,ReadOnly,1,504,EventObjFlag3,イベントオブジェフラグ3,1,0
 None,0,DisableAccess,ReadOnly,9999,505,HalloweenAddBbsYear,ハロウィン予告の掲示板書き込みをした年,1,0
+None,0,EnableReadOnly,ReadOnly,1,506,Museum2BuiltSkippedMuseum1,博物館①をスキップして博物館②が建った,1,0
+None,0,DisableAccess,ReadOnly,1,507,FoxAndShipReserveVer2,つねきち船＋フィールドを予約する(Ver2.0.0),1,0
+None,0,EnableReadWrite,ReadOnly,1,508,EverChangedRegulation,条例変更直前に発動中の条例があったか？,1,0
 None,0,DisableAccess,ReadOnly,1,509,ExistIllminations,成長処理時点で電飾付の木が一本以上存在しているか？,1,0
 None,0,DisableAccess,ReadOnly,1,510,ExistSakura,成長処理時点で村に桜の木が存在するか？,1,0
 None,0,DisableAccess,ReadOnly,1,511,ExistBanboo,成長処理時点で村に竹の成木が存在するか？,1,0
 None,0,DisableAccess,ReadOnly,1,512,ExistOak,成長処理時点で村に成木の広葉樹が存在するか？,1,0
 None,0,DisableAccess,ReadOnly,1,513,ExistCedar,成長処理時点で村に成木の針葉樹が存在するか？,1,0
+Pre,0,EnableReadWrite,SpNpcOnly,2,514,FoxCommuneArtStockCount,つねきち|コミューンで購入されたの美術品の数,1,0
+None,0,EnableReadWrite,ReadOnly,1,515,PlacementRadioGymnastics,ラジオ体操用ラジカセ設置,1,0
+None,0,DisableAccess,ReadOnly,100,516,FoxCommuneRealRate,つねきち|コミューンで美術品を本物に差し替える確率,1,0
+None,0,DisableAccess,ReadOnly,2,517,FoxCommuneRealNum,つねきち|コミューンで本物の美術品を並べた回数,1,0
+None,0,DisableAccess,ReadOnly,3,518,CatalogShopBigCount,カタログショッピングで大型の連続ハズレカウント,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,520,CoffeTakeout,喫茶ハトの巣|島の誰かがコーヒーの持ち帰り解禁された？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,521,MuseumPosterflagbug,フータ/博物館コンプポスター|ムシのポスター購入を解禁した？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,522,MuseumPosterflagfish,フータ/博物館コンプポスター|サカナのポスター購入を解禁した？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,523,MuseumPosterflagfossil,フータ/博物館コンプポスター|化石のポスター購入を解禁した？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,524,MuseumPosterflagpainting,フータ/博物館コンプポスター|美術品のポスター購入を解禁した？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,525,MuseumPosterflagsea,フータ/博物館コンプポスター|海の幸のポスター購入を解禁した？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,526,MuseumPosterTodayflagbug,フータ/博物館コンプポスター|ムシのポスター送った？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,527,MuseumPosterTodayflagfish,フータ/博物館コンプポスター|サカナのポスター送った？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,528,MuseumPosterTodayflagfossil,フータ/博物館コンプポスター|かせきのポスター送った？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,529,MuseumPosterTodayflagpainting,フータ/博物館コンプポスター|美術品のポスター送った？,1,0
+None,0,EnableReadWrite,SpNpcOnly,1,530,MuseumPosterTodayflagsea,フータ/博物館コンプポスター|海の幸のポスター送った？,1,0
+None,0,EnableReadWrite,ReadOnly,1,531,SzaChangeSymbol,しずえ｜誰かが旗のデザイン変えた？,1,0
+None,0,EnableReadWrite,ReadOnly,5,532,GotFakeArts,Tips|島全体で贋作購入した個数,1,0
+None,0,DisableAccess,ReadOnly,1,533,VisitGulAFlag,ジョニーが来訪したフラグ,1,0
+None,0,DisableAccess,ReadOnly,1,534,EnableBlackFriday,ゲーム進行的にブラックフライデー解禁,1,0
+None,0,EnableReadWrite,HetHostOnly,1,535,KppTourStart,島内放送｜島の誰かにかっぺいツアー開始告知をした,1,0
+Pre,0,EnableReadWrite,HetHostOnly,1,536,KppTourStartToday,島内放送｜今日が、初めて島の誰かにかっぺいツアー開始告知をした当日,1,0
+None,0,EnableReadWrite,ReadOnly,1,537,RcoUnlockBridgeSlopePlus2,たぬきち｜橋、坂を追加で２つ作れるようになった？,1,0
+None,0,EnableReadWrite,ReadOnly,1,538,UnlockCommuneExpandedBGM,コミューン島｜コミューン島拡張BGMが解禁済みか？,1,0
+None,0,DisableAccess,ReadOnly,1,539,CommuneFoxShopGenuine,コミューン島｜つねきちの店で今週本物が並んだ,1,0
+Pre,0,DisableAccess,ReadOnly,1,540,CommuneSloOpenToday,コミューン島レイジ開店当日,1,0
+None,0,EnableReadWrite,ReadOnly,1,541,UnlockBuyRecipePitfallSeed,お店|おとしあなのタネのレシピの店売りを解禁するか？,1,0
+None,0,DisableAccess,ReadOnly,10,542,GrowHaniwaPieceNum,Tips|ハニワのかけらがハニワに成長した個数,0,0
+None,0,EnableReadWrite,ReadOnly,1,543,UnlockSzaResetHouse,しずえ｜NPCの家リセット解禁（家コーデが村の誰かのところで解禁）,1,0
+Pre,0,EnableReadWrite,ReadOnly,1,544,RcoTipsDisableNoticeLoginBonus,Tips|タヌポートログボ出すの禁止か？（工事当日＆大晦日にON）,1,0

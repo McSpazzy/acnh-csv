@@ -7,6 +7,7 @@ ResSizeLimit,MemoryUnitNum,PolygonLimit,UniqueID,HalfUnitSizeX,HalfUnitSizeZ,Lab
 10.48576,9,10800,7,6,6,3_0x3_0,3x3
 1.575,1,1200,1,2,1,1_0x0_5,1x0.5
 1.575,2,1200,3,4,1,2_0x0_5,2x0.5
+4.725,2,3600,42,6,1,3_0x0_5,3x0.5
 3.54375,3,2700,22,3,3,1_5x1_5,1.5x1.5
 1.75,1,1200,25,2,1,1_0x0_5_Wall,1x0.5(壁)
 1.75,1,1200,24,1,2,0_5x1_0_Wall,0.5x1(壁)
@@ -25,3 +26,4 @@ ResSizeLimit,MemoryUnitNum,PolygonLimit,UniqueID,HalfUnitSizeX,HalfUnitSizeZ,Lab
 3.670016,16,2000,14,8,8,4_0x4_0_Rug,4x4(ラグ)
 5.7344,20,2000,31,10,8,5_0x4_0_Rug,5x4(ラグ)
 5.7344,25,2000,32,10,10,5_0x5_0_Rug,5x5(ラグ)
+1.575,1,1200,41,1,1,0_5x0_5_Pillar,0.5x0.5(柱)

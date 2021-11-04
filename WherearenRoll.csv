@@ -1,0 +1,22 @@
+416eaf25 u32,f89574cd u32,e9e81eb4 u32,5013c55c u32,cb12ca46 u32,72e911ae u32,63947bd7 u32,da6fa03f u32,8ee763a2 u32,7328de13 u32,649ed9ae string,ec47b5b2 u16,3e4510fa u16,UniqueID,8f30aa9f u8,f50743fb u8,4dbb249e u8,5f0e8b70 u8,e7b2ec15 u8,7a65d4ac u8,c2d9b3c9 u8,d06c1c27 u8,68d07b42 u8,30b36b14 u8,ace47bb9 string32,Label,94a611be u8,94f6a567 u8,b61d49c8 u8,e447fe58 u8,1a9174c6 u8,2409dcb4 string
+0,0,0,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,,None,0,0,0,0,0,
+Teacher_Book_Explain,Teacher_Walk,Teacher_Book,Teacher_WatchWindow,Teacher_ConversationAnswer,0,0,0,0,Teacher_Stock,VillagerRandom,0,2,1,0,35,25,15,10,15,0,0,0,0,AI_NPC_Wherearen_SchoolTeacher,SchoolTeacher,0,0,1,0,1,
+Student_Sleep,Student_Book,Student_StareSleeping,Student_Eat,Walk,WaitConversationAnswer,-813146.4,Book,WaitConversation,Student_Stock,VillagerRandom,0,5,2,1,12,16,12,12,12,6,12,12,6,AI_NPC_Wherearen_SchoolStudent,SchoolStudent,1,0,0,0,2,
+Reception_Wait,Reception_Looking,0,0,0,0,0,0,0,Reception_Stock,VillagerRandom,0,4,3,0,50,50,0,0,0,0,0,0,0,AI_NPC_HospitalReception,HospitalReception,0,0,0,0,3,
+HospitalPatient_Sit,Book,Sit,-813146.4,0.09759402,0,0,0,0,HospitalPatient_Stock,VillagerRandom,0,0,4,1,20,30,10,20,20,0,0,0,0,AI_NPC_HospitalPatient,HospitalPatient,1,1,0,0,4,
+HospitalDoctor,HospitalDoctorStand,0,0,0,0,0,0,0,HospitalDoctor_Stock,VillagerRandom,0,3,5,0,50,50,0,0,0,0,0,0,0,AI_NPC_HospitalDoctor,HospitalDoctor,0,0,1,0,5,
+HospitalExamination_Sit,0,0,0,0,0,0,0,0,HospitalExamination_Stock,VillagerRandom,0,0,6,1,100,0,0,0,0,0,0,0,0,AI_NPC_HospitalExamination,HospitalExamination,1,1,0,0,6,
+HospitalPatient_Bed,Bed,Walk,WaitConversation,WaitConversationAnswer,0,0,0,0,Reception_Stock,VillagerRandom,0,6,7,1,20,20,20,20,20,0,0,0,0,AI_NPC_HospitalInpatient,HospitalInpatient,1,0,0,0,7,
+-31385.16,RestaurantCashier_OrderList,0,0,0,0,0,0,0,RestaurantCashier_Stock,VillagerRandom,0,9,8,0,50,50,0,0,0,0,0,0,0,AI_NPC_RestaurantCashier,RestaurantCashier,0,0,2,0,8,
+Waiter_Walk,Waiter_StandBy,0,0,0,0,0,0,0,Waiter_Stock,VillagerRandom,0,9,9,0,50,50,0,0,0,0,0,0,0,AI_NPC_RestaurantWaiter,RestaurantWaiter,0,0,0,0,9,
+Drink_GlassJuice,RestaurantCustome_Forks,-813146.4,-0.7801104,-0.001490551,13.50093,RestaurantCustome_Drink_Tea,0,0,RestaurantCustome_Stock,VillagerRandom,0,0,10,1,20,30,5,5,20,10,10,0,0,AI_NPC_RestaurantCustomer,RestaurantCustomer,1,1,0,0,10,
+Drink_GlassJuice,-0.001490551,0.09759402,RestaurantCustome_Walk,RestaurantCustome_Forks,-0.7801104,0,0,0,RestaurantVip_Stock,ShareHouse,0,0,19,1,20,20,10,20,20,10,0,0,0,AI_NPC_RestaurantVIPCustomer,RestaurantCustomer2F,1,1,0,100,11,
+Drink_GlassJuice,RestaurantCustome_Forks,-813146.4,-0.7801104,-0.001490551,13.50093,RestaurantCustome_Drink_Tea,0,0,RestaurantCustome_Stock,NonVillagerRandom,10,0,17,1,20,30,5,5,20,10,10,0,0,AI_NPC_RestaurantCustomer,RestaurantCustomerV,1,0,0,0,12,
+RestaurantCook_Cooking,RestaurantCook_Walking,0,0,0,0,0,0,0,223.6866,VillagerRandom,0,10,11,0,50,50,0,0,0,0,0,0,0,AI_NPC_RestaurantCook,RestaurantCook,0,0,1,0,13,
+RestaurantApprentice_Dish,RestaurantApprentice_Cooking,0,0,0,0,0,0,0,RestaurantApprentice_Stock,VillagerRandom,0,10,12,0,50,50,0,0,0,0,0,0,0,AI_NPC_RestaurantTrainee,RestaurantTrainee,0,0,0,0,14,
+Waiter_Walk,Waiter_StandBy,0,0,0,0,0,0,0,Cafe_Stock,VillagerRandom,0,7,13,0,50,50,0,0,0,0,0,0,0,AI_NPC_CafeWaiter,CafeWaiter,0,0,1,0,15,
+0.09759402,13.50093,RestaurantCustome_Drink_Tea,-813146.4,Book,0,0,0,0,RestaurantCustome_Stock,VillagerRandom,0,0,14,1,20,25,25,5,25,0,0,0,0,AI_NPC_CafeCustomer,CafeCustomer,1,1,0,0,16,
+WalkShopping,Cafe_Watching,Cafe_ConversationAnswer,-813146.4,0,0,0,0,0,Cafe_Stock,VillagerRandom,0,0,20,1,40,50,5,5,0,0,0,0,0,AI_NPC_Cafe2FCustomer,CafeCustomer2F,1,1,0,0,17,
+0.09759402,13.50093,RestaurantCustome_Drink_Tea,-813146.4,Book,0,0,0,0,RestaurantCustome_Stock,NonVillagerRandom,14,0,18,1,20,25,25,5,25,0,0,0,0,AI_NPC_CafeCustomer,CafeCustomerV,1,0,0,0,18,
+Wait,0,0,0,0,0,0,0,0,0,VillagerRandom,0,8,15,0,100,0,0,0,0,0,0,0,0,AI_NPC_TailorClerk,TailorClerk,0,0,1,0,19,
+Walk,WalkShopping,WalkStare,0,0,0,0,0,0,WalkShopping_Stock,VillagerRandom,0,0,16,1,15,35,50,0,0,0,0,0,0,AI_NPC_TailorCustomer,TailorCustomer,1,1,0,0,20,
