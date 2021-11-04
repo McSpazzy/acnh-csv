@@ -1,4 +1,4 @@
-a6240b90 u32,da3f63cf string,63c4b827 string,72b9d25e string,cb4209b6 string,54a1df24 string,175969e1 u16,UniqueID,7ef334a6 u8,Label,572a8fe9 u8,83da3b2a u16
+EventFlag,da3f63cf string,63c4b827 string,72b9d25e string,cb4209b6 string,54a1df24 string,175969e1 u16,UniqueID,CountPlayerVisit,Label,PrioLevel,83da3b2a u16
 -1,ItemId,None,None,None,Recent,5,0,0,PE_GetFish_New,5,0
 -1,ItemId,Value,None,None,Price,10,1,0,PE_GetFish_HighPrice,5,0
 -1,ItemId,None,None,None,Recent,5,2,0,PE_GetInsect_New,5,0

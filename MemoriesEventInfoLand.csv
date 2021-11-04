@@ -1,4 +1,4 @@
-a6240b90 u32,175969e1 u16,UniqueID,Label,e3cbd090 u8,5b77b7f5 u8,49c2181b u8,f17e7f7e u8,572a8fe9 u8,638d595d u8,a91a1c88 u8,83da3b2a u8
+EventFlag,175969e1 u16,UniqueID,Label,Param0,Param1,Param2,Param3,PrioLevel,PrioMethod,UsePlayer,83da3b2a u8
 -1,1,0,LE_FacilityBuilt_Market,0,0,0,0,5,0,0,0
 -1,1,1,LE_FacilityBuilt_Market2,0,0,0,0,5,0,0,0
 -1,1,2,LE_FacilityBuilt_MuseumTent,0,0,0,0,5,0,0,0
