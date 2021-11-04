@@ -106,5 +106,5 @@ HarvestFestival,CalendarEvent,All,None,EventObj,All,0,27,16,14,145,HarvestFestiv
 XmasAfter,CalendarEvent,All,None,EventObj,All,0,25,6,2,147,XmasAfter,0,1,0,,BuiltTownOffice,,,E_XmasAfter_EventObj_4,
 XmasAfter,CalendarEvent,All,None,Ftr,All,44,0,6,6,149,XmasAfter,0,1,0,,BuiltTownOffice,,,E_XmasAfter_Ftr_19,
 Carnival,CalendarEvent,All,None,EventObj,Office,0,28,14,10,150,Carnival,0,1,0,,BuiltTownOffice,,,E_Carnival_EventObj_0,
-7DB62C49,CalendarEvent,All,None,EventObj,Office,0,29,6,2,151,CarnivalReady,0,1,0,,BuiltTownOffice,,,E_CarnivalReady_EventObj_0,
+CarnivalReady,CalendarEvent,All,None,EventObj,Office,0,29,6,2,151,CarnivalReady,0,1,0,,BuiltTownOffice,,,E_CarnivalReady_EventObj_0,
 Carnival,CalendarEvent,All,None,EventObj,Office,0,29,6,2,152,Carnival,0,1,0,,BuiltTownOffice,,,E_Carnival_EventObj_1,
