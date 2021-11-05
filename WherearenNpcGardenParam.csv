@@ -1,4 +1,4 @@
-721fe9fc string,b11dff44 u16,cbddac24 u16,539cc0ca u16,f0e8b711 u16,8a28e471 u16,352c163e u16,b3e69752 u16,c926c432 u16,c47845a2 u16,beb816c2 u16,UniqueID,1938749d u16,24585d2d u16,63f827fd u16,5e980e4d u16,e638a9c7 u8,a86e5b39 u8,10d23c5c u8,26793b2 u8,badbf4d7 u8,5d8d4b8c u8,9f88366 u8,ea633a0 u8,904b8d66 u8,28f7ea03 u8,3a4245ed u8,82fe2288 u8,53520a06 u8,1222490a u8
+721fe9fc string,b11dff44 u16,cbddac24 u16,539cc0ca u16,EditBaseUnitX,EditBaseUnitZ,352c163e u16,Ftr1OffsetX,Ftr1OffsetZ,Ftr2OffsetX,Ftr2OffsetZ,UniqueID,WeatherPattern0,WeatherPattern1,WeatherPattern2,WeatherPattern3,e638a9c7 u8,Day0,Day1,Day2,Day3,Desert,Ice,Inland,Month0,Month1,Month2,Month3,53520a06 u8,Snow
 Right,0,0,1,33,35,0,16,12,12,12,0,0,0,0,0,0,25,21,15,20,0,0,0,3,7,11,12,1,0
 Left,0,0,0,33,35,0,2,10,10,16,1,0,0,0,0,0,10,5,22,25,0,0,1,4,7,11,12,0,0
 56558.07,0,0,0,33,35,0,14,12,8,12,2,0,0,0,0,0,20,10,15,25,0,1,1,3,7,11,12,3,1

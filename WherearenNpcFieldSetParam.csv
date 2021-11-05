@@ -1,4 +1,4 @@
-9d9906d2 u32,ddd67ea4 u32,5b589691 u32,36c903a7 u16,UniqueID,dfc1edb2 u8,da0c5d33 u8,c223cae9 string11,9d0b6948 u8,f0b8307e string33,38501139 u8,62a2abe9 string36
+9d9906d2 u32,ddd67ea4 u32,5b589691 u32,36c903a7 u16,UniqueID,dfc1edb2 u8,da0c5d33 u8,c223cae9 string11,9d0b6948 u8,Label,38501139 u8,62a2abe9 string36
 2,1,-1,1,0,0,0,,0,AreaV1,2,Unlock_NPC_00
 1,1,-1,0,1,0,0,,0,AreaV2,1,Unlock_NPC_00
 2,1,-1,3,2,0,0,,0,AreaV3,4,Unlock_NPC_00

@@ -1,7 +1,7 @@
-UniqueID,d15ace6a u8,ModelName,6ed5fed u8
-0,255,StrcWherearenCafeWoodDeckA00,0
+UniqueID,Identifier,ModelName,6ed5fed u8
+0,-1,StrcWherearenCafeWoodDeckA00,0
 1,0,StrcWherearenYagura02,1
 2,1,StrcWherearenYagura01,1
 3,2,StrcWherearenYagura00,1
 4,3,StrcWherearenYagura03,1
-5,255,StrcWherearenYaguraBefore,1
+5,-1,StrcWherearenYaguraBefore,1

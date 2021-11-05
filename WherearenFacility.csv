@@ -1,4 +1,4 @@
-Room0,Room1,Room2,SortID,UniqueID,e1c21e03 u16,1dd11bc9 u16,b04ac9ec u8,cc2bec37 string
+Room0,Room1,Room2,SortID,UniqueID,UnlockEvent,1dd11bc9 u16,b04ac9ec u8,cc2bec37 string
 School,None,None,0,0,2,2,0,
 Hospital,Hospital_1,Hospital_2,1,1,5,8,0,
 Restaurant,Restaurant_1,Restaurant_2,2,2,4,10,0,
