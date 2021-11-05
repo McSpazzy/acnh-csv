@@ -1,4 +1,4 @@
-GenderAsia,GenderUsEu,PacketId,Social,0e3f98aa.HashRef,VmPauseType,VmRhythmType,BromideItemID,NpcSpClothSet,PosterItemID,Smartphone,SmartphoneRemakeCommonPattern,SmartphoneRemakePattern,Umbrella,4bccce37 u16,UniqueID,BirthMDay,BirthMonth,HavokResName,Label,NameWithTitle,66f0052f u8,NpcColor,ResName,SpecialELink,SpecialSLink,21c5bbd6 u8,e52f0037 u8,42f255d5 u8
+GenderAsia,GenderUsEu,PacketId,Social,0e3f98aa.HashRef,VmPauseType,VmRhythmType,BromideItemID,NpcSpClothSet,PosterItemID,Smartphone,SmartphoneRemakeCommonPattern,SmartphoneRemakePattern,Umbrella,4bccce37 u16,UniqueID,BirthMDay,BirthMonth,HavokResName,Label,NameWithTitle,NotWithTitle,NpcColor,ResName,SpecialELink,SpecialSLink,21c5bbd6 u8,e52f0037 u8,42f255d5 u8
 Male,Male,0,3,Fitness,Stop,Normal,370,25,10435,65534,68,5,65534,7173,0,26,1,,alp,0,0,0,NpcSpAlp,1,1,5,1,2
 Female,Female,1,3,Fitness,Stop,Normal,371,24,10772,65534,69,1,65534,12134,1,5,7,,alw,0,0,1,NpcSpAlw,1,0,5,1,2
 Male,Male,2,3,Nature,Stop,Normal,372,65534,10345,65534,57,5,65534,8768,2,9,12,,bev,0,0,2,NpcSpBev,1,0,5,1,2

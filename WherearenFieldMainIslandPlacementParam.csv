@@ -1,4 +1,4 @@
-36c903a7 u16,ItemNameUniqueID,2a70ef74 u16,952f0a94 u16,OffsetX,OffsetZ,RemakeBodyID,RemakeFabricID,UniqueID,9cd5aba6 u8,9f34486 u8,ee34baae u8,b4ab694d u8,82d6cf76 u8,Pattern1,bd57e6 u8,3b7ba91d u8,DegreeMinute,eb22bd3b u8,PlaceType,6a63fb6 string
+AreaUniqueID,ItemNameUniqueID,2a70ef74 u16,ObjectUniqueID,OffsetX,OffsetZ,RemakeBodyID,RemakeFabricID,UniqueID,9cd5aba6 u8,9f34486 u8,ee34baae u8,b4ab694d u8,82d6cf76 u8,Pattern1,bd57e6 u8,3b7ba91d u8,DegreeMinute,eb22bd3b u8,PlaceType,6a63fb6 string
 3,14705,0,0,15,5,-1,-1,48,0,0,0,0,0,1,0,1,2,0,0,
 3,12365,0,0,13,6,-1,-1,50,0,0,0,0,0,1,0,1,2,0,0,
 3,12365,0,0,19,6,-1,-1,51,0,0,0,0,0,1,0,1,2,0,0,
