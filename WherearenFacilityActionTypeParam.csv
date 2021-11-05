@@ -1,4 +1,4 @@
-613c3c15 string,e188994e string,NpcFtrActionInterest,87589dce string,NpcFtrActionTool,de02419d u16,e362682d u16,UniqueID,EntryName,ac9e9a2 string64,Label,Name,26e57a14 u8,NpcFtrActionAsName,b5b58ff4 string64,630f2b53 string67
+613c3c15.HashRef,e188994e.HashRef,NpcFtrActionInterest,87589dce.HashRef,NpcFtrActionTool,de02419d u16,e362682d u16,UniqueID,EntryName,ac9e9a2 string64,Label,Name,26e57a14 u8,NpcFtrActionAsName,b5b58ff4 string64,630f2b53 string67
 None,All,None,Free,65534,-2,-2,0,,,None,なし,0,,,
 Npc,Back,None,Ftr,7313,-2,-2,1,Book,教卓,Teacher_Book_Explain,学校：先生：読書：説明,0,NpcConversationTeacherExplain,NpcConversationStudentQuesution,学校：生徒：読書
 None,All,Wander,Free,13444,-2,-2,2,CarryTray,,Waiter_Walk,飲食店：店員：おぼん片手にぶらつく,0,,,

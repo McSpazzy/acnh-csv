@@ -1,4 +1,4 @@
-EventFlag,Param0,Param1,Param2,Param3,54a1df24 string,175969e1 u16,UniqueID,7ef334a6 u8,Label,PrioLevel,83da3b2a u16
+EventFlag,Param0,Param1,Param2,Param3,54a1df24.HashRef,175969e1 u16,UniqueID,7ef334a6 u8,Label,PrioLevel,83da3b2a u16
 -1,ItemId,None,None,None,Recent,5,0,0,PE_GetFish_New,5,0
 -1,ItemId,Value,None,None,Price,10,1,0,PE_GetFish_HighPrice,5,0
 -1,ItemId,None,None,None,Recent,5,2,0,PE_GetInsect_New,5,0
@@ -43,8 +43,8 @@ EventFlag,Param0,Param1,Param2,Param3,54a1df24 string,175969e1 u16,UniqueID,7ef3
 -1,ItemId,RemakeRebodyId,None,None,Recent,5,42,0,PE_ExcavatedHaniwa,5,0
 -1,ItemId,RemakeRebodyId,RemakeRefabricId,None,Recent,10,43,0,PE_CatalogOrder_New,5,0
 -1,ItemId,RemakeRebodyId,RemakeRefabricId,None,Price,10,44,0,PE_CatalogOrder_HighPrice,5,0
--1,ItemId,RemakeRebodyId,RemakeRefabricId,BB3FBF82,Recent,5,45,0,PE_BuyItemMarket_New,5,0
--1,ItemId,RemakeRebodyId,RemakeRefabricId,BB3FBF82,Price,5,46,0,PE_BuyItemMarket_HighPrice,5,0
+-1,ItemId,RemakeRebodyId,RemakeRefabricId,DIYRecipeItemId,Recent,5,45,0,PE_BuyItemMarket_New,5,0
+-1,ItemId,RemakeRebodyId,RemakeRefabricId,DIYRecipeItemId,Price,5,46,0,PE_BuyItemMarket_HighPrice,5,0
 -1,ItemId,None,None,None,Recent,5,47,0,PE_BuyItemTailor_New,5,0
 -1,ItemId,None,None,None,Price,5,48,0,PE_BuyItemTailor_HighPrice,5,0
 -1,None,None,None,None,Recent,1,49,0,PE_DreamLand_Regist,1,0
@@ -58,7 +58,7 @@ EventFlag,Param0,Param1,Param2,Param3,54a1df24 string,175969e1 u16,UniqueID,7ef3
 -1,NmlNpcId,None,None,None,None,1,57,0,PE_NNPC_CampSiteTalk,5,0
 -1,SpNpcId,None,None,None,Recent,10,58,0,PE_SNPC_Talk,5,0
 -1,None,None,None,None,None,1,59,0,PE_Seo_Talk,7,0
--1,ItemId,RemakeRebodyId,RemakeRefabricId,BB3FBF82,None,1,60,0,PE_Seo_GetItem,7,0
+-1,ItemId,RemakeRebodyId,RemakeRefabricId,DIYRecipeItemId,None,1,60,0,PE_Seo_GetItem,7,0
 -1,ItemId,RemakeRebodyId,None,None,None,1,61,0,PE_Gst_Help,7,0
 -1,None,None,None,None,None,1,62,0,PE_GulA_Help,7,0
 -1,None,None,None,None,None,1,63,0,PE_GulB_Help,7,0
@@ -78,7 +78,7 @@ EventFlag,Param0,Param1,Param2,Param3,54a1df24 string,175969e1 u16,UniqueID,7ef3
 -1,ItemId,None,None,None,Recent,1,81,0,PE_SelectMusic,5,0
 -1,ItemId,None,None,None,Recent,1,82,0,PE_SelectMusic_ByBox,5,0
 -1,MysteryTourFieldId,None,None,None,MysteryTour,5,83,0,PE_Goto_MysteryTour,5,0
--1,C73C6A2D,None,None,None,Recent,2,84,0,PE_Goto_KappeiTour_Rare,5,0
+-1,KappeiTourId,None,None,None,Recent,2,84,0,PE_Goto_KappeiTour_Rare,5,0
 -1,None,None,None,None,None,1,85,0,PE_Goto_CommuneIsland,5,0
 -1,NmlNpcId,WherearenThemeId,None,None,Recent,5,86,0,PE_Wherearen_OrderReceivedNNPC,5,0
 -1,NmlNpcId,WherearenThemeId,None,None,Recent,5,87,0,PE_Wherearen_CoordinateNNPC,5,0
@@ -92,12 +92,12 @@ EventFlag,Param0,Param1,Param2,Param3,54a1df24 string,175969e1 u16,UniqueID,7ef3
 -1,WherearenFacilityId,None,None,None,Recent,1,95,0,PE_Wherearen_FacilityExtention,9,0
 -1,None,None,None,None,None,1,96,0,PE_Wherearen_TkkFesFirst,9,0
 -1,None,None,None,None,None,1,97,0,PE_Wherearen_TkkFes,7,0
--1,C4D12EF5,None,None,None,Recent,5,98,0,PE_Wherearen_PostResortOpus,5,1
+-1,ResortId,None,None,None,Recent,5,98,0,PE_Wherearen_PostResortOpus,5,1
 -1,Level,None,None,None,None,1,99,0,PE_LandEvaluation_Up,7,0
 -1,PopId,None,None,None,BestFriend,10,100,0,PE_Multiplay_WithOtherVisitor,5,1
 -1,ItemId,None,None,None,None,5,101,0,PE_PlantFruit_First,7,0
 -1,None,None,None,None,Recent,1,102,0,PE_ChangeNewHair_ByPoo,7,0
 -1,SpNpcId,WherearenThemeId,None,None,Recent,5,103,0,PE_Wherearen_OrderReceivedSNPC,5,0
 -1,SpNpcId,WherearenThemeId,None,None,Recent,5,104,0,PE_Wherearen_CoordinateSNPC,5,0
--1,NmlNpcId,ItemId,BB3FBF82,None,Recent,5,107,0,PE_Present_ToNNPC_Recipe,5,0
--1,NmlNpcId,ItemId,BB3FBF82,None,Recent,5,108,0,PE_Present_FromNNPC_Recipe,5,0
+-1,NmlNpcId,ItemId,DIYRecipeItemId,None,Recent,5,107,0,PE_Present_ToNNPC_Recipe,5,0
+-1,NmlNpcId,ItemId,DIYRecipeItemId,None,Recent,5,108,0,PE_Present_FromNNPC_Recipe,5,0

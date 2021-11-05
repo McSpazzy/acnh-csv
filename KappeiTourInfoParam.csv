@@ -1,4 +1,4 @@
-303fd59e string,a03a592f string,c84432b7 u16,UniqueID,WeatherPattern,DayNorth,DaySouth,ItemPlacementKind,MonthNorth,MonthSouth,PlayerFlagKeyAfterSelect,SelectWeight
+303fd59e.HashRef,a03a592f.HashRef,c84432b7 u16,UniqueID,WeatherPattern,DayNorth,DaySouth,ItemPlacementKind,MonthNorth,MonthSouth,PlayerFlagKeyAfterSelect,SelectWeight
 Normal,Haniwa,298,0,0,0,0,0,0,0,,30
 Normal,Vegetable,297,1,0,0,0,8,0,0,,22
 Normal,OneRoom,296,2,0,1,1,9,8,2,,18

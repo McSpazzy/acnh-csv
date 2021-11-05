@@ -1,8 +1,8 @@
-263c3ced string,ItemShopSeasonality,ParentItemName,UniqueID,FashionThemeDaily,FashionThemeFairyland,FashionThemeFomal,FashionThemeHorror,FashionThemeOutdoor,FashionThemeParty,FashionThemeRelax,FashionThemeSport,FashionThemeStage,FashionThemeVacation,FashionThemeWork,83ccbe0f string64,Label,Name,UseColorGroupSort
+263c3ced.HashRef,ItemShopSeasonality,ParentItemName,UniqueID,FashionThemeDaily,FashionThemeFairyland,FashionThemeFomal,FashionThemeHorror,FashionThemeOutdoor,FashionThemeParty,FashionThemeRelax,FashionThemeSport,FashionThemeStage,FashionThemeVacation,FashionThemeWork,83ccbe0f string64,Label,Name,UseColorGroupSort
 None,AllYear,65534,0,0,0,0,0,0,0,0,0,0,0,0,,None,-,0
 None,AllYear,2402,18,1,0,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatL,トレンチコート,0
 None,AllYear,2781,19,1,0,0,0,0,0,0,1,0,0,0,,TopsTexTopTshirtsHKungfu,カンフーなふく,0
--12.01107,AllYear,3058,20,0,0,0,0,0,0,0,1,1,0,0,,TopsTexOnepieceAlineNCheer,チアのコスチューム,0
+FesDance,AllYear,3058,20,0,0,0,0,0,0,0,1,1,0,0,,TopsTexOnepieceAlineNCheer,チアのコスチューム,0
 None,Winter,2401,21,1,0,0,0,1,0,0,1,0,0,0,,TopsTexTopOuterLStajanBlue,スタジャン,0
 None,AllYear,2498,22,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsHNumberball3,３ばんだまのふく,0
 None,AllYear,2541,23,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsHNumberball2,２ばんだまのふく,0
@@ -41,7 +41,7 @@ None,Summer,3144,59,1,0,1,0,0,0,0,0,0,0,1,,TopsTexTopYshirtsHWhite,はんそで�
 None,Summer,8347,60,1,0,0,0,0,0,0,0,0,1,0,,TopsTexTopYshirtsNWhite,ノースリーブえりつきシャツ,0
 None,AllYear,3146,61,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceAlineLRabbit,ウサギなふく,0
 SmugFace,AllYear,3147,62,0,1,1,1,0,0,0,0,1,0,0,,TopsTexTopCoatLPirate,かいぞくのコート,0
--0.01473032,AllYear,3159,63,0,1,0,0,0,0,0,0,1,0,1,,TopsTexOnepieceAlineLHeroine,ヒロインスーツ,1
+Shaki,AllYear,3159,63,0,1,0,0,0,0,0,0,1,0,1,,TopsTexOnepieceAlineLHeroine,ヒロインスーツ,1
 None,Winter,3164,64,0,0,0,0,0,0,1,0,0,0,0,,TopsTexTopCoatLHanten,はんてん,0
 Drink_JuiceGrass,AllYear,3165,65,0,0,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceBoxLBathrobes,バスローブ,0
 Dance,AllYear,3166,66,0,1,0,0,0,0,0,1,1,0,1,,TopsTexOnepieceBalloonNBallet,バレエのいしょう,0
@@ -56,7 +56,7 @@ None,AllYear,3177,74,0,0,0,0,0,0,0,0,0,0,1,,TopsTexTopCoatHCock,コックさん�
 None,AllYear,3178,75,0,0,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatLCafe,カフェのせいふく,0
 Gymnastics,AllYear,3179,76,0,0,0,0,0,0,1,1,0,0,0,,TopsTexTopTshirtsHGym,たいそうふく,0
 None,Summer,3192,77,1,0,0,0,1,0,1,1,0,1,0,,TopsTexTopTshirtsNTanktop,タンクトップ,0
--0.01473032,AllYear,3197,78,0,0,0,0,0,1,0,0,1,0,0,,TopsTexTopYshirtsLComedian,コメディアンなふく,0
+Shaki,AllYear,3197,78,0,0,0,0,0,1,0,0,1,0,0,,TopsTexTopYshirtsLComedian,コメディアンなふく,0
 None,AllYear,3198,79,1,0,0,0,1,0,0,0,1,0,0,,TopsTexTopYshirtsLRiders,ライダースジャケット,0
 None,Summer,3203,80,1,1,0,0,0,0,1,0,0,1,0,,TopsTexTopTshirtsNCamisoleprint,はながらのプリントキャミ,0
 None,AllYear,3209,81,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopYshirtsLDenim,デニムジャケット,1
@@ -66,9 +66,9 @@ None,Winter,3222,84,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopCoatLMouton,ムートンコ
 None,AllYear,3225,85,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopYshirtsLFlannel,ネルシャツ,0
 None,Summer,3227,86,1,0,0,0,1,0,0,0,0,1,0,,TopsTexTopYshirtsNDenim,そでなしＧジャン,1
 Broom,AllYear,3228,87,1,0,0,0,0,0,0,0,0,0,1,,TopsTexTopCoatHApron,エプロン,0
--0.01473032,AllYear,3231,88,0,1,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatLInfantry,へいたいのふく,0
+Shaki,AllYear,3231,88,0,1,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatLInfantry,へいたいのふく,0
 None,AllYear,3232,89,0,0,0,0,1,0,0,0,0,0,0,,TopsTexOnepieceBoxNPrimitive,げんしじんなふく,0
--0.01473032,AllYear,3233,90,0,1,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatLGunknight,じゅうきしのふく,0
+Shaki,AllYear,3233,90,0,1,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatLGunknight,じゅうきしのふく,0
 None,Summer,6820,91,0,0,0,0,0,0,1,0,0,1,0,,TopsTexTopYshirtsHAloha,パインがらアロハシャツ,0
 None,Summer,3239,92,1,1,0,0,0,0,1,0,0,1,0,,TopsTexTopTshirtsNCamisolelace,レースのキャミソール,0
 Gymnastics,AllYear,3244,93,0,0,0,0,1,0,1,1,0,0,0,,TopsTexTopOuterLJersey,ジャージ,1
@@ -136,31 +136,31 @@ None,AllYear,3391,158,0,1,0,0,0,1,0,0,0,0,1,,BottomsTexPantsNormalSanta,サン�
 Drink_JuiceGrass,AllYear,3401,159,0,0,1,0,0,1,0,0,1,0,1,,TopsTexTopCoatLMorningcoat,モーニングコート,0
 None,AllYear,3405,160,1,0,1,0,0,0,0,0,0,0,0,,BottomsTexPantsWideSchool,せいふくのズボン,0
 None,AllYear,3408,161,0,0,1,0,0,1,0,0,1,0,0,,BottomsTexPantsNormalSlacksgaudy,ハデなスラックス,0
--0.01473032,AllYear,3409,162,0,0,0,0,0,0,0,1,0,0,1,TshirtsL,TopsTexOnepieceOverallLJockey,ジョッキーのふく,0
+Shaki,AllYear,3409,162,0,0,0,0,0,0,0,1,0,0,1,TshirtsL,TopsTexOnepieceOverallLJockey,ジョッキーのふく,0
 None,AllYear,3417,163,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceOverallLBear,クマなふく,1
--0.01473032,AllYear,3420,164,0,0,0,0,0,0,0,0,0,0,1,,TopsTexOnepieceOverallLFirefighter,しょうぼうしのふく,0
+Shaki,AllYear,3420,164,0,0,0,0,0,0,0,0,0,0,1,,TopsTexOnepieceOverallLFirefighter,しょうぼうしのふく,0
 None,AllYear,3421,165,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceOverallLFrog,カエルなふく,1
 None,AllYear,3424,166,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceOverallLKappa,カッパスーツ,1
 Drink_JuiceGrass,AllYear,3435,167,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceDressLClassic,アントワネットなドレス,0
 None,AllYear,3441,168,0,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceAlongNNile,ナイルなふく,0
 None,AllYear,3448,169,0,0,0,0,1,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLWorkwear,さぎょうぎ,0
 Maracas,AllYear,3450,170,0,1,0,1,0,1,0,0,1,0,1,,TopsTexOnepieceOverallLClown,ピエロのふく,0
--0.01473032,AllYear,11573,171,0,1,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLHero,ヒーロースーツ,1
+Shaki,AllYear,11573,171,0,1,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLHero,ヒーロースーツ,1
 Fan,AllYear,3452,172,0,0,0,0,0,0,1,0,0,1,0,TshirtsH,TopsTexOnepieceOverallHJinbei,じんべい,0
--0.01473032,AllYear,3460,173,0,1,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLNinja,しのびのふく,1
--0.01473032,AllYear,3462,174,0,0,0,0,0,0,0,1,0,0,0,TshirtsL,TopsTexOnepieceOverallLDragon,ドラゴンスーツ,0
+Shaki,AllYear,3460,173,0,1,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLNinja,しのびのふく,1
+Shaki,AllYear,3462,174,0,0,0,0,0,0,0,1,0,0,0,TshirtsL,TopsTexOnepieceOverallLDragon,ドラゴンスーツ,0
 None,AllYear,3463,175,0,0,0,0,1,0,0,0,0,0,1,,BottomsTexPantsWideCowboy,カウボーイパンツ,0
--0.01473032,AllYear,3464,176,0,0,1,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLHotel,ホテルマンなふく,0
+Shaki,AllYear,3464,176,0,0,1,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLHotel,ホテルマンなふく,0
 None,AllYear,3474,177,0,0,1,0,0,0,0,0,0,0,1,,TopsTexTopYshirtsLTailored,テーラードジャケット,0
--0.01473032,AllYear,3475,178,0,0,1,0,0,0,0,0,0,0,1,,TopsTexOnepieceBoxLAttendant,フライトアテンダントのふく,0
+Shaki,AllYear,3475,178,0,0,1,0,0,0,0,0,0,0,1,,TopsTexOnepieceBoxLAttendant,フライトアテンダントのふく,0
 None,AllYear,3489,179,1,0,1,0,0,0,0,0,0,0,1,,TopsTexTopYshirtsLVest,チョッキつきワイシャツ,0
--0.01473032,AllYear,3492,180,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceAlongLWitch,まほうつかいのローブ,1
+Shaki,AllYear,3492,180,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceAlongLWitch,まほうつかいのローブ,1
 None,AllYear,3493,181,1,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceBlongLAodai,アオザイ,0
 None,AllYear,8978,182,1,0,0,0,0,0,0,0,0,0,1,,TopsTexOnepieceBlongLKappogi,かっぽうぎ,0
 None,AllYear,3538,183,0,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceAlongLChimachogori,チマチョゴリ,0
 None,AllYear,3549,184,0,1,0,0,0,1,0,0,1,0,0,,AccessoryMouthBeakYellow,くちばし,0
 None,AllYear,3550,185,0,1,1,0,0,0,0,0,1,0,0,,AccessoryMouthBeard,カイゼルひげ,0
--0.01473032,AllYear,3565,186,0,0,1,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLPolice,けいかんのふく,0
+Shaki,AllYear,3565,186,0,0,1,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLPolice,けいかんのふく,0
 None,AllYear,3570,187,0,0,1,0,0,0,0,0,1,0,0,,TopsTexOnepieceBlongHToga,ローマなふく,0
 None,AllYear,8980,188,0,0,1,0,0,1,0,0,0,0,0,,TopsTexOnepieceKimonoLUme,ウメがらのきもの,0
 None,AllYear,3573,189,0,0,0,1,0,1,0,0,0,0,0,,TopsTexOnepieceAlongLGothic,ゴシックなふく,0
@@ -177,7 +177,7 @@ Scaring,AllYear,3607,199,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceOverallLMummy,ほ
 Scaring,AllYear,3609,200,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceOverallLBone,ボーンなふく,0
 Muscle,AllYear,3610,201,0,0,0,0,0,0,0,1,1,0,1,TshirtsN,TopsTexOnepieceOverallNWrestling,プロレススーツ,0
 Gymnastics,AllYear,3611,202,0,0,0,0,0,0,0,1,0,0,1,TshirtsL,TopsTexOnepieceOverallLBaseball,やきゅうのふく,0
--0.01473032,AllYear,3612,203,0,0,1,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLPilot,きちょうのふく,0
+Shaki,AllYear,3612,203,0,0,1,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLPilot,きちょうのふく,0
 Drink_JuiceGrass,AllYear,3613,204,0,0,0,0,0,0,0,1,1,0,1,TshirtsL,TopsTexOnepieceOverallLBull,マタドールなふく,0
 Drink_JuiceGrass,AllYear,3614,205,1,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceDressHHolland,オランダなドレス,0
 None,Winter,3630,206,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLNordic,ノルディックなセーター,0
@@ -187,8 +187,8 @@ None,Winter,3633,209,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLAran,アランセー
 None,Winter,3635,210,0,1,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLYumekawa,ゆめかわなセーター,0
 None,AllYear,3636,211,0,0,0,0,0,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLSpace,うちゅうふく,0
 None,Winter,3643,212,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLArancardigan,アランカーディガン,0
--0.01473032,AllYear,3655,213,0,0,0,0,0,0,0,1,0,0,1,TshirtsL,TopsTexOnepieceOverallLRacer,レーサーなふく,0
--12.01107,AllYear,3659,214,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBoxNSequins,スパンコールのワンピース,0
+Shaki,AllYear,3655,213,0,0,0,0,0,0,0,1,0,0,1,TshirtsL,TopsTexOnepieceOverallLRacer,レーサーなふく,0
+FesDance,AllYear,3659,214,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBoxNSequins,スパンコールのワンピース,0
 None,AllYear,3660,215,1,0,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceAlineHSuspendersskirt,つりスカート,0
 None,AllYear,3662,216,1,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceBoxLJumperskirtuniform,ジャンパースカートのせいふく,0
 None,AllYear,8434,217,1,0,1,0,0,0,0,0,0,0,0,,TopsTexTopCoatLNocollar,ノーカラーコート,0
@@ -238,7 +238,7 @@ Book,AllYear,4238,260,1,0,1,0,0,0,0,0,0,0,1,,AccessoryGlassThurmont,サーモン
 Book,AllYear,4239,261,0,0,0,0,0,0,1,0,0,1,1,,AccessoryGlassOctagon,オクタゴンめがね,0
 HappyWait,AllYear,4240,262,0,0,0,0,0,1,0,0,0,1,0,,AccessoryGlassStar,ほしのサングラス,0
 None,AllYear,4241,263,1,0,0,0,0,1,0,0,0,1,0,,AccessoryGlassBoston,ボストンめがね,0
--0.01473032,AllYear,4242,264,0,0,0,0,0,1,0,0,0,1,0,,AccessoryGlassTriangle,さんかくサングラス,0
+Shaki,AllYear,4242,264,0,0,0,0,0,1,0,0,0,1,0,,AccessoryGlassTriangle,さんかくサングラス,0
 None,AllYear,4246,265,1,0,0,0,0,0,0,0,0,1,0,,BottomsTexSkirtBoxDenim,デニムスカート,1
 None,AllYear,4247,266,1,0,0,0,0,0,0,0,0,1,0,,TopsTexTopTshirtsLPeasant,ペザントブラウス,0
 Sleepy,AllYear,4248,267,0,1,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceAlongHNegligee,ネグリジェ,0
@@ -256,7 +256,7 @@ None,AllYear,4264,278,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBalloonNBubble,バ�
 None,AllYear,4265,279,1,0,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceAlineHLinen,リネンワンピース,0
 None,Winter,4266,280,1,0,0,0,1,0,0,0,0,0,0,,BottomsTexSkirtBoxDown,ダウンスカート,1
 Workout,AllYear,4267,281,0,0,0,0,1,0,0,1,0,0,0,,TopsTexTopTshirtsNMuscle,マッスルタンクトップ,0
--0.01473032,AllYear,4273,282,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceKimonoLWizard,まじゅつしのローブ,0
+Shaki,AllYear,4273,282,0,1,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceKimonoLWizard,まじゅつしのローブ,0
 None,AllYear,4274,283,1,0,0,0,0,0,0,0,0,1,0,,BottomsTexPantsHotDenim,デニムショートパンツ,1
 None,Summer,7760,284,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsHBorder,はんそでボーダーＴシャツ,0
 None,Winter,8322,285,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopOuterLDownvest,ダウンベスト,0
@@ -268,7 +268,7 @@ None,Winter,4289,290,1,0,1,0,0,1,0,0,0,0,1,,TopsTexTopTshirtsLChidori,ちどり�
 None,Summer,4290,291,1,0,0,0,0,0,1,0,0,1,0,,TopsTexOnepieceAlineNHalterneckstripe,ホルターネックのワンピース,0
 None,Summer,4291,292,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsHPocketshirts,ポケットつきＴシャツ,0
 Broom,AllYear,4292,293,0,0,0,0,0,0,0,0,0,0,1,,TopsTexOnepieceKimonoLMiko,みこしょうぞく,0
--0.01473032,AllYear,4295,294,0,1,0,1,0,0,0,0,1,0,0,,TopsTexOnepieceBalloonHPirate,かいぞくのワンピース,0
+Shaki,AllYear,4295,294,0,1,0,1,0,0,0,0,1,0,0,,TopsTexOnepieceBalloonHPirate,かいぞくのワンピース,0
 None,AllYear,4296,295,1,0,0,0,0,0,0,0,0,0,0,,BottomsTexSkirtBoxCorduroy,コーデュロイスカート,0
 None,AllYear,4299,296,0,0,1,0,0,0,0,0,0,0,1,,BottomsTexPantsWideGaucho,ガウチョパンツ,0
 None,AllYear,4300,297,0,0,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceBoxNModern,モガなワンピース,0
@@ -319,7 +319,7 @@ None,AllYear,4401,341,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopOuterLMaone,ＭＡ‐１,
 None,AllYear,4402,342,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopOuterLCamo,めいさいのＭＡ‐１,1
 None,AllYear,4403,343,1,1,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceAlongLFrilled,フリフリワンピース,0
 None,Summer,11315,344,0,0,0,0,0,0,1,0,0,1,0,,BottomsTexPantsHalfAloha,パインがらアロハパンツ,0
--12.01107,Summer,4406,345,0,1,0,0,0,1,0,0,1,1,1,,TopsTexOnepieceBalloonNIdleeightys,アイドルなふく,0
+FesDance,Summer,4406,345,0,1,0,0,0,1,0,0,1,1,1,,TopsTexOnepieceBalloonNIdleeightys,アイドルなふく,0
 None,Summer,4407,346,0,0,0,0,0,0,0,0,0,1,1,,TopsTexTopYshirtsLHanten,うみのはんてん,0
 None,AllYear,9708,347,1,0,1,0,0,0,0,0,0,0,1,,BottomsTexPantsNormalCropped,クロップドパンツ,0
 None,AllYear,4409,348,1,0,0,0,0,0,1,0,0,1,0,,TopsTexOnepieceBoxLBohemian,ボヘミアンワンピ,0
@@ -338,7 +338,7 @@ Broom,AllYear,4429,360,0,1,0,0,0,0,0,0,0,0,1,,TopsTexTopCoatLHeartapron,ハー�
 None,AllYear,9715,361,1,0,0,0,0,0,1,0,0,0,0,,BottomsTexPantsWideEasy,ワイドイージーパンツ,0
 None,AllYear,4431,362,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceRibNSheep,ひつじなふく,0
 None,Summer,4432,363,1,1,0,0,0,0,0,0,0,1,0,,TopsTexOnepieceBalloonNSunflower,ひまわりのワンピース,0
--0.01473032,AllYear,4433,364,0,1,1,0,0,1,0,0,0,0,0,,TopsTexTopCoatLPrince,プリンスなふく,0
+Shaki,AllYear,4433,364,0,1,1,0,0,1,0,0,0,0,0,,TopsTexTopCoatLPrince,プリンスなふく,0
 None,AllYear,4434,365,1,0,0,0,1,0,0,0,0,0,0,,BottomsTexSkirtBoxCamo,めいさいスカート,1
 None,AllYear,4435,366,0,0,0,0,0,0,0,0,0,0,1,,TopsTexTopYshirtsHTraffic,こうつうゆうどうのふく,0
 Drink_JuiceGrass,AllYear,4440,367,0,0,1,0,0,1,0,0,1,0,0,,TopsTexTopCoatLTailcoat,えんびふく,0
@@ -347,7 +347,7 @@ None,AllYear,8865,369,1,0,0,0,0,0,1,0,0,1,0,,BottomsTexPantsHotCulotte,キュロ
 None,Winter,4446,370,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLNative,ネイティブニット,0
 Gymnastics,AllYear,4447,371,0,0,0,0,0,0,0,1,0,0,1,,TopsTexTopTshirtsHAmericanfootball,アメフトシャツ,0
 Gymnastics,Winter,4448,372,0,0,0,0,1,0,0,1,0,0,0,,TopsTexTopYshirtsLSki,スキーウェア,0
--0.01473032,AllYear,4449,373,0,0,0,0,0,1,0,0,1,0,0,TshirtsL,TopsTexOnepieceOverallLStarsinger,スタアのふく,0
+Shaki,AllYear,4449,373,0,0,0,0,0,1,0,0,1,0,0,TshirtsL,TopsTexOnepieceOverallLStarsinger,スタアのふく,0
 None,Winter,4450,374,0,0,0,0,1,0,0,1,0,0,0,,BottomsTexPantsWideSki,スキーウェアのズボン,0
 None,AllYear,4451,375,1,0,0,1,0,0,1,0,0,0,0,,AccessoryMouthMask,マスク,0
 None,AllYear,4452,376,0,0,0,1,0,0,0,0,0,0,0,,AccessoryGlassEyepatch,がんたい,0
@@ -370,7 +370,7 @@ None,Winter,8453,392,1,0,1,0,0,1,0,0,0,0,0,,TopsTexTopCoatLRetro,レトロなコ
 None,AllYear,4470,393,0,1,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceOverallLRompers,ロンパース,0
 None,AllYear,4471,394,0,0,0,0,0,0,0,0,1,0,0,TshirtsL,TopsTexOnepieceOverallLBondage,ボンテージ,0
 None,AllYear,4472,395,0,0,0,0,1,0,0,1,0,0,0,,BottomsTexPantsHalfOutdoor,アウトドアパンツ,1
--0.01473032,AllYear,4475,396,0,0,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLSuper,スーパーヒーロースーツ,0
+Shaki,AllYear,4475,396,0,0,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLSuper,スーパーヒーロースーツ,0
 None,AllYear,4483,397,0,1,0,0,0,1,0,0,1,0,0,,AccessoryMouthCat,ネコのつけばな,0
 None,AllYear,4484,398,1,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceDressHChinapoblana,チナポブラーナ,0
 None,AllYear,4485,399,1,0,0,0,0,0,0,0,1,0,0,,BottomsTexPantsNormalBondage,ボンテージパンツ,0
@@ -407,7 +407,7 @@ None,AllYear,4545,429,1,0,0,0,0,0,1,0,0,0,0,,BottomsTexSkirtLongWrap,ベルト�
 None,AllYear,4547,430,1,0,0,0,0,0,1,0,0,1,0,,BottomsTexSkirtLongEmbroidery,ししゅうのはながらスカート,0
 None,AllYear,4548,431,1,0,0,0,0,0,0,0,0,1,0,,BottomsTexSkirtLongGeometric,きかがくししゅうのスカート,0
 None,Summer,4551,432,0,0,0,0,1,0,0,1,0,1,1,,AccessoryGlassmouthDiver,シュノーケル,0
--0.01473032,AllYear,4552,433,0,0,0,0,0,1,0,0,1,0,0,,AccessoryGlassCyber,サイバーサングラス,0
+Shaki,AllYear,4552,433,0,0,0,0,0,1,0,0,1,0,0,,AccessoryGlassCyber,サイバーサングラス,0
 None,Winter,4553,434,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLMuffler,チェックマフラーつきセーター,0
 None,AllYear,4555,435,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopCoatLMuffler,ロングデニムカーディガン,0
 None,Summer,4556,436,0,0,0,0,0,1,0,0,0,1,0,,TopsTexOnepieceBoxNStandard,おおばんがらワンピ,0
@@ -415,8 +415,8 @@ None,AllYear,4557,437,0,0,0,0,0,1,0,0,0,0,0,,TopsTexOnepieceAlineLRetro,レト�
 None,Summer,4558,438,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopCoatHWaistshirt,こしまきシャツ,0
 None,AllYear,8386,439,1,0,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceBoxHTshirts,Ｔシャツワンピ,0
 None,Summer,4560,440,0,0,0,0,0,1,0,0,0,1,0,,TopsTexTopCoatNSequins,ラメししゅうノースリーブ,0
--0.01473032,AllYear,4561,441,0,1,0,0,0,1,0,0,1,0,0,,AccessoryGlassDance,ぶとうかいのかめん,0
--0.01473032,AllYear,4563,442,0,0,0,0,0,1,0,0,1,0,1,,TopsTexOnepieceOverallLVisual,ヴィジュアルけいコスチューム,0
+Shaki,AllYear,4561,441,0,1,0,0,0,1,0,0,1,0,0,,AccessoryGlassDance,ぶとうかいのかめん,0
+Shaki,AllYear,4563,442,0,0,0,0,0,1,0,0,1,0,1,,TopsTexOnepieceOverallLVisual,ヴィジュアルけいコスチューム,0
 None,Winter,4565,443,1,0,1,0,0,0,0,0,0,0,0,,TopsTexTopCoatLLeathertrench,レザートレンチ,0
 None,Winter,4566,444,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLReindeer,トナカイセーター,0
 None,Summer,4567,445,1,0,0,0,0,0,0,0,0,1,0,,TopsTexTopYshirtsHKnot,まえむすびＹシャツ,0
@@ -430,9 +430,9 @@ None,AllYear,4579,452,1,1,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceBoxLHouse,ハウス�
 None,AllYear,4584,453,1,0,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceBoxLForest,フォレストなワンピース,0
 Gymnastics,AllYear,4586,454,0,0,0,0,0,0,0,1,0,0,1,TshirtsH,TopsTexOnepieceOverallHRugby,ラグビーのユニフォーム,0
 Drink_JuiceGrass,AllYear,4587,455,0,0,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceBlongNSlip,スリップドレス,0
--0.01473032,AllYear,4588,456,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceOverallLPlatearmorIron,アイアンアーマー,0
+Shaki,AllYear,4588,456,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceOverallLPlatearmorIron,アイアンアーマー,0
 None,Winter,8329,457,1,0,0,0,1,0,0,0,0,0,0,,TopsTexOnepieceAlongLDowncoat,ロングダウンコート,0
--0.01473032,AllYear,4590,458,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceOverallLPlatearmorGold,ゴールデンアーマー,0
+Shaki,AllYear,4590,458,0,1,0,1,0,0,0,0,0,0,0,,TopsTexOnepieceOverallLPlatearmorGold,ゴールデンアーマー,0
 None,AllYear,9723,459,1,0,1,0,0,1,0,0,0,0,0,,BottomsTexPantsWideSatin,サテンのパンツ,0
 None,Winter,4594,460,1,0,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceAlineLPcoat,スカートつきピーコート,0
 None,Winter,4595,461,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLRainbow,レインボーなニット,0
@@ -483,7 +483,7 @@ None,Winter,4680,506,1,0,0,0,1,0,0,0,0,0,0,,TopsTexTopOuterLFleece,がらもの�
 WalkObservation,AllYear,4681,507,0,0,0,0,0,0,0,0,0,0,1,,TopsTexTopCoatLDetective,めいたんていのふく,0
 None,AllYear,4682,508,0,0,0,0,1,0,1,0,0,1,0,,AccessoryMouthLeaf,はっぱ,0
 Drink_JuiceGrass,AllYear,11227,509,0,0,0,0,0,1,0,0,1,1,0,,AccessoryGlassRhinestone,ラインストーンめがね,0
--0.01473032,AllYear,4684,510,0,1,0,0,0,0,0,0,1,0,1,,AccessoryGlassHeromask,ヒーローマスク,0
+Shaki,AllYear,4684,510,0,1,0,0,0,0,0,0,1,0,1,,AccessoryGlassHeromask,ヒーローマスク,0
 WalkSpanner,AllYear,4685,511,0,1,0,0,0,0,0,0,1,0,0,,AccessoryGlassSteampunk,スチームパンクなゴーグル,0
 None,AllYear,4686,512,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBalloonHAngel,エンジェルなワンピース,0
 None,AllYear,4710,513,0,0,0,1,0,0,1,0,0,0,0,,TopsTexTopTshirtsLLoose,ヨレヨレなシャツ,0
@@ -553,19 +553,19 @@ None,Winter,5122,576,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopOuterLSnowcrystal,けっ�
 None,AllYear,5126,577,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsLDamage,ダメージニット,0
 Muscle,AllYear,5127,578,0,0,0,0,0,0,0,1,0,0,1,TshirtsN,TopsTexOnepieceOverallNWrestler,レスリングのユニフォーム,0
 None,AllYear,5128,579,1,0,0,0,1,0,0,1,0,0,0,,CapHatSilkhat,メッシュキャップ,0
--0.01473032,AllYear,5129,580,0,0,1,0,0,1,0,0,1,0,1,,CapHatMeshcap,シルクハット,0
+Shaki,AllYear,5129,580,0,0,1,0,0,1,0,0,1,0,1,,CapHatMeshcap,シルクハット,0
 SmugFace,AllYear,5130,581,0,0,0,0,0,0,0,0,1,0,1,,TopsTexTopCoatLSamurai,かっちゅう,0
 None,AllYear,5131,582,1,0,1,0,0,1,0,0,0,0,0,,TopsTexOnepieceBlongLChina,チャイナドレス,0
 Broom,AllYear,9608,583,0,0,0,0,1,0,0,0,0,0,1,,TopsTexTopCoatLHandcover,うでカバーつきエプロン,0
 Prank,AllYear,5133,584,0,1,0,1,0,0,0,0,0,0,0,TshirtsL,TopsTexOnepieceOverallLOgre,オニのふく,0
 Grin,AllYear,5134,585,0,1,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatLThiefBlack,かいとうのふく,0
--0.01473032,AllYear,5135,586,0,1,0,0,0,0,0,0,1,0,0,,TopsTexOnepieceAlineNSpace,スペースワンピース,0
+Shaki,AllYear,5135,586,0,1,0,0,0,0,0,0,1,0,0,,TopsTexOnepieceAlineNSpace,スペースワンピース,0
 WalkObservation,AllYear,5136,587,0,0,0,0,1,0,0,0,0,0,1,,CapHatExpedition,たんけんぼう,0
 Book,AllYear,5137,588,0,0,1,0,0,0,0,0,0,0,1,,CapHatBachelor,がくしのぼうし,0
 Maracas,AllYear,5138,589,0,0,1,0,0,1,0,0,1,0,0,,CapHatSombrero,ソンブレロ,0
 None,AllYear,5139,590,0,0,0,0,0,0,0,0,0,0,1,,CapHatSafetyhat,あんぜんヘルメット,0
 None,AllYear,5140,591,0,0,0,0,0,0,0,0,0,0,1,,CapHatCock,コックさんのぼうし,0
--0.01473032,AllYear,5141,592,0,0,1,0,0,0,0,0,0,0,1,,CapHatPolice,けいかんのぼうし,0
+Shaki,AllYear,5141,592,0,0,1,0,0,0,0,0,0,0,1,,CapHatPolice,けいかんのぼうし,0
 SmugFace,AllYear,5142,593,0,1,1,1,0,0,0,0,1,0,0,,CapHatPirate,かいぞくのぼうし,0
 None,AllYear,5143,594,0,1,0,0,1,0,0,0,0,0,0,,CapHatAjiro,かさぼうし,0
 None,Winter,5144,595,1,0,1,0,0,1,0,0,0,0,0,,CapHatUshanka,フェイクファーハット,0
@@ -590,7 +590,7 @@ None,Winter,5181,613,0,1,0,0,0,0,1,0,0,0,0,,SocksTexFluffy,もこもこソック
 WatchExist,AllYear,5182,614,0,0,0,0,0,0,1,0,0,0,0,,AccessoryGlassHmd,HMD,0
 None,AllYear,5261,615,0,0,0,0,1,0,0,0,0,0,0,,AccessoryGlassNightvision,ナイトビジョン,0
 None,AllYear,5262,616,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopYshirtsLKids,すこやかなセーター,0
--0.01473032,AllYear,5265,617,0,0,0,0,0,0,0,0,0,1,1,,CapHatSailor,ふなのりのぼうし,0
+Shaki,AllYear,5265,617,0,0,0,0,0,0,0,0,0,1,1,,CapHatSailor,ふなのりのぼうし,0
 SmugFace,AllYear,5266,618,0,1,0,0,0,0,0,0,0,0,0,,CapHatViking,バイキングのかぶと,0
 None,Winter,5195,619,1,0,0,0,0,0,1,0,0,0,0,,SockstTexOverlapping,かさねばきソックス,0
 None,AllYear,5196,620,0,0,0,0,1,0,1,0,0,0,0,,SocksTexHandknit,てあみのソックス,0
@@ -640,11 +640,11 @@ Gymnastics,AllYear,5305,664,0,0,0,0,0,0,0,1,0,0,0,,CapHatSports,うんどうぼ�
 Sleepy,AllYear,10931,665,0,1,0,0,0,0,1,0,0,0,0,,CapHatNightcap,もこもこナイトキャップ,1
 HappyWait,AllYear,5306,666,0,1,0,0,0,1,0,0,0,0,1,,CapHatSanta,サンタのぼうし,0
 SmugFace,AllYear,5307,667,0,1,0,0,0,1,0,0,1,0,0,,CapHatCrown,おうかん,0
--0.01473032,AllYear,5308,668,0,1,0,0,0,0,0,0,1,0,0,,CapHatPaper,しんぶんしのかぶと,0
+Shaki,AllYear,5308,668,0,1,0,0,0,0,0,0,1,0,0,,CapHatPaper,しんぶんしのかぶと,0
 None,AllYear,5311,669,0,0,0,0,1,0,1,1,0,0,1,,CapHatTowel,タオル,0
 None,AllYear,10933,670,1,0,0,0,0,0,1,0,0,0,0,,CapHatAcorn,どんぐりニット,0
 None,AllYear,5316,671,0,0,0,0,1,0,0,0,0,0,0,,CapHatCombat,コンバットヘルメット,0
--12.01107,AllYear,5317,673,0,0,0,0,0,0,0,1,1,0,0,,TopsTexTopYshirtsLCool,ダンスジャージ,0
+FesDance,AllYear,5317,673,0,0,0,0,0,0,0,1,1,0,0,,TopsTexTopYshirtsLCool,ダンスジャージ,0
 None,AllYear,5322,674,0,0,0,1,1,0,0,0,0,0,0,,CapHatHokkamuri,ほっかむり,0
 None,AllYear,5323,675,0,1,0,0,0,0,0,0,1,0,0,,CapHatCowl,メルヘンなずきん,1
 None,AllYear,5324,676,0,1,0,1,0,0,0,0,1,0,0,,CapHatMummy,ミイラのかぶりもの,0
@@ -655,7 +655,7 @@ None,AllYear,5328,680,0,1,0,1,0,0,0,0,1,0,0,,CapHatSkull,ガイコツのかぶ�
 None,AllYear,5329,681,1,0,0,0,1,0,0,0,0,0,0,,CapHatShallow,あさいニットぼう,0
 None,AllYear,5330,682,0,1,0,0,0,1,0,0,1,0,0,,CapHatBear,クマのかぶりもの,1
 None,AllYear,5331,683,0,1,0,0,0,1,0,0,1,0,0,,CapHatKappa,カッパのおさら,1
--0.01473032,AllYear,5332,684,0,0,1,0,0,0,0,0,0,0,1,,CapHatCaptain,キャプテンのぼうし,0
+Shaki,AllYear,5332,684,0,0,1,0,0,0,0,0,0,0,1,,CapHatCaptain,キャプテンのぼうし,0
 None,AllYear,5333,685,1,0,0,0,0,0,0,0,0,0,0,,CapHatCasquette,キャスケット,0
 None,AllYear,5334,686,0,1,0,1,0,0,0,0,0,0,0,,CapFullfaceKnightIron,アイアンアーマーヘルメット,0
 None,AllYear,5335,687,0,1,0,0,0,1,0,0,1,0,0,,CapCostumeFrog,カエルのかぶりもの,1
@@ -668,7 +668,7 @@ None,Summer,8526,694,1,1,0,0,0,0,0,0,0,1,0,,TopsTexTopPuffHFrill,フリルパフ
 None,AllYear,9040,695,1,0,0,0,0,0,0,0,0,0,1,,TopsTexOnepieceSalopetteLAllinone,オールインワン,0
 Drink_JuiceGrass,AllYear,5351,696,0,1,1,0,0,1,0,0,1,0,0,,CapHatElegant,エレガントなぼうし,0
 None,AllYear,5373,697,0,0,0,0,0,0,0,1,0,0,1,,CapCostumeFootball,アメフトヘルメット,0
--0.01473032,AllYear,5374,698,0,0,0,0,0,0,0,0,0,0,1,,CapBangsFirefighter,しょうぼうしのぼうし,0
+Shaki,AllYear,5374,698,0,0,0,0,0,0,0,0,0,0,1,,CapBangsFirefighter,しょうぼうしのぼうし,0
 None,AllYear,5381,699,0,0,0,1,0,0,0,0,0,0,1,,CapMaskWelder,ようせつマスク,0
 HappyWait,AllYear,5382,700,0,0,0,0,0,1,1,0,0,0,0,,TopsTexTopOuterLChristmas,クリスマスセーター,0
 Tambourine,AllYear,5385,701,0,1,0,1,0,1,0,0,1,0,1,,CapHatClown,ピエロのぼうし,0
@@ -685,13 +685,13 @@ Muscle,AllYear,5368,711,0,0,0,0,0,0,0,1,1,0,1,,CapCostumeWrestling,プロレス�
 None,AllYear,5369,712,0,0,0,0,0,1,0,0,1,0,0,,CapBangsSausage,ホットドッグマスク,0
 None,Winter,10944,713,1,0,0,0,0,0,1,0,0,0,0,,CapBangsEarknit,みみあてつきニット,1
 WalkObservation,AllYear,5371,714,0,0,0,0,0,0,0,0,0,0,1,,CapHatDetective,めいたんていのぼうし,0
--0.01473032,AllYear,5391,715,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceOverallLCyber,サイバースーツ,0
--12.01107,AllYear,5393,716,0,0,0,0,0,0,0,1,1,0,1,,TopsTexOnepieceFigure,フィギュアのドレス,0
+Shaki,AllYear,5391,715,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceOverallLCyber,サイバースーツ,0
+FesDance,AllYear,5393,716,0,0,0,0,0,0,0,1,1,0,1,,TopsTexOnepieceFigure,フィギュアのドレス,0
 None,AllYear,5394,717,0,0,0,0,0,0,0,0,0,0,1,,CapCostumeAstronaut,アストロヘルメット,0
 None,AllYear,5395,718,0,0,0,0,1,0,0,1,0,0,0,,CapMaskPaint,ペイントボールマスク,0
 None,Summer,5398,719,1,0,0,0,0,0,1,0,0,1,0,,CapHatStrawhat,むぎわらぼうし,0
--0.01473032,AllYear,5399,720,1,0,0,0,1,0,0,0,0,0,1,,CapHatTengallon,テンガロンハット,0
--12.01107,AllYear,5404,721,0,0,0,0,0,0,0,1,1,0,1,TshirtsL,TopsTexOnepieceOverallLFigure,フィギュアないしょう,0
+Shaki,AllYear,5399,720,1,0,0,0,1,0,0,0,0,0,1,,CapHatTengallon,テンガロンハット,0
+FesDance,AllYear,5404,721,0,0,0,0,0,0,0,1,1,0,1,TshirtsL,TopsTexOnepieceOverallLFigure,フィギュアないしょう,0
 None,AllYear,5406,723,1,0,0,0,0,0,1,0,0,0,0,,SocksTexCharacter,キャラクターソックス,0
 None,Winter,5408,724,1,0,0,0,1,0,0,0,0,0,0,,CapHatSnowknit,スノーニットぼう,0
 None,Winter,5409,725,1,0,0,0,1,0,0,0,0,0,0,,CapHatColorful,カラフルボーダーニットぼう,0
@@ -708,7 +708,7 @@ None,AllYear,10206,735,1,0,1,0,0,0,0,0,0,0,0,,BottomsTexSkirtAlineLeather,レザ
 None,Summer,5421,736,1,1,0,0,0,0,1,0,0,1,0,,BottomsTexSkirtLongLace,まえボタンレースのスカート,0
 None,AllYear,5422,737,0,0,0,0,0,1,0,0,1,0,0,,BottomsTexSkirtAlineTutu,チュチュスカート,0
 None,AllYear,11802,738,0,1,0,0,0,0,0,0,1,0,1,,CapHelmetHero,ヒーローヘルメット,1
--0.01473032,AllYear,5424,739,0,1,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLPowered,パワードスーツ,0
+Shaki,AllYear,5424,739,0,1,0,0,0,0,0,0,1,0,1,TshirtsL,TopsTexOnepieceOverallLPowered,パワードスーツ,0
 Drink_JuiceGrass,AllYear,5432,740,0,1,1,0,0,1,0,0,1,0,0,,TopsTexOnepieceAlongLRenaissance,ルネッサンスなドレス,0
 None,AllYear,5434,741,1,0,1,0,0,0,0,0,0,0,0,,CapHelmetTurban,ターバン,0
 None,AllYear,10230,742,0,0,0,0,0,0,0,1,0,0,1,,CapCostumeGogglehelmet,ゴーグルつきヘルメット,0
@@ -757,7 +757,7 @@ None,AllYear,5606,789,0,1,0,0,0,1,0,0,1,0,0,,ShoesLowcutLolita,ロリータシ�
 None,AllYear,5607,790,0,0,1,1,0,1,0,0,1,0,0,,CapFullfaceKingtut,ツタンカーメン,0
 None,AllYear,5608,791,0,1,0,0,0,0,0,1,1,0,1,,ShoesLowcutBallet,バレエシューズ,0
 None,AllYear,5609,792,0,0,0,0,0,1,0,0,1,0,1,,ShoesKneeVisual,ヴィジュアルけいブーツ,0
--12.01107,AllYear,5610,793,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceSalopetteLRumba,ルンバないしょう,0
+FesDance,AllYear,5610,793,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceSalopetteLRumba,ルンバないしょう,0
 None,AllYear,10058,794,1,0,0,0,0,0,0,1,0,0,0,,ShoesHighcutRubbertoe,ラバートゥハイカットスニーカー,0
 None,AllYear,5618,795,1,0,0,0,0,0,0,0,0,0,0,,ShoesLowcutClog,きぐつ,0
 None,Summer,10702,796,1,0,0,0,0,0,1,0,0,1,0,,ShoesSandalComfort,コンフォートサンダル,0
@@ -769,7 +769,7 @@ None,Summer,5640,802,0,0,0,0,1,0,1,0,0,1,0,,ShoesSandalOutdoor,アウトドア�
 None,AllYear,5642,803,0,1,0,0,0,1,0,0,1,0,0,,CapHatEgg,たまごのから,0
 None,AllYear,5643,804,0,0,0,0,1,0,0,0,1,0,1,,ShoesKneeWestern,ウェスタンブーツ,0
 None,AllYear,5644,805,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceRibNChick,ひよこなふく,0
--12.01107,AllYear,5645,806,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceAlongHRumba,ルンバなドレス,0
+FesDance,AllYear,5645,806,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceAlongHRumba,ルンバなドレス,0
 None,AllYear,5621,807,1,0,1,0,0,0,0,0,0,0,1,,TopsTexTopTshirtsLSailor,セーラーシャツ,0
 None,AllYear,5622,808,0,0,1,0,0,1,0,0,0,0,0,,ShoesLowcutGgotshin,コッシン,0
 None,Summer,5652,809,0,0,0,0,1,0,1,0,0,1,0,,ShoesSandalAqua,アクアサンダル,0
@@ -779,7 +779,7 @@ None,AllYear,5655,812,0,0,0,0,0,1,0,0,1,0,1,,ShoesLowcutPointedtoe,トンがっ�
 None,AllYear,5658,813,0,0,0,0,1,0,0,0,0,1,1,,TopsTexTopYshirtsLFischerhemd,フィッシャーヘムト,0
 None,AllYear,5659,814,0,0,0,0,1,0,0,1,0,0,0,,ShoesHighcutHightech,ハイテクシューズ,0
 None,Winter,5660,815,0,0,0,0,1,0,0,1,0,0,0,,ShoesKneeSki,スキーブーツ,0
--0.01473032,AllYear,5663,816,0,1,0,0,0,0,0,0,1,0,0,,CapHatCavalier,じゅうきしのぼうし,0
+Shaki,AllYear,5663,816,0,1,0,0,0,0,0,0,1,0,0,,CapHatCavalier,じゅうきしのぼうし,0
 None,AllYear,8843,817,1,0,0,0,0,0,0,0,0,1,0,,BottomsTexPantsHotShaggycheck,シャギーチェックのホットパンツ,0
 None,AllYear,5665,818,0,0,0,0,0,0,1,0,0,1,0,,BottomsTexSkirtLongEnaguas,エナグワス,0
 Drink_JuiceGrass,AllYear,5666,819,0,0,1,0,0,1,0,0,1,0,0,,AccessoryGlassmouthCatrina,スカルキャンディマスク,0
@@ -846,9 +846,9 @@ None,AllYear,5811,885,1,0,1,0,0,0,0,0,0,0,0,,BottomsTexSkirtAlinePatch,レザー
 None,AllYear,5812,886,1,0,1,0,0,1,0,0,0,0,0,,SocksTexSeethrough,シースルーソックス,0
 None,AllYear,5813,887,1,0,0,0,0,0,0,0,0,0,0,,SocksTexWave,せいがいはソックス,0
 None,Summer,5814,888,1,1,0,0,0,0,0,0,0,1,0,,ShoesSandalRibbon,リボンサンダル,0
--12.01107,AllYear,5815,889,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBoxNTango,タンゴなドレス,0
+FesDance,AllYear,5815,889,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBoxNTango,タンゴなドレス,0
 None,AllYear,8731,890,1,0,1,0,0,0,0,0,0,0,0,,BottomsTexSkirtLongWrapbicolor,ボタンのまきスカート,0
--12.01107,AllYear,5817,891,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBoxNFlapper,フラッパードレス,0
+FesDance,AllYear,5817,891,0,0,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceBoxNFlapper,フラッパードレス,0
 None,AllYear,5818,892,0,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceKimonoLKorea,パジチョゴリ,0
 Fan,Summer,5823,893,0,1,0,0,0,0,1,0,0,1,0,,TopsTexOnepieceKimonoLAsagao,あさがおのゆかた,0
 None,AllYear,5824,894,0,0,0,0,1,0,1,1,0,1,0,,ShoesSandalSports,スポーツサンダル,0
@@ -916,7 +916,7 @@ None,AllYear,6839,957,1,0,0,0,1,0,0,0,0,0,0,,BagBackpackTown1,タウンリュッ
 None,AllYear,2550,958,1,0,0,0,1,0,0,0,0,0,0,,BagShoulderTravel,トラベルポーチ,0
 HappyWait,AllYear,7377,959,0,1,0,0,0,1,0,0,0,1,0,,CapOrnamentRose4,バラのかんむり・ブルー,0
 HappyWait,AllYear,7378,960,0,1,0,0,0,1,0,0,0,1,0,,CapOrnamentRose5,バラのかんむり・ゴールド,0
--0.01473032,AllYear,7412,961,0,1,1,0,0,1,0,0,1,0,0,,CapOrnamentCTiara,ティアラ,0
+Shaki,AllYear,7412,961,0,1,1,0,0,1,0,0,1,0,0,,CapOrnamentCTiara,ティアラ,0
 None,AllYear,7470,962,1,0,0,0,1,0,0,1,0,0,0,,BagShoulderMessenger,メッセンジャーバッグ,0
 None,AllYear,7471,963,0,0,0,0,1,0,0,1,0,0,0,,BagBackpackDry,ドライサック,0
 None,AllYear,7476,964,1,0,1,0,0,0,0,0,0,0,0,,BagShoulderLeather,レザーショルダー,0
@@ -995,7 +995,7 @@ None,Summer,8509,1039,1,1,0,0,0,0,0,0,0,1,0,,TopsTexOnepieceAlineNPlaid,シン�
 None,Winter,8609,1040,0,1,0,0,0,1,0,0,1,0,0,,CapCostumeSnowball0,ゆきだるまのぼうし,0
 None,AllYear,8610,1041,0,0,1,0,0,1,0,0,0,0,0,,CapOrnamentLTsumamizaiku,わかざり,1
 None,AllYear,8611,1042,1,0,0,0,0,1,0,0,1,0,0,,CapOrnamentLGaudy,はでなかみかざり,0
--0.01473032,AllYear,8612,1043,0,0,1,0,0,0,0,0,0,0,1,,CapHatCaptainsky,きちょうのぼうし,0
+Shaki,AllYear,8612,1043,0,0,1,0,0,0,0,0,0,0,1,,CapHatCaptainsky,きちょうのぼうし,0
 None,AllYear,8613,1044,1,0,1,0,0,0,0,0,0,0,0,,CapHatStudent,がくせいぼう,1
 None,Summer,8614,1045,0,1,0,0,0,0,0,0,0,1,0,,CapOrnamentLHibiscus,ハイビスカスのかみかざり,0
 None,Summer,9535,1046,1,0,0,0,0,0,1,0,0,1,0,,TopsTexTopTshirtsNStar,ほしがらタンクトップ,0
@@ -1086,13 +1086,13 @@ None,AllYear,8765,1152,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsHFish,さかな�
 None,Summer,11061,1153,0,0,0,0,1,0,1,0,0,1,0,,CapHatOutdoorpine,パインがらアウトドアハット,0
 Sleepy,Winter,12190,1154,0,1,0,0,0,0,1,0,0,0,0,,TopsTexTopCoatLPajamas,もこもこナイトガウン,1
 Sleepy,AllYear,11931,1155,0,0,0,0,0,0,1,0,0,0,0,,TopsTexOnepieceBoxLPajamas,パジャマワンピ,0
--0.01473032,AllYear,11179,1156,0,0,0,0,0,1,0,0,1,0,1,,TopsTexOnepieceBalloonHVisual,ヴィジュアルけいドレス,0
+Shaki,AllYear,11179,1156,0,0,0,0,0,1,0,0,1,0,1,,TopsTexOnepieceBalloonHVisual,ヴィジュアルけいドレス,0
 None,AllYear,10906,1157,1,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceAlongLUzbek,ウズベクなふく,0
 None,AllYear,10907,1158,1,0,1,0,0,0,0,0,0,0,0,,TopsTexOnepieceBlongLAttoushi,アットゥシ,0
 None,AllYear,10908,1159,0,0,0,0,0,0,0,0,1,0,0,,TopsTexOnepieceKimonoLBingata,びんがたいしょう,0
 None,Winter,10909,1160,1,0,0,0,0,0,0,0,0,0,0,,TopsTexTopCoatLDoll,ぬいぐるみマフラーつきコート,0
 None,AllYear,10910,1161,0,0,0,0,1,0,0,0,0,0,1,TshirtsL,TopsTexOnepieceOverallLPaint,ペイントつなぎ,0
--12.01107,AllYear,12025,1162,0,0,0,0,0,1,0,0,1,1,0,,TopsTexOnepieceBoxNSamba,カーニバルなワンピース,0
+FesDance,AllYear,12025,1162,0,0,0,0,0,1,0,0,1,1,0,,TopsTexOnepieceBoxNSamba,カーニバルなワンピース,0
 None,AllYear,10913,1163,1,0,1,0,0,0,0,0,0,0,0,,CapHatUzbek,ウズベクなぼうし,0
 None,AllYear,10914,1164,1,0,1,0,0,0,0,0,0,0,0,,CapHatMatampushi,マタンプシ,0
 None,AllYear,12036,1165,1,0,0,0,0,0,1,0,0,0,0,,TopsTexTopTshirtsHTwo0,No.2のふく,0
@@ -1150,12 +1150,12 @@ None,AllYear,12460,1216,0,1,0,0,0,1,0,0,1,0,0,,ShoesLowcutEggfish,サカナの�
 None,AllYear,12495,1217,0,1,1,0,0,0,0,0,1,0,0,,ShoesLowcutJunepumps,じゅんぱくのパンプス,0
 None,AllYear,12496,1218,0,1,1,0,0,0,0,0,1,0,0,,ShoesLowcutJuneshoes,じゅんぱくのシューズ,0
 Drink_JuiceGrass,AllYear,12497,1219,0,1,1,0,0,0,0,0,1,0,0,TshirtsL,TopsTexOnepieceOverallLJune,じゅんぱくのタキシード,0
--0.01473032,AllYear,12575,1220,0,1,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatHChildren,てづくりのマント,0
+Shaki,AllYear,12575,1220,0,1,0,0,0,0,0,0,1,0,0,,TopsTexTopCoatHChildren,てづくりのマント,0
 SmugFace,AllYear,12576,1221,0,1,0,0,0,0,0,0,1,0,0,,CapOrnamentAChildren,てづくりのおうかん,0
 HappyWait,AllYear,12577,1222,0,1,0,0,0,1,0,0,0,1,0,,CapHatSummer,ひまわりのはなかんむり,0
 None,AllYear,12660,1223,0,1,1,0,0,1,0,0,1,0,0,,ShoesLowcutMermaid,マーメイドなくつ,0
--0.01473032,AllYear,12661,1224,0,1,1,0,0,1,0,0,1,0,0,,CapOrnamentCMermaid,マーメイドなティアラ,0
--0.01473032,AllYear,12662,1225,0,1,0,1,0,0,0,0,1,0,0,,AccessoryGlassPiratespatch,かいぞくのアイパッチ,0
+Shaki,AllYear,12661,1224,0,1,1,0,0,1,0,0,1,0,0,,CapOrnamentCMermaid,マーメイドなティアラ,0
+Shaki,AllYear,12662,1225,0,1,0,1,0,0,0,0,1,0,0,,AccessoryGlassPiratespatch,かいぞくのアイパッチ,0
 None,AllYear,12663,1226,0,1,0,1,0,0,0,0,1,0,0,,AccessoryMouthPirates,かいぞくのひげ,0
 None,AllYear,12664,1227,0,1,1,1,0,0,0,0,1,0,0,,BottomsTexPantsNormalPirates,かいぞくのズボン,0
 None,AllYear,12665,1228,0,1,0,1,0,0,0,0,1,0,0,,ShoesKneePirates,かいぞくのブーツ,0
@@ -1186,7 +1186,7 @@ Gymnastics,AllYear,12981,1259,0,0,0,0,1,0,0,1,0,1,0,TshirtsL,TopsTexMarinesuitNo
 Gymnastics,AllYear,12986,1260,0,0,0,0,1,0,0,1,0,1,0,TshirtsL,TopsTexMarinesuitNormalNGreco,ボーダーのマリンスーツ,0
 Scaring,AllYear,12987,1261,0,1,0,1,0,1,0,0,0,0,0,,TopsTexOnepieceAlongLHalloween,パンプキングローブ,0
 Scaring,AllYear,13390,1262,0,1,0,1,0,1,0,0,0,0,0,TshirtsL,TopsTexOnepieceSalopetteLHalloween,ボロボロなふく,0
--0.01473032,AllYear,12989,1263,0,1,0,1,0,1,0,0,0,0,0,,TopsTexOnepieceBalloonLHalloween,まほうつかいのドレス,0
+Shaki,AllYear,12989,1263,0,1,0,1,0,1,0,0,0,0,0,,TopsTexOnepieceBalloonLHalloween,まほうつかいのドレス,0
 Prank,AllYear,13377,1264,0,1,0,1,0,1,0,0,0,0,0,TshirtsL,TopsTexOnepieceOverallLHalloween,ハデなアニマルきぐるみ,0
 None,AllYear,13402,1265,0,1,0,1,0,1,0,0,0,0,0,,CapFullfaceHalloweenhood,まほうスクールのフード,0
 None,AllYear,13002,1266,0,1,0,1,0,1,0,0,0,0,0,,CapFullfaceHalloween,パンプキングフェイス,0
@@ -1241,7 +1241,7 @@ None,AllYear,13559,1325,0,1,1,0,0,1,0,0,0,0,0,,AccessoryGlassmouthLuigi,ルイ�
 None,AllYear,13560,1326,0,1,1,0,0,1,0,0,0,0,0,,AccessoryGlassmouthWario,ワリオのひげ,0
 None,AllYear,13562,1327,0,1,0,0,0,1,0,0,0,0,0,,ShoesLowcutWario,ワリオのくつ,0
 None,AllYear,13561,1328,0,1,0,0,0,1,0,0,0,0,0,,ShoesLowcutMario,マリオのくつ,0
--0.01473032,AllYear,13563,1329,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentAPeach,ピーチひめのかんむり,0
+Shaki,AllYear,13563,1329,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentAPeach,ピーチひめのかんむり,0
 None,AllYear,13564,1330,0,1,0,0,0,1,0,0,1,0,0,,TopsTexOnepieceDressHPeach,ピーチひめのドレス,0
 None,AllYear,13602,1331,0,1,0,0,0,1,0,0,1,0,0,,ShoesLowcutPeach,ピーチひめのくつ,0
 None,AllYear,13758,1332,1,1,0,0,0,0,0,0,0,0,0,,TopsTexOnepieceBalloonHMymelody,マイメロディなワンピース,0
@@ -1249,7 +1249,7 @@ None,AllYear,13759,1333,1,1,0,0,0,0,0,0,0,0,0,,TopsTexTopYshirtsHMymelody,マイ
 Hula,AllYear,13915,1337,0,0,0,0,0,0,1,0,0,1,0,,TopsTexOnepieceAlineHUniform,タクミライフのムームー,0
 None,AllYear,13920,1342,0,0,0,0,0,0,1,0,0,1,0,,CapOrnamentLPlumeria,プルメリアのかみかざり,0
 None,AllYear,13910,1343,0,1,0,1,0,0,0,0,0,0,0,,CapMaskOkame,おかめのおめん,0
--12.01107,AllYear,14242,1344,0,0,0,0,0,1,0,0,1,1,0,TshirtsL,TopsTexOnepieceSalopetteLCarnival,カーニバルなコスチューム,0
+FesDance,AllYear,14242,1344,0,0,0,0,0,1,0,0,1,1,0,TshirtsL,TopsTexOnepieceSalopetteLCarnival,カーニバルなコスチューム,0
 HappyWait,AllYear,14202,1346,0,1,0,0,1,0,0,0,0,0,0,,CapOrnamentCVine,ツルのかんむり,0
 HappyWait,AllYear,14201,1347,0,1,0,0,1,0,0,0,0,0,0,,CapOrnamentFMoss,ヒカリゴケのカチューシャ,0
 None,AllYear,14199,1348,0,1,0,0,1,0,0,0,0,0,0,,CapCostumeMoss,ヒカリゴケのかぶりもの,0
@@ -1269,7 +1269,7 @@ Drink_JuiceGrass,AllYear,14261,1361,0,0,1,0,0,1,0,0,1,0,0,TshirtsL,TopsTexOnepie
 None,AllYear,14262,1362,0,0,0,0,0,1,0,0,1,0,0,,BagShoulderTasukiprom,プロムなたすき,0
 None,AllYear,14263,1363,0,0,1,0,0,1,0,0,1,0,0,,ShoesLowcutDanceshoes,ダンスシューズ,0
 SmugFace,AllYear,14264,1364,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentCCrownprom,プロムなクラウン,0
--0.01473032,AllYear,14265,1365,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentCTiaraprom,プロムなティアラ,0
+Shaki,AllYear,14265,1365,0,1,0,0,0,1,0,0,1,0,0,,CapOrnamentCTiaraprom,プロムなティアラ,0
 MedicalRecord,AllYear,14269,1366,0,0,0,1,0,0,0,0,0,0,1,,TopsTexTopCoatLWhitecoatDirty,やぶれたはくい,1
 None,Summer,14270,1367,1,0,1,0,0,0,0,0,0,0,0,,TopsTexTopYshirtsHSchoolshirts,はんそでのがくせいふく,1
 None,AllYear,14271,1368,1,0,1,0,0,0,0,0,0,0,0,,TopsTexTopTshirtsLSchoolsailor,ながそでセーラーふく,1
@@ -1358,8 +1358,8 @@ None,AllYear,14785,1458,0,1,0,0,0,0,0,0,1,0,0,,BagShoulderSword,ソードホル�
 None,AllYear,14793,1459,0,0,0,0,1,0,0,0,0,0,1,,CapHatSafetyhatlight,ライトつきヘルメット,0
 None,AllYear,14794,1460,0,0,0,0,1,0,0,1,0,0,1,,TopsTexTopTshirtsNTanktopdirty,よごれたタンクトップ,0
 None,AllYear,14795,1461,1,0,0,0,0,0,0,0,0,1,0,,AccessoryGlassNomal,シンプルなサングラス,1
--0.01473032,AllYear,14797,1462,0,0,1,0,0,0,0,0,0,0,1,,CapHatTrain,しゃしょうさんのぼうし,1
--0.01473032,AllYear,14801,1464,0,0,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatLTrain,しゃしょうさんのジャケット,1
+Shaki,AllYear,14797,1462,0,0,1,0,0,0,0,0,0,0,1,,CapHatTrain,しゃしょうさんのぼうし,1
+Shaki,AllYear,14801,1464,0,0,1,0,0,0,0,0,0,0,1,,TopsTexTopCoatLTrain,しゃしょうさんのジャケット,1
 None,AllYear,14805,1465,1,0,0,0,0,0,1,0,0,1,0,,TopsTexTopTshirtsHRoomwear,ルームウェアのシャツ,1
 None,AllYear,14806,1466,1,0,0,0,0,0,1,0,0,1,0,,BottomsTexPantsHalfRoomwear,ルームウェアのハーフパンツ,1
 None,AllYear,14818,1467,1,0,0,0,0,0,1,0,0,1,0,,TopsTexOnepieceAlongHTakumi,タクミライフのロングワンピース,0

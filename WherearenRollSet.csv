@@ -1,6 +1,6 @@
-f1e40f7e string,481fd496 string,5962beef string,2b54bedd string,b4ab80a4 string,ff8f9405 u16,21c5d786 u8,9979b0e3 u8,8bcc1f0d u8,3297a85e u8,202207b0 u8,989e60d5 u8,56ccf3fd u8,ee709498 u8,fcc53b76 u8,44795c13 u8
+f1e40f7e.HashRef,481fd496.HashRef,5962beef.HashRef,2b54bedd.HashRef,b4ab80a4.HashRef,ff8f9405 u16,21c5d786 u8,9979b0e3 u8,8bcc1f0d u8,3297a85e u8,202207b0 u8,989e60d5 u8,56ccf3fd u8,ee709498 u8,fcc53b76 u8,44795c13 u8
 Random,Random,Random,0,None,0,0,0,0,0,0,0,0,0,0,0
-SchoolLesson,SchoolBreak,Random,-381319.6,SchoolClassRoom,1,50,50,0,2,0,0,1,4,0,0
+SchoolLesson,SchoolBreak,Random,SchoolTeacher,SchoolClassRoom,1,50,50,0,2,0,0,1,4,0,0
 Random,Random,Random,HospitalReception,HospitalWaitingRoom,2,0,0,0,4,0,0,1,3,0,0
 Random,Random,Random,HospitalDoctor,HospitalExaminationRoom,3,0,0,0,6,0,0,1,1,0,0
 Random,Random,Random,HospitalInpatient,HospitalHostitalRoom,4,0,0,0,0,0,0,3,0,0,0
@@ -8,5 +8,5 @@ Random,Random,Random,RestaurantCashier,RestaurantHallRoom,5,0,0,0,9,10,12,1,1,1,
 Random,Random,Random,RestaurantCook,RestaurantKitchenRoom,6,0,0,0,14,0,0,1,1,0,0
 Random,Random,Random,CafeWaiter,CafeHallRoom,7,0,0,0,16,18,0,2,1,3,0
 Random,Random,Random,TailorClerk,TailorHallRoom,8,0,0,0,20,0,0,1,2,0,0
-Random,Random,Random,-3.947181,Restaurant2F,10,0,0,0,0,0,0,2,0,0,0
-Random,Random,Random,CafeCustomer2F,-0.3800534,9,0,0,0,0,0,0,4,0,0,0
+Random,Random,Random,RestaurantCustomer2F,Restaurant2F,10,0,0,0,0,0,0,2,0,0,0
+Random,Random,Random,CafeCustomer2F,Cafe2F,9,0,0,0,0,0,0,4,0,0,0
