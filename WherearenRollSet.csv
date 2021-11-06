@@ -1,4 +1,4 @@
-ActionSet0,ActionSet1,ActionSet2,NpcRole0,b4ab80a4.HashRef,ff8f9405 u16,ActionSetRate0,ActionSetRate1,ActionSetRate2,NpcRole1,NpcRole2,NpcRole3,NpcRoleNum0,NpcRoleNum1,NpcRoleNum2,NpcRoleNum3
+ActionSet0,ActionSet1,ActionSet2,NpcRole0,NpcRoleSet,ff8f9405 u16,ActionSetRate0,ActionSetRate1,ActionSetRate2,NpcRole1,NpcRole2,NpcRole3,NpcRoleNum0,NpcRoleNum1,NpcRoleNum2,NpcRoleNum3
 Random,Random,Random,0,None,0,0,0,0,0,0,0,0,0,0,0
 SchoolLesson,SchoolBreak,Random,SchoolTeacher,SchoolClassRoom,1,50,50,0,2,0,0,1,4,0,0
 Random,Random,Random,HospitalReception,HospitalWaitingRoom,2,0,0,0,4,0,0,1,3,0,0
