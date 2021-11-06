@@ -1,4 +1,4 @@
-21eefaac u32,7e27475f u32,39873d8f u32,EquipRule,UniqueID,e1ec58d6 u16,ASCommand,ActionAngle,767f28cb u8,Evening,Label,Morning,Noon,PointList,62a2abe9 string34
+21eefaac u32,7e27475f u32,39873d8f u32,EquipRule,UniqueID,e1ec58d6 u16,ASCommand,ActionAngle,ActionFlags,Evening,Label,Morning,Noon,PointList,62a2abe9 string34
 0,0,0,2,0,14639,NpcBookExist,0,8,1,Read_S,1,1,11,Unlock_NPC_00
 0,0,0,2,1,14632,NpcEatingExist,0,8,1,Eat_S,1,1,43,Unlock_NPC_00
 0,0,0,2,2,-2,NpcGymnasticsExist,16,4,1,Gym,1,1,0,Unlock_NPC_00

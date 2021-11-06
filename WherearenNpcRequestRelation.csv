@@ -1,4 +1,4 @@
-OrderID1,8b47a7b4 u16,SortIdCNzh,SortIdEUde,SortIdEUen,SortIdEUes,SortIdEUfr,SortIdEUit,SortIdEUnl,SortIdEUru,SortIdJPja,SortIdKRko,SortIdTWzh,SortIdUSen,SortIdUSes,SortIdUSfr,UniqueID,NormalNpc,NpcLabel,Priority,UnlockTiming
+OrderID1,SaveIndex,SortIdCNzh,SortIdEUde,SortIdEUen,SortIdEUes,SortIdEUfr,SortIdEUit,SortIdEUnl,SortIdEUru,SortIdJPja,SortIdKRko,SortIdTWzh,SortIdUSen,SortIdUSes,SortIdUSfr,UniqueID,NormalNpc,NpcLabel,Priority,UnlockTiming
 0,0,436,426,119,117,107,105,119,352,127,218,367,118,117,107,0,1,ant00,0,2
 1,1,8,395,16,25,18,25,16,19,379,423,213,16,25,18,1,1,ant01,0,3
 2,2,303,283,314,35,287,81,314,273,287,418,150,313,35,287,2,1,ant02,0,1

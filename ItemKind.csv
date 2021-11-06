@@ -1,4 +1,4 @@
-FtrIconCaptureType,268e2e2b.HashRef,ItemKindUIType,ItemRemakeType,MessageKind,SLinkType,MultiHoldMaxNum,SaveCountMaxNum,UniqueID,CanBury,CanEat,CanFtr,CanGift,CanNpcBirthdayPresent,CanNpcPresent,CanPlant,CanPut,CanPutWallAndFloor,CanSell,CanSellSimple,CanSetChest,CanSetCloset,CanSetInTrashBox,CanSetItem,CanUsePhotoStudio,923f8e59 u8,CantTakeOver,IsCollectAchievement,Label,Name,29fe5bbd string
+FtrIconCaptureType,268e2e2b.HashRef,ItemKindUIType,ItemRemakeType,MessageKind,SLinkType,MultiHoldMaxNum,SaveCountMaxNum,UniqueID,CanBury,CanEat,CanFtr,CanGift,CanNpcBirthdayPresent,CanNpcPresent,CanPlant,CanPut,CanPutWallAndFloor,CanSell,CanSellSimple,CanSetChest,CanSetCloset,CanSetInTrashBox,CanSetItem,CanUsePhotoStudio,CanUseWherearen,CantTakeOver,IsCollectAchievement,Label,Name,29fe5bbd string
 OnCapture,None,None,Ftr,00_Ftr,FtrUniqueUser,0,0,5,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,Ftr,家具,
 OnCapture,None,Dish,None,02_Dishes,FtrUniqueUser,0,0,156,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,Dishes,料理：食べ物,
 OnCapture,None,Dish,None,02_Dishes,FtrUniqueUser,0,0,297,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,Drink,料理：飲み物,
