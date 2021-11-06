@@ -1,4 +1,4 @@
-MoveSpot1,MoveSpot2,MoveSpot3,MoveSpot4,MoveTool1,MoveTool2,MoveTool3,UniqueID,Label,a0943e31 string35
+MoveSpot1,MoveSpot2,MoveSpot3,MoveSpot4,MoveTool1,MoveTool2,MoveTool3,UniqueID,Label,UnlockFlag
 1,2,3,4,65534,14638,65534,0,First,Unlock_NPC_00
 5,6,7,8,65534,14638,14790,1,Second,Unlock_NPC_04
 9,10,11,0,65534,14638,65534,2,Third,Unlock_NPC_06

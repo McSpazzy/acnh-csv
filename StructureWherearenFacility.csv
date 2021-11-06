@@ -1,4 +1,4 @@
-85a0fa49.HashRef,FloorHeight,DefaultAccessory,DefaultDoor,DefaultRoof,DefaultWall,Door0,DoorMaterial,9c2d6dc6 u16,RoofMaterial,StructureInfoUniqueID,UniqueID,b048092b u32
+85a0fa49.HashRef,FloorHeight,DefaultAccessory,DefaultDoor,DefaultRoof,DefaultWall,Door0,DoorMaterial,9c2d6dc6 u16,RoofMaterial,StructureInfoUniqueID,UniqueID,HasDoorLight
 WOffice,41,0,0,0,0,37,2,22,2,32,0,1
 WS,20,1,49,46,6,42,2,6,2,37,1,1
 WH,14,2,39,36,37,43,6,3,6,38,2,1

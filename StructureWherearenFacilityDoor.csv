@@ -1,4 +1,4 @@
-CustomizeSortID,StructureInfoUniqueID,UniqueID,3440cdd7 u8,ModelName
+CustomizeSortID,StructureInfoUniqueID,UniqueID,IsBeforeUnlock,ModelName
 0,32,0,0,StrcDoorWherearenOfficeA
 0,37,1,1,StrcDoorWherearenSchoolLock
 0,38,2,1,StrcDoorWherearenHospitalLock

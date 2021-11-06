@@ -1,4 +1,4 @@
-NpcFtrActionHoldTime,NpcFtrActionInterest,NpcFtrActionWeather,be2fae51.HashRef,11ae74f8.HashRef,NpcFtrActionTool,UniqueID,Label,Name,fec0cc3d u8,NpcFtrActionAsName,63c52af5 string67
+NpcFtrActionHoldTime,NpcFtrActionInterest,NpcFtrActionWeather,be2fae51.HashRef,11ae74f8.HashRef,NpcFtrActionTool,UniqueID,Label,Name,NpcCanSit,NpcFtrActionAsName,63c52af5 string67
 0,None,None,Ftr,Individual,65534,0,None,なし,0,,
 0,FtrAccess,None,Synchro,Individual,5397,1,Smartphone,撮影,0,NpcSmartPhonePress,
 150,FtrSwitchOn,RainActive,Synchro,Individual,65534,2,Switch,駆動,0,MaReSmiling,
